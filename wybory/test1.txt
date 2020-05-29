@@ -1,0 +1,5915 @@
+10 2 5 7
+3 (1,2) (3,4) (7,8)
+PartiaA PartiaB 
+957780 1023348 
+S S 
+400 660 330 620 600 220 790 490 200 610 
+Kazimierz R 1 PartiaA 1 -23 -95 51 39 -56 24 72
+Justyna F 1 PartiaA 2 41 -13 76 -82 -21 8 92
+Kazimierz A 1 PartiaA 3 -98 -73 -75 -70 -67 -89 68
+Michal U 1 PartiaA 4 -68 -31 -49 75 -52 80 8
+Zofia W 1 PartiaA 5 -50 -58 2 -83 42 -65 27
+Konrad A 1 PartiaA 6 -94 11 58 -27 86 25 -50
+Krzysztof D 1 PartiaA 7 73 62 -20 -15 -18 -78 -11
+Jan N 1 PartiaA 8 27 -92 12 91 -83 -29 -41
+Konrad E 1 PartiaA 9 45 33 -77 23 -44 83 36
+Marta N 1 PartiaA 10 -73 41 -49 52 -42 -27 -34
+Dorota N 1 PartiaA 11 -42 12 58 30 -75 -70 11
+Filip N 1 PartiaA 12 -67 85 -85 -52 -88 74 96
+Grzegorz F 1 PartiaA 13 -83 100 -74 19 30 -35 48
+Janusz H 1 PartiaA 14 97 -38 20 -96 30 47 -68
+Joanna S 1 PartiaA 15 75 71 -50 65 -82 94 71
+Maria J 1 PartiaA 16 -70 11 99 -64 2 -19 -42
+Elzbieta A 1 PartiaA 17 21 -77 76 -53 -58 -70 56
+Dawid R 1 PartiaA 18 -97 -8 -62 30 84 -97 28
+Elzbieta S 1 PartiaA 19 89 -28 -60 100 -78 -89 -84
+Malgorzata N 1 PartiaA 20 4 -90 -58 -29 87 65 -7
+Filip G 1 PartiaA 21 -36 -17 -36 -64 34 -89 51
+Krzysztof U 1 PartiaA 22 76 6 63 -75 68 5 14
+Marta E 1 PartiaA 23 -85 -14 66 -2 -51 0 77
+Konrad Z 1 PartiaA 24 69 4 55 94 -88 30 -14
+Maria U 1 PartiaA 25 -25 -22 9 -29 -76 -19 -31
+Dorota H 1 PartiaA 26 92 68 -90 -70 44 -2 72
+Pawel C 1 PartiaA 27 -36 -92 30 -22 99 -30 67
+Justyna P 1 PartiaA 28 20 -20 70 -67 -97 -91 -81
+Janusz M 1 PartiaA 29 -36 -3 26 -68 -84 0 57
+Ewa F 1 PartiaA 30 17 21 -2 3 -28 -65 -64
+Ewa K 1 PartiaA 31 3 -29 -66 63 -52 -7 -95
+Elzbieta B 1 PartiaA 32 -35 -26 70 77 -13 -31 71
+Marta N 1 PartiaA 33 -30 33 88 -22 -42 -12 12
+Agnieszka K 1 PartiaA 34 60 53 28 -70 44 -13 -49
+Konrad H 1 PartiaA 35 10 -94 29 -60 20 -32 61
+Piotr N 1 PartiaA 36 -99 -7 -20 -35 9 7 -70
+Filip I 1 PartiaA 37 -86 -99 6 -35 -14 26 58
+Janusz L 1 PartiaA 38 51 -85 0 63 6 -7 93
+Janusz U 1 PartiaA 39 -46 57 -57 71 -51 -75 17
+Agnieszka Z 1 PartiaA 40 -98 49 -52 -66 36 -36 16
+Malgorzata O 1 PartiaB 1 -1 11 42 -31 -84 -67 25
+Malgorzata P 1 PartiaB 2 -23 11 12 1 -6 -77 68
+Elzbieta H 1 PartiaB 3 48 63 -37 -80 -8 9 16
+Dawid J 1 PartiaB 4 8 41 85 -52 87 75 -64
+Dawid I 1 PartiaB 5 -49 -72 -78 2 -63 99 -83
+Kazimierz W 1 PartiaB 6 -91 32 10 -95 -15 -47 96
+Kazimierz N 1 PartiaB 7 -68 79 75 16 12 67 86
+Malgorzata A 1 PartiaB 8 -100 18 -18 -52 79 16 -93
+Piotr D 1 PartiaB 9 -52 44 98 25 68 -87 -41
+Anna L 1 PartiaB 10 -18 -73 18 61 -82 93 43
+Ewa M 1 PartiaB 11 95 -77 -92 98 26 -16 -85
+Filip R 1 PartiaB 12 26 -87 -20 -8 41 -26 -54
+Elzbieta S 1 PartiaB 13 -5 -83 44 -71 -37 50 -59
+Malgorzata E 1 PartiaB 14 -87 -36 -79 -73 72 87 91
+Anna K 1 PartiaB 15 -77 77 -65 37 77 -55 -95
+Krzysztof A 1 PartiaB 16 70 45 98 -70 0 13 51
+Anna I 1 PartiaB 17 13 54 -24 93 -80 70 77
+Anna U 1 PartiaB 18 -35 -89 87 14 5 42 83
+Malgorzata E 1 PartiaB 19 -32 27 3 -66 70 95 96
+Maria A 1 PartiaB 20 13 67 47 66 -35 14 67
+Anna P 1 PartiaB 21 36 -11 -45 26 33 68 46
+Marta A 1 PartiaB 22 -90 -34 -48 3 -46 -26 64
+Alina F 1 PartiaB 23 -76 -38 -91 89 -43 -34 -61
+Joanna A 1 PartiaB 24 -25 -88 26 92 -21 33 53
+Malgorzata O 1 PartiaB 25 -26 -95 -16 -67 48 -51 2
+Konrad U 1 PartiaB 26 18 8 -70 -26 -90 81 -43
+Grzegorz E 1 PartiaB 27 44 -59 72 50 -80 -64 -16
+Michal K 1 PartiaB 28 -49 -57 50 -79 -14 -22 -55
+Kazimierz J 1 PartiaB 29 -65 48 -52 -98 53 72 -99
+Janusz P 1 PartiaB 30 78 -39 -81 -57 -47 -26 -16
+Jacek L 1 PartiaB 31 25 80 -67 -8 64 33 70
+Joanna M 1 PartiaB 32 -81 -67 -6 12 -23 28 -84
+Alina I 1 PartiaB 33 50 31 94 -58 29 -13 98
+Dawid P 1 PartiaB 34 -25 28 -87 -54 -69 -92 62
+Pawel P 1 PartiaB 35 53 -7 80 -98 -92 35 -17
+Ewa C 1 PartiaB 36 -55 40 87 11 23 57 49
+Konrad Z 1 PartiaB 37 76 78 6 35 63 -54 -46
+Konrad R 1 PartiaB 38 -99 -81 9 31 -79 96 43
+Marta K 1 PartiaB 39 -99 -15 11 -41 -75 -29 -67
+Konrad A 1 PartiaB 40 -46 -31 -1 -82 -98 -82 -82
+Janusz H 2 PartiaA 1 98 82 -14 91 -82 -31 10
+Filip J 2 PartiaA 2 6 73 -86 -7 -45 -86 -88
+Zofia N 2 PartiaA 3 79 51 -65 -56 16 56 -55
+Filip B 2 PartiaA 4 12 -35 -35 0 28 99 93
+Marta H 2 PartiaA 5 15 -79 34 -11 87 36 -17
+Alina T 2 PartiaA 6 -44 39 93 -72 -74 -33 -33
+Anna R 2 PartiaA 7 -50 15 83 -29 -31 81 -46
+Dorota H 2 PartiaA 8 64 -13 45 -69 -4 77 55
+Agnieszka R 2 PartiaA 9 24 -65 8 8 82 66 15
+Jacek Z 2 PartiaA 10 -98 -82 51 -48 6 -52 -78
+Jan N 2 PartiaA 11 89 -83 -76 44 -19 50 -38
+Janusz G 2 PartiaA 12 35 17 -75 -66 -31 -98 -52
+Kazimierz E 2 PartiaA 13 -49 55 93 96 7 -67 -71
+Krzysztof S 2 PartiaA 14 -41 15 -22 15 -98 10 4
+Elzbieta M 2 PartiaA 15 9 -30 -5 55 -76 24 55
+Michal Z 2 PartiaA 16 -19 -20 -39 -48 -44 90 -14
+Elzbieta U 2 PartiaA 17 -1 34 67 15 92 33 77
+Zofia R 2 PartiaA 18 73 -39 35 -80 -92 17 -55
+Dorota T 2 PartiaA 19 -94 18 -79 -28 -82 -43 -88
+Marta F 2 PartiaA 20 3 46 62 41 15 -48 6
+Anna L 2 PartiaA 21 87 -90 76 -79 -2 2 -21
+Dawid A 2 PartiaA 22 -63 66 85 84 -4 -29 9
+Elzbieta O 2 PartiaA 23 47 67 85 -94 36 37 -42
+Zofia H 2 PartiaA 24 -99 4 -97 94 -27 80 -29
+Konrad Z 2 PartiaA 25 -81 -72 -87 0 83 -34 99
+Anna Z 2 PartiaA 26 -7 -1 51 50 11 -14 3
+Jacek H 2 PartiaA 27 -46 10 -45 -60 -69 99 67
+Krzysztof S 2 PartiaA 28 -30 82 52 -59 91 9 -97
+Krzysztof Z 2 PartiaA 29 -91 -86 -21 70 7 100 -75
+Konrad A 2 PartiaA 30 -41 64 -79 -9 -13 31 -100
+Jacek B 2 PartiaA 31 -45 89 -70 34 -94 -20 45
+Joanna D 2 PartiaA 32 3 -24 54 38 43 -16 17
+Zofia J 2 PartiaA 33 -63 91 -49 -99 42 8 -89
+Elzbieta M 2 PartiaA 34 63 74 -31 -89 7 79 35
+Alina O 2 PartiaA 35 -68 -22 -29 -95 54 -23 -25
+Zofia C 2 PartiaA 36 94 -36 -29 -86 -93 100 92
+Grzegorz U 2 PartiaA 37 -91 42 -50 -22 -66 44 -38
+Alina E 2 PartiaA 38 86 85 73 25 88 -37 89
+Malgorzata H 2 PartiaA 39 -39 7 -70 60 -91 -51 -14
+Jacek K 2 PartiaA 40 3 -99 78 15 -32 11 -6
+Konrad N 2 PartiaA 41 -24 55 -20 89 21 85 76
+Marta W 2 PartiaA 42 -74 99 29 50 -98 -84 -88
+Janusz L 2 PartiaA 43 99 28 -88 92 87 -46 -82
+Krzysztof C 2 PartiaA 44 26 32 31 -94 -45 65 -66
+Piotr I 2 PartiaA 45 -75 41 -3 23 -5 -65 94
+Kazimierz E 2 PartiaA 46 -84 62 -51 38 49 -45 -17
+Kazimierz C 2 PartiaA 47 -83 79 -62 44 96 51 59
+Zofia Z 2 PartiaA 48 0 -55 -54 -69 71 -12 54
+Ewa B 2 PartiaA 49 -15 -94 17 -44 15 42 39
+Krzysztof B 2 PartiaA 50 -38 -18 21 22 52 79 -85
+Justyna J 2 PartiaA 51 -41 47 -17 -58 94 43 -14
+Joanna G 2 PartiaA 52 78 -55 24 45 -14 80 -55
+Maria F 2 PartiaA 53 -100 -70 -60 -36 -45 -67 -18
+Filip K 2 PartiaA 54 -89 57 -53 74 -57 -76 -81
+Pawel G 2 PartiaA 55 12 -79 76 -94 10 -27 -5
+Maria I 2 PartiaA 56 -48 97 -16 -57 -86 -38 62
+Justyna J 2 PartiaA 57 -36 19 0 12 -48 52 -33
+Janusz H 2 PartiaA 58 12 -93 -11 27 22 35 -56
+Elzbieta D 2 PartiaA 59 88 -31 -76 66 -73 41 -63
+Michal M 2 PartiaA 60 -45 -63 -6 15 -72 60 52
+Joanna O 2 PartiaA 61 69 47 -87 94 20 48 -54
+Zofia D 2 PartiaA 62 64 -55 95 76 17 -91 90
+Grzegorz O 2 PartiaA 63 -54 -70 -10 9 72 52 -15
+Piotr H 2 PartiaA 64 19 22 -38 -84 30 65 96
+Michal A 2 PartiaA 65 -53 -56 82 7 93 32 -76
+Kazimierz M 2 PartiaA 66 7 -99 25 28 5 -32 -24
+Agnieszka J 2 PartiaB 1 -74 67 -49 18 34 -59 29
+Anna K 2 PartiaB 2 90 -21 67 -50 -57 -2 -41
+Ewa E 2 PartiaB 3 12 23 -49 27 -89 61 76
+Grzegorz A 2 PartiaB 4 -29 88 -79 16 -34 -77 -15
+Pawel M 2 PartiaB 5 27 -93 -91 23 11 54 49
+Piotr Z 2 PartiaB 6 12 -87 -97 69 -15 -90 -99
+Anna L 2 PartiaB 7 -18 4 -85 73 -19 95 -39
+Krzysztof B 2 PartiaB 8 -56 69 53 44 14 -63 -69
+Grzegorz L 2 PartiaB 9 1 23 99 -2 80 69 7
+Kazimierz B 2 PartiaB 10 85 29 -55 -7 -53 -84 -81
+Agnieszka B 2 PartiaB 11 -62 -14 -69 56 -94 0 -50
+Kazimierz K 2 PartiaB 12 -40 -37 24 71 -30 30 50
+Anna U 2 PartiaB 13 -35 -87 -34 28 53 -35 -99
+Alina S 2 PartiaB 14 -92 -83 29 33 11 -24 -33
+Grzegorz I 2 PartiaB 15 92 -100 -15 -6 72 -40 88
+Alina H 2 PartiaB 16 78 79 69 53 74 -92 -80
+Maria C 2 PartiaB 17 0 -18 85 -28 67 0 19
+Pawel H 2 PartiaB 18 -13 52 -18 0 -79 -10 -39
+Jan N 2 PartiaB 19 -16 -81 16 90 9 -68 95
+Zofia T 2 PartiaB 20 99 -48 95 92 97 68 75
+Grzegorz T 2 PartiaB 21 -53 67 -21 4 -93 -13 -71
+Filip E 2 PartiaB 22 -75 58 37 -56 83 -76 31
+Jacek D 2 PartiaB 23 50 17 51 -51 2 6 -52
+Konrad F 2 PartiaB 24 -55 -77 96 -82 -35 -70 -5
+Joanna E 2 PartiaB 25 26 96 -90 29 78 -71 -94
+Dawid F 2 PartiaB 26 -89 35 7 -19 67 34 -24
+Justyna T 2 PartiaB 27 95 68 22 43 -78 84 -30
+Elzbieta H 2 PartiaB 28 32 -2 -48 81 86 -86 -76
+Dorota G 2 PartiaB 29 -16 -52 -16 2 -61 98 5
+Elzbieta I 2 PartiaB 30 -14 23 56 39 -5 34 33
+Alina N 2 PartiaB 31 -19 13 37 100 -56 -96 95
+Pawel P 2 PartiaB 32 -67 -82 31 30 -82 23 40
+Elzbieta W 2 PartiaB 33 51 99 -13 -81 -26 -49 -71
+Joanna K 2 PartiaB 34 11 -1 -49 -6 -69 -55 27
+Ewa I 2 PartiaB 35 68 -58 -81 89 87 -39 72
+Filip S 2 PartiaB 36 -86 16 -81 -62 79 10 39
+Krzysztof O 2 PartiaB 37 25 -76 18 45 50 13 23
+Filip C 2 PartiaB 38 -44 79 36 -82 30 20 -59
+Alina M 2 PartiaB 39 53 -79 -99 42 84 -84 -55
+Dawid B 2 PartiaB 40 -30 0 -61 64 0 -72 -22
+Zofia J 2 PartiaB 41 11 1 -52 6 28 -14 100
+Maria S 2 PartiaB 42 -32 89 -43 49 86 51 -49
+Agnieszka S 2 PartiaB 43 66 44 44 49 -32 -87 -19
+Maria M 2 PartiaB 44 40 -69 -100 15 -28 -38 83
+Marta C 2 PartiaB 45 -9 31 -34 46 24 12 14
+Kazimierz C 2 PartiaB 46 81 -24 -63 5 -41 -51 38
+Dorota H 2 PartiaB 47 15 -19 -51 -1 63 -91 46
+Anna E 2 PartiaB 48 38 43 -59 -100 51 97 66
+Konrad C 2 PartiaB 49 -100 79 -84 -84 -31 43 -75
+Alina K 2 PartiaB 50 75 -74 -40 -20 61 -58 -80
+Ewa C 2 PartiaB 51 6 -13 -25 75 -70 42 69
+Piotr J 2 PartiaB 52 84 30 -50 -69 43 25 -55
+Piotr U 2 PartiaB 53 41 -96 6 51 85 76 -8
+Michal I 2 PartiaB 54 -1 -53 84 61 69 -89 64
+Jacek U 2 PartiaB 55 -72 -1 -12 15 -42 1 -73
+Malgorzata U 2 PartiaB 56 69 23 17 -36 82 67 100
+Zofia N 2 PartiaB 57 43 4 -43 69 66 -31 98
+Jan D 2 PartiaB 58 -60 7 24 -70 32 40 56
+Filip N 2 PartiaB 59 27 -38 -67 -88 -9 -51 -89
+Anna Z 2 PartiaB 60 72 58 -76 -88 -7 -87 -66
+Alina K 2 PartiaB 61 72 44 65 35 0 1 35
+Malgorzata N 2 PartiaB 62 -34 54 89 -38 60 95 73
+Michal C 2 PartiaB 63 -82 -64 55 -32 -2 -65 4
+Jacek R 2 PartiaB 64 59 98 92 -43 -50 51 -37
+Michal G 2 PartiaB 65 -12 -30 -21 44 79 -27 81
+Dawid O 2 PartiaB 66 45 35 66 25 73 69 92
+Zofia A 3 PartiaA 1 -81 -8 73 47 23 3 -9
+Marta A 3 PartiaA 2 94 39 -83 21 29 -10 -3
+Maria H 3 PartiaA 3 80 89 83 -84 -70 2 -59
+Dawid L 3 PartiaA 4 37 -69 27 23 -71 82 41
+Dawid H 3 PartiaA 5 -19 -59 48 -87 -45 81 -92
+Zofia O 3 PartiaA 6 13 -100 -70 1 35 75 81
+Dawid M 3 PartiaA 7 -61 30 83 79 -7 -31 -67
+Alina T 3 PartiaA 8 8 84 -58 44 12 -61 100
+Jan I 3 PartiaA 9 -78 39 53 1 60 -65 -70
+Marta M 3 PartiaA 10 -91 -87 -17 30 -67 -71 -6
+Malgorzata G 3 PartiaA 11 45 -79 39 -4 58 -99 83
+Marta D 3 PartiaA 12 -14 -37 95 47 -38 79 -94
+Krzysztof M 3 PartiaA 13 1 -30 51 5 -37 -92 42
+Alina N 3 PartiaA 14 34 -35 19 -92 -94 52 -88
+Malgorzata P 3 PartiaA 15 -13 83 -8 -93 76 -4 30
+Alina R 3 PartiaA 16 -69 21 99 -17 31 -14 99
+Jacek I 3 PartiaA 17 75 -85 58 86 33 -37 -20
+Grzegorz L 3 PartiaA 18 53 11 43 21 44 -89 26
+Agnieszka B 3 PartiaA 19 -21 -53 72 -30 -16 -60 -24
+Marta W 3 PartiaA 20 97 76 11 85 1 50 -8
+Ewa S 3 PartiaA 21 96 38 -62 -62 74 21 60
+Justyna W 3 PartiaA 22 17 56 -56 -49 96 -92 25
+Agnieszka M 3 PartiaA 23 -1 -47 64 -39 20 -77 -54
+Maria T 3 PartiaA 24 27 77 -71 6 60 -88 -56
+Krzysztof L 3 PartiaA 25 41 69 83 93 -23 81 92
+Anna A 3 PartiaA 26 5 56 -94 77 7 7 -52
+Agnieszka C 3 PartiaA 27 80 87 23 56 20 -64 88
+Konrad J 3 PartiaA 28 9 -4 13 14 45 -89 -35
+Dawid N 3 PartiaA 29 -33 -9 -56 21 -85 38 -75
+Grzegorz D 3 PartiaA 30 35 -100 8 93 -94 -50 -76
+Jacek L 3 PartiaA 31 25 -17 61 -34 78 3 0
+Michal G 3 PartiaA 32 69 75 51 -90 -83 -9 -41
+Jan I 3 PartiaA 33 53 0 -78 -99 -27 44 14
+Alina O 3 PartiaB 1 -96 71 26 -59 14 87 84
+Malgorzata D 3 PartiaB 2 66 -45 6 5 -92 -35 -98
+Krzysztof C 3 PartiaB 3 -72 49 83 -1 91 -43 66
+Dorota K 3 PartiaB 4 -46 74 -33 3 -87 -22 -8
+Grzegorz U 3 PartiaB 5 3 83 -79 66 -12 -28 12
+Filip J 3 PartiaB 6 15 -31 15 -84 -20 60 -53
+Konrad W 3 PartiaB 7 71 -95 -95 -13 -24 -59 -67
+Jacek T 3 PartiaB 8 -65 -8 -17 88 -54 28 -31
+Krzysztof P 3 PartiaB 9 90 -68 91 -84 -91 42 -8
+Marta U 3 PartiaB 10 25 -90 72 95 -17 71 60
+Malgorzata O 3 PartiaB 11 58 20 -86 -71 32 -58 -83
+Michal C 3 PartiaB 12 -17 -54 -27 36 -3 -61 40
+Elzbieta H 3 PartiaB 13 -79 -80 -64 -54 22 2 -5
+Zofia U 3 PartiaB 14 -74 66 -90 60 -56 35 -45
+Maria M 3 PartiaB 15 81 47 -59 -68 68 -77 38
+Janusz I 3 PartiaB 16 -26 1 9 81 45 -95 -64
+Jacek J 3 PartiaB 17 -71 4 -83 -62 -100 -69 -81
+Michal C 3 PartiaB 18 54 53 -3 -36 2 -35 -85
+Pawel F 3 PartiaB 19 -48 -75 -93 -78 -37 81 41
+Michal T 3 PartiaB 20 -48 -60 88 -79 -84 -90 16
+Konrad K 3 PartiaB 21 -50 -91 8 62 75 -2 -33
+Zofia J 3 PartiaB 22 -73 -97 59 -9 -54 -35 87
+Kazimierz S 3 PartiaB 23 -18 -92 34 -74 -42 28 55
+Michal M 3 PartiaB 24 88 -27 100 40 -15 74 -93
+Maria S 3 PartiaB 25 -83 44 -78 41 99 -57 -96
+Agnieszka W 3 PartiaB 26 24 -82 -21 -44 91 -21 0
+Jan B 3 PartiaB 27 -33 38 -96 73 10 74 -25
+Maria D 3 PartiaB 28 -86 -58 90 -39 -96 0 100
+Dawid E 3 PartiaB 29 -25 -94 10 31 90 18 -16
+Maria L 3 PartiaB 30 -53 -22 -39 -86 -47 79 31
+Kazimierz A 3 PartiaB 31 -5 -47 82 -53 58 67 24
+Michal G 3 PartiaB 32 -39 -8 66 57 24 -71 -79
+Malgorzata A 3 PartiaB 33 -95 30 60 -55 -41 41 -95
+Malgorzata W 4 PartiaA 1 -93 30 5 -32 86 17 -90
+Filip B 4 PartiaA 2 91 55 74 -43 -3 -53 49
+Grzegorz H 4 PartiaA 3 44 45 -4 -4 89 73 24
+Alina A 4 PartiaA 4 -64 -29 -2 -89 -29 -18 -2
+Kazimierz T 4 PartiaA 5 55 -28 -64 32 79 29 14
+Maria B 4 PartiaA 6 -94 -85 97 -65 -50 -83 82
+Krzysztof F 4 PartiaA 7 -28 -21 -11 -60 -65 31 -36
+Dorota C 4 PartiaA 8 -37 -23 75 -93 -59 18 45
+Ewa G 4 PartiaA 9 -69 -17 91 100 80 -1 73
+Ewa W 4 PartiaA 10 77 93 -91 65 92 -54 52
+Jacek A 4 PartiaA 11 61 25 7 -19 67 25 -20
+Marta B 4 PartiaA 12 -64 -91 86 56 -43 -59 -60
+Michal G 4 PartiaA 13 3 -66 99 -7 39 -33 45
+Agnieszka F 4 PartiaA 14 76 -92 71 -59 -13 50 -99
+Elzbieta J 4 PartiaA 15 90 -14 50 36 43 -19 -76
+Grzegorz M 4 PartiaA 16 -27 -88 -29 -21 -20 -71 13
+Michal B 4 PartiaA 17 23 39 -72 43 7 -49 -99
+Joanna C 4 PartiaA 18 14 -92 63 -32 -35 56 -5
+Justyna O 4 PartiaA 19 95 -4 -98 -7 52 -46 85
+Malgorzata D 4 PartiaA 20 34 -27 -86 50 -75 86 18
+Justyna D 4 PartiaA 21 -22 54 -24 -100 -88 37 25
+Malgorzata W 4 PartiaA 22 -15 -7 92 -53 26 84 -100
+Dawid G 4 PartiaA 23 97 -9 73 -71 86 -33 27
+Jan B 4 PartiaA 24 17 23 9 29 -28 -73 17
+Michal Z 4 PartiaA 25 29 -1 79 -3 -47 -70 -59
+Pawel J 4 PartiaA 26 61 -88 -90 52 73 51 -2
+Filip C 4 PartiaA 27 75 42 42 33 -63 34 -23
+Krzysztof H 4 PartiaA 28 -87 -98 29 3 -30 62 -67
+Konrad A 4 PartiaA 29 -71 26 -95 21 80 -50 -92
+Marta G 4 PartiaA 30 45 -25 4 25 35 50 42
+Jan E 4 PartiaA 31 -88 13 74 26 -58 56 -2
+Filip L 4 PartiaA 32 11 -72 74 28 -17 45 18
+Marta P 4 PartiaA 33 36 24 -7 95 71 -83 95
+Pawel O 4 PartiaA 34 -31 22 31 -17 28 -59 45
+Alina D 4 PartiaA 35 81 24 34 -1 -3 94 -79
+Filip E 4 PartiaA 36 -41 45 62 -58 -77 66 -6
+Pawel N 4 PartiaA 37 -30 67 -81 -15 -72 53 73
+Marta T 4 PartiaA 38 -17 1 -57 -7 15 0 -94
+Justyna S 4 PartiaA 39 3 4 -20 65 -71 -9 20
+Zofia E 4 PartiaA 40 1 49 -66 85 83 14 -43
+Piotr N 4 PartiaA 41 22 -49 -25 5 -62 -8 9
+Kazimierz M 4 PartiaA 42 -41 20 -69 45 13 49 -55
+Jan N 4 PartiaA 43 62 66 -49 23 -22 59 -86
+Dorota I 4 PartiaA 44 -46 -13 5 -11 -13 -58 0
+Krzysztof B 4 PartiaA 45 -95 38 47 79 -58 2 49
+Elzbieta Z 4 PartiaA 46 -86 -91 5 -99 -63 -15 -19
+Ewa L 4 PartiaA 47 50 -80 20 -47 12 -74 53
+Piotr B 4 PartiaA 48 85 -64 -14 73 -37 34 86
+Krzysztof Z 4 PartiaA 49 -45 97 49 -21 -37 -73 12
+Zofia H 4 PartiaA 50 9 6 -91 12 -37 71 4
+Maria N 4 PartiaA 51 6 87 69 61 -59 -98 90
+Janusz Z 4 PartiaA 52 84 56 66 -31 -69 -37 50
+Alina J 4 PartiaA 53 -42 -65 -84 14 22 92 50
+Malgorzata B 4 PartiaA 54 -73 100 -55 -55 -87 -5 -45
+Krzysztof Z 4 PartiaA 55 -72 34 -99 99 96 -62 57
+Dawid E 4 PartiaA 56 -32 96 -43 -53 -100 95 -80
+Grzegorz A 4 PartiaA 57 54 -99 -42 -20 70 18 4
+Grzegorz P 4 PartiaA 58 -54 32 38 19 -86 68 -62
+Piotr T 4 PartiaA 59 86 18 78 -33 54 78 -78
+Jacek B 4 PartiaA 60 -75 -24 -76 89 33 -51 -27
+Grzegorz H 4 PartiaA 61 -49 8 -77 -51 52 -9 60
+Alina J 4 PartiaA 62 -99 -58 96 83 -52 -75 94
+Dawid K 4 PartiaB 1 -55 70 -39 7 -18 5 -95
+Konrad J 4 PartiaB 2 -14 -25 -59 77 93 22 21
+Jan J 4 PartiaB 3 -8 -68 -93 -18 -39 34 68
+Agnieszka U 4 PartiaB 4 -79 -29 91 67 -83 -31 -50
+Jacek M 4 PartiaB 5 45 -43 -25 -7 -2 58 55
+Grzegorz A 4 PartiaB 6 -32 -35 -36 91 25 50 -58
+Zofia M 4 PartiaB 7 76 -38 14 -7 -69 -71 -45
+Alina W 4 PartiaB 8 -5 4 53 -2 52 -46 58
+Michal W 4 PartiaB 9 -24 -45 -7 -32 -43 47 16
+Jacek A 4 PartiaB 10 70 -46 35 50 -23 73 -59
+Dorota H 4 PartiaB 11 84 -65 9 42 -74 16 -50
+Dawid K 4 PartiaB 12 -78 -49 -77 -40 -48 64 -75
+Justyna C 4 PartiaB 13 93 57 48 -43 -25 44 100
+Alina E 4 PartiaB 14 25 41 -58 75 54 -78 36
+Michal F 4 PartiaB 15 -98 -52 81 48 62 -40 13
+Dorota U 4 PartiaB 16 33 77 26 46 -87 -20 -92
+Ewa C 4 PartiaB 17 5 -97 -45 -15 -91 19 33
+Alina U 4 PartiaB 18 83 100 -24 -67 99 -89 12
+Filip N 4 PartiaB 19 -82 30 -39 -75 -40 26 -94
+Pawel F 4 PartiaB 20 -65 -45 -70 -64 -22 10 -35
+Marta G 4 PartiaB 21 -13 4 -53 -77 -13 -75 100
+Janusz E 4 PartiaB 22 -24 96 -87 -24 -64 -70 -40
+Michal D 4 PartiaB 23 -57 -70 65 85 93 -53 -83
+Elzbieta Z 4 PartiaB 24 98 17 5 -18 -50 -41 9
+Ewa Z 4 PartiaB 25 -58 -32 27 -47 31 -83 -16
+Joanna B 4 PartiaB 26 43 23 31 -69 -2 -64 -28
+Ewa D 4 PartiaB 27 -55 -52 -89 34 27 17 -35
+Dawid R 4 PartiaB 28 85 -48 24 63 55 76 -43
+Kazimierz I 4 PartiaB 29 4 -6 -66 3 -91 -62 -65
+Malgorzata C 4 PartiaB 30 81 -37 83 -21 -52 18 2
+Marta F 4 PartiaB 31 -41 54 5 12 87 72 45
+Dawid U 4 PartiaB 32 -55 46 72 -12 -71 -26 -8
+Grzegorz M 4 PartiaB 33 -91 90 59 17 -11 -4 95
+Alina S 4 PartiaB 34 -8 54 82 64 -53 35 29
+Agnieszka Z 4 PartiaB 35 -9 -6 14 -99 -57 -83 13
+Kazimierz O 4 PartiaB 36 38 -71 -31 -66 47 72 -51
+Janusz F 4 PartiaB 37 -44 91 13 -27 61 -45 41
+Maria G 4 PartiaB 38 -96 -55 81 79 48 23 -50
+Kazimierz I 4 PartiaB 39 80 46 -33 -17 -22 71 14
+Pawel M 4 PartiaB 40 32 -98 -19 -91 57 13 88
+Marta G 4 PartiaB 41 -40 85 -97 -83 91 -35 70
+Ewa J 4 PartiaB 42 69 59 -22 30 -96 96 53
+Malgorzata L 4 PartiaB 43 -98 8 89 -46 53 2 86
+Dorota T 4 PartiaB 44 2 -8 8 -94 -83 -75 81
+Agnieszka T 4 PartiaB 45 68 78 63 -36 62 -21 -12
+Michal T 4 PartiaB 46 51 -97 11 58 21 -26 -81
+Zofia I 4 PartiaB 47 -75 42 -25 -81 73 72 -27
+Filip G 4 PartiaB 48 -56 -95 -73 25 55 26 24
+Filip R 4 PartiaB 49 18 -99 -68 -50 10 15 12
+Filip H 4 PartiaB 50 -13 72 87 84 85 2 37
+Joanna Z 4 PartiaB 51 -97 -53 -100 69 53 -76 100
+Pawel U 4 PartiaB 52 13 -99 59 50 59 33 45
+Alina K 4 PartiaB 53 74 29 4 -61 54 -89 -82
+Joanna O 4 PartiaB 54 28 -72 -90 -20 77 -96 -63
+Jacek L 4 PartiaB 55 30 55 88 -83 74 71 42
+Anna L 4 PartiaB 56 -76 58 -1 -10 -41 37 1
+Jacek O 4 PartiaB 57 -33 -39 -98 -12 34 -29 -4
+Piotr D 4 PartiaB 58 -10 -89 -75 83 93 32 -69
+Piotr N 4 PartiaB 59 -97 100 75 40 -23 5 84
+Maria A 4 PartiaB 60 -87 -52 99 -50 -84 -65 73
+Anna T 4 PartiaB 61 -57 18 63 -46 -40 -20 84
+Filip F 4 PartiaB 62 -98 -46 29 79 61 13 93
+Maria C 5 PartiaA 1 -89 72 64 -93 54 29 96
+Joanna W 5 PartiaA 2 -87 -43 81 17 -84 47 72
+Grzegorz R 5 PartiaA 3 -58 2 12 86 63 17 46
+Michal M 5 PartiaA 4 -26 20 -64 -31 69 89 -40
+Marta I 5 PartiaA 5 79 -80 26 -6 7 -65 -100
+Agnieszka E 5 PartiaA 6 35 -38 94 -21 -20 -69 18
+Malgorzata O 5 PartiaA 7 71 -4 -22 38 -89 -77 5
+Jan S 5 PartiaA 8 -93 -48 89 43 75 97 -42
+Piotr E 5 PartiaA 9 -22 -3 -14 -21 -20 85 -2
+Grzegorz R 5 PartiaA 10 -95 -31 -25 68 13 47 -50
+Maria Z 5 PartiaA 11 13 61 -4 3 -100 82 -44
+Grzegorz G 5 PartiaA 12 -98 81 25 76 -76 84 73
+Dorota H 5 PartiaA 13 8 40 -27 86 80 10 22
+Marta U 5 PartiaA 14 -3 -21 -24 -80 41 -10 -53
+Ewa A 5 PartiaA 15 -16 -8 92 84 41 -28 -72
+Konrad T 5 PartiaA 16 -7 -81 -95 -6 -45 98 -68
+Konrad A 5 PartiaA 17 48 -98 -2 59 50 -86 96
+Piotr K 5 PartiaA 18 -32 -28 44 -39 49 -26 93
+Dawid U 5 PartiaA 19 43 66 -47 13 2 85 90
+Dawid L 5 PartiaA 20 -85 63 11 50 -97 -71 -94
+Alina F 5 PartiaA 21 -59 34 -75 89 -3 56 -1
+Anna C 5 PartiaA 22 -73 -92 -9 -46 98 -76 -34
+Anna P 5 PartiaA 23 53 66 98 -52 -78 49 18
+Alina T 5 PartiaA 24 -11 43 -23 27 -55 -32 79
+Agnieszka H 5 PartiaA 25 56 11 -57 20 -85 67 -52
+Alina W 5 PartiaA 26 -91 97 26 -1 -66 94 -7
+Janusz K 5 PartiaA 27 26 -37 -6 55 -78 37 -80
+Janusz N 5 PartiaA 28 -23 98 -25 24 5 -17 96
+Piotr A 5 PartiaA 29 34 26 12 28 -36 -75 56
+Jacek S 5 PartiaA 30 18 -44 -87 -18 -87 60 35
+Jacek Z 5 PartiaA 31 -31 62 -78 49 -70 -44 7
+Malgorzata Z 5 PartiaA 32 76 54 -85 7 -27 -62 17
+Elzbieta L 5 PartiaA 33 -40 -23 -62 49 -71 -56 90
+Malgorzata N 5 PartiaA 34 -48 84 -73 47 -6 -21 30
+Jacek I 5 PartiaA 35 85 -61 82 29 -26 -29 39
+Filip K 5 PartiaA 36 69 -76 29 42 55 -88 4
+Kazimierz C 5 PartiaA 37 -51 -37 42 53 83 1 -7
+Joanna J 5 PartiaA 38 38 -16 56 33 80 -79 -44
+Dorota T 5 PartiaA 39 79 -13 -96 5 86 -60 64
+Piotr A 5 PartiaA 40 -86 -52 -8 98 22 8 -39
+Zofia I 5 PartiaA 41 -13 91 -83 -66 21 32 -29
+Anna W 5 PartiaA 42 36 -24 -22 62 -18 -93 -86
+Konrad E 5 PartiaA 43 17 50 -85 -11 98 43 -6
+Agnieszka B 5 PartiaA 44 81 4 65 -48 -57 84 -48
+Ewa L 5 PartiaA 45 -42 51 -65 -66 -17 -47 -25
+Joanna S 5 PartiaA 46 14 88 77 84 30 -21 27
+Maria L 5 PartiaA 47 -31 -81 -89 31 42 33 7
+Jan W 5 PartiaA 48 19 89 17 96 -93 -2 -17
+Jan T 5 PartiaA 49 -36 -30 55 35 -51 40 -12
+Alina F 5 PartiaA 50 -37 -77 -98 -22 67 -33 -24
+Filip P 5 PartiaA 51 -75 55 47 48 65 70 -17
+Piotr W 5 PartiaA 52 -4 -38 98 24 -62 34 -91
+Pawel W 5 PartiaA 53 -93 19 48 5 -96 -14 9
+Piotr R 5 PartiaA 54 12 85 -8 -42 95 78 49
+Dawid P 5 PartiaA 55 65 91 -2 90 22 52 34
+Grzegorz O 5 PartiaA 56 -52 -47 -74 28 16 -42 -11
+Piotr W 5 PartiaA 57 -86 -47 -83 73 -69 55 80
+Marta P 5 PartiaA 58 -83 79 64 -29 58 -30 -32
+Anna P 5 PartiaA 59 -74 22 -30 49 -87 -55 45
+Malgorzata I 5 PartiaA 60 -4 -88 -64 -6 8 14 -86
+Filip C 5 PartiaB 1 0 43 -73 7 -3 88 18
+Janusz S 5 PartiaB 2 -41 -20 81 -67 22 -90 -98
+Konrad C 5 PartiaB 3 80 -71 29 -25 28 86 -20
+Jan J 5 PartiaB 4 93 95 65 -60 80 93 13
+Michal A 5 PartiaB 5 19 81 59 -34 -64 7 -81
+Piotr O 5 PartiaB 6 29 25 95 -47 35 8 -49
+Grzegorz O 5 PartiaB 7 82 -98 75 -33 -70 54 -99
+Anna B 5 PartiaB 8 84 -53 86 -11 -51 -58 -38
+Maria L 5 PartiaB 9 -88 47 43 -63 -56 17 -24
+Filip S 5 PartiaB 10 -62 38 -77 7 -92 11 -67
+Malgorzata J 5 PartiaB 11 9 -10 -63 44 68 88 -70
+Justyna F 5 PartiaB 12 -27 18 -2 69 67 90 39
+Jan C 5 PartiaB 13 -32 76 79 41 -6 27 -64
+Anna T 5 PartiaB 14 -90 32 -38 24 5 -95 -46
+Dorota U 5 PartiaB 15 -72 -30 82 22 -1 4 -20
+Joanna F 5 PartiaB 16 -97 28 -53 25 81 25 -96
+Joanna G 5 PartiaB 17 -52 33 -96 19 -31 -74 60
+Elzbieta E 5 PartiaB 18 88 59 -53 -18 26 25 75
+Joanna A 5 PartiaB 19 -24 -18 -83 -34 -94 -3 -92
+Alina G 5 PartiaB 20 -77 -23 -86 42 68 -61 -81
+Maria G 5 PartiaB 21 16 -27 60 -32 -41 -8 -59
+Malgorzata J 5 PartiaB 22 -18 -30 -49 -18 -41 39 59
+Michal M 5 PartiaB 23 -71 13 56 23 -48 -62 -65
+Agnieszka L 5 PartiaB 24 -11 -2 -58 -90 36 26 -69
+Maria H 5 PartiaB 25 26 -73 72 -17 36 -41 -34
+Filip M 5 PartiaB 26 83 -96 -35 -90 73 0 60
+Anna L 5 PartiaB 27 -100 61 -90 46 5 -38 77
+Elzbieta E 5 PartiaB 28 -34 100 11 15 -5 42 -71
+Konrad D 5 PartiaB 29 37 -26 22 85 -96 -47 -22
+Elzbieta J 5 PartiaB 30 -99 -87 83 32 36 56 31
+Justyna O 5 PartiaB 31 0 -48 11 -6 19 -11 -100
+Krzysztof C 5 PartiaB 32 -10 -99 -27 10 -51 -92 12
+Malgorzata N 5 PartiaB 33 -29 -26 65 -35 38 -65 -44
+Malgorzata R 5 PartiaB 34 44 78 -79 98 -73 -48 -13
+Joanna R 5 PartiaB 35 -1 90 -59 43 -10 15 49
+Pawel W 5 PartiaB 36 -45 11 43 -45 97 59 -48
+Agnieszka S 5 PartiaB 37 -78 4 -93 50 52 6 5
+Anna K 5 PartiaB 38 -5 92 51 74 -96 80 27
+Piotr K 5 PartiaB 39 -68 44 24 74 55 89 98
+Alina M 5 PartiaB 40 57 20 88 65 65 -31 -97
+Joanna F 5 PartiaB 41 -38 85 -35 27 79 16 27
+Malgorzata D 5 PartiaB 42 -100 -55 -75 61 -82 96 60
+Grzegorz K 5 PartiaB 43 -17 57 -49 27 -18 -1 -13
+Justyna W 5 PartiaB 44 50 -17 35 4 77 -23 -73
+Grzegorz B 5 PartiaB 45 -4 40 0 84 78 61 2
+Dorota Z 5 PartiaB 46 -66 -37 -30 75 22 56 4
+Ewa U 5 PartiaB 47 -40 20 -72 21 0 -69 5
+Konrad S 5 PartiaB 48 -26 29 55 -24 -49 -1 -40
+Joanna U 5 PartiaB 49 71 11 -29 -30 -70 -37 51
+Alina G 5 PartiaB 50 59 -31 -59 18 -11 7 71
+Joanna H 5 PartiaB 51 -97 82 44 58 -83 89 61
+Maria E 5 PartiaB 52 -2 -7 -84 94 20 57 -34
+Justyna M 5 PartiaB 53 -26 -52 -95 -75 72 -43 -51
+Pawel K 5 PartiaB 54 90 22 53 -58 37 -98 -22
+Joanna H 5 PartiaB 55 -67 14 -6 -78 48 -37 66
+Jan N 5 PartiaB 56 23 -2 -94 36 -47 75 23
+Justyna E 5 PartiaB 57 45 75 -65 73 72 -42 31
+Konrad N 5 PartiaB 58 -29 16 -86 -6 -72 97 -35
+Dawid U 5 PartiaB 59 -9 75 28 14 -6 55 41
+Kazimierz F 5 PartiaB 60 -47 -33 -89 2 34 -7 -62
+Joanna T 6 PartiaA 1 15 -93 74 61 -1 -7 6
+Maria L 6 PartiaA 2 -52 79 70 16 -34 -11 67
+Grzegorz H 6 PartiaA 3 -96 -32 -28 -9 10 -81 -15
+Elzbieta A 6 PartiaA 4 -49 67 -80 75 6 -71 -15
+Joanna H 6 PartiaA 5 68 74 41 10 5 -13 -93
+Zofia O 6 PartiaA 6 -91 89 -31 -92 -91 -85 14
+Piotr L 6 PartiaA 7 -48 -33 -35 -58 74 -5 -36
+Marta G 6 PartiaA 8 -84 -84 91 55 -47 81 -53
+Anna D 6 PartiaA 9 17 68 -72 10 99 92 90
+Kazimierz S 6 PartiaA 10 61 31 86 -32 17 20 -91
+Dorota G 6 PartiaA 11 10 34 -2 -70 8 -100 -67
+Justyna Z 6 PartiaA 12 89 -51 -67 -77 52 98 63
+Maria J 6 PartiaA 13 50 -81 86 -43 27 -88 -41
+Justyna E 6 PartiaA 14 29 37 0 31 -70 -77 -37
+Agnieszka I 6 PartiaA 15 32 -72 17 -13 72 -22 37
+Alina E 6 PartiaA 16 -6 1 75 5 63 33 -98
+Joanna H 6 PartiaA 17 26 -11 71 80 -4 -34 -53
+Jan C 6 PartiaA 18 62 79 34 -5 2 -28 -54
+Jacek A 6 PartiaA 19 70 85 -83 25 -92 -1 -86
+Justyna B 6 PartiaA 20 47 -79 35 78 0 30 69
+Agnieszka M 6 PartiaA 21 -17 -16 23 -77 59 81 -95
+Jan D 6 PartiaA 22 22 -34 -86 -76 -59 78 2
+Ewa N 6 PartiaB 1 -40 -46 -79 3 91 -51 -53
+Michal D 6 PartiaB 2 -79 31 -19 9 -25 78 4
+Dorota N 6 PartiaB 3 12 -61 9 59 60 16 16
+Justyna N 6 PartiaB 4 57 72 76 72 -98 29 -48
+Dawid P 6 PartiaB 5 -83 -6 -10 -20 84 94 -41
+Kazimierz P 6 PartiaB 6 -60 -86 73 -65 -92 -43 21
+Ewa B 6 PartiaB 7 73 48 12 61 14 -64 -41
+Dorota N 6 PartiaB 8 41 30 75 -71 -96 28 -59
+Ewa L 6 PartiaB 9 -18 -48 94 61 15 65 30
+Zofia I 6 PartiaB 10 91 42 -93 -37 -85 -59 -41
+Dorota U 6 PartiaB 11 50 53 78 -96 -94 -55 98
+Maria S 6 PartiaB 12 -52 -29 53 99 79 20 -85
+Ewa S 6 PartiaB 13 31 -22 -34 28 14 0 46
+Marta S 6 PartiaB 14 -68 -37 47 40 -47 -38 9
+Marta M 6 PartiaB 15 98 30 -28 -75 -10 51 -25
+Jacek Z 6 PartiaB 16 0 -92 92 -22 -53 -37 85
+Zofia S 6 PartiaB 17 -47 -94 -58 38 28 75 -43
+Konrad T 6 PartiaB 18 29 -12 -73 -45 -83 -49 -90
+Anna A 6 PartiaB 19 -10 -89 -57 40 15 -27 -61
+Zofia S 6 PartiaB 20 -31 -48 96 -99 -40 33 -34
+Malgorzata W 6 PartiaB 21 -59 23 -88 -54 26 -1 -47
+Konrad F 6 PartiaB 22 99 -22 -71 30 37 18 87
+Kazimierz W 7 PartiaA 1 -95 -11 21 -66 93 6 11
+Maria E 7 PartiaA 2 -8 -5 5 11 41 3 -96
+Janusz O 7 PartiaA 3 58 39 -59 -86 -19 -7 17
+Michal I 7 PartiaA 4 -96 -91 -97 46 -36 -45 -44
+Maria E 7 PartiaA 5 44 30 46 -90 -2 54 84
+Dawid A 7 PartiaA 6 26 81 56 56 43 -81 -42
+Konrad S 7 PartiaA 7 -22 14 67 73 -68 7 95
+Elzbieta J 7 PartiaA 8 -100 -25 74 42 -44 -54 -90
+Dawid R 7 PartiaA 9 -7 51 87 -54 56 11 1
+Ewa Z 7 PartiaA 10 -20 -56 -10 -2 -13 -51 -58
+Dorota O 7 PartiaA 11 9 8 -71 36 -45 -82 12
+Jacek Z 7 PartiaA 12 100 -61 -10 -19 -51 53 -32
+Agnieszka I 7 PartiaA 13 33 -55 -34 87 25 73 -76
+Ewa E 7 PartiaA 14 64 65 33 35 75 -42 -81
+Michal I 7 PartiaA 15 61 -88 -55 -45 -68 2 61
+Kazimierz Z 7 PartiaA 16 67 -48 88 59 53 47 43
+Ewa U 7 PartiaA 17 36 -21 54 -47 17 64 86
+Michal O 7 PartiaA 18 12 -8 -75 -56 88 -3 -9
+Jan W 7 PartiaA 19 10 69 91 54 -38 -33 42
+Piotr U 7 PartiaA 20 40 75 -8 -27 57 -72 -4
+Alina D 7 PartiaA 21 -68 3 45 96 47 24 -92
+Agnieszka P 7 PartiaA 22 -67 -40 42 96 55 38 52
+Michal J 7 PartiaA 23 -34 -6 -67 -66 -28 -61 -51
+Janusz T 7 PartiaA 24 -14 28 -53 -73 63 -53 -27
+Jan A 7 PartiaA 25 98 32 70 18 -25 69 -73
+Ewa P 7 PartiaA 26 -100 55 60 -50 61 74 65
+Piotr D 7 PartiaA 27 81 42 41 99 15 -89 52
+Dorota A 7 PartiaA 28 29 -52 67 -50 89 28 2
+Dawid H 7 PartiaA 29 -60 -31 -35 85 -55 32 -79
+Piotr U 7 PartiaA 30 77 -29 52 25 -33 16 -83
+Pawel D 7 PartiaA 31 -42 96 -80 42 51 -6 -35
+Zofia F 7 PartiaA 32 13 60 -9 92 95 92 32
+Piotr B 7 PartiaA 33 21 25 -55 100 19 -65 -54
+Grzegorz M 7 PartiaA 34 7 83 -1 76 75 -35 92
+Dawid J 7 PartiaA 35 8 26 93 95 71 93 -3
+Agnieszka A 7 PartiaA 36 -43 42 -7 -44 13 -87 30
+Anna J 7 PartiaA 37 -32 -91 56 78 99 -52 75
+Janusz B 7 PartiaA 38 86 -100 67 -83 -76 -39 48
+Marta W 7 PartiaA 39 -2 -17 -46 97 94 27 -42
+Malgorzata A 7 PartiaA 40 54 -77 -61 -24 -16 -20 -88
+Joanna R 7 PartiaA 41 -10 -83 70 -38 42 67 -19
+Dorota K 7 PartiaA 42 72 -62 87 71 91 0 -24
+Malgorzata L 7 PartiaA 43 97 -73 23 -6 -53 -23 76
+Dawid E 7 PartiaA 44 73 50 97 -33 26 42 95
+Malgorzata S 7 PartiaA 45 -2 -13 -34 -83 12 31 7
+Dawid R 7 PartiaA 46 24 23 -29 -21 -90 91 -76
+Piotr B 7 PartiaA 47 -25 100 -62 24 -100 -24 -3
+Pawel E 7 PartiaA 48 23 13 -26 60 55 -93 79
+Janusz B 7 PartiaA 49 -56 55 -46 -81 4 88 -63
+Maria P 7 PartiaA 50 -77 3 28 52 -32 -94 -28
+Krzysztof E 7 PartiaA 51 9 -50 39 -75 -3 28 2
+Konrad S 7 PartiaA 52 40 33 12 62 -64 40 65
+Pawel N 7 PartiaA 53 53 -37 73 -68 -87 -95 -70
+Filip M 7 PartiaA 54 -50 -60 13 -96 73 20 76
+Jan N 7 PartiaA 55 -33 3 95 -87 -18 -32 -86
+Filip T 7 PartiaA 56 63 -98 -70 -1 -38 36 67
+Zofia B 7 PartiaA 57 -87 66 -58 -72 -22 24 -83
+Elzbieta O 7 PartiaA 58 14 13 94 -27 30 -34 27
+Michal A 7 PartiaA 59 -97 -6 52 55 -96 -38 -83
+Filip K 7 PartiaA 60 23 -83 -41 -13 -24 64 81
+Konrad G 7 PartiaA 61 79 40 13 -88 -32 24 -13
+Anna E 7 PartiaA 62 -15 -47 5 -28 53 54 -33
+Jacek F 7 PartiaA 63 -53 -24 2 55 -76 67 -57
+Dawid O 7 PartiaA 64 17 57 82 -21 89 -57 10
+Jacek Z 7 PartiaA 65 74 -28 -68 58 -73 -98 -38
+Jacek P 7 PartiaA 66 28 30 41 -45 -37 -64 30
+Janusz I 7 PartiaA 67 41 -22 -6 -65 -62 -94 77
+Michal U 7 PartiaA 68 67 -49 7 -11 34 -41 -98
+Alina D 7 PartiaA 69 42 99 31 -31 20 92 83
+Agnieszka J 7 PartiaA 70 78 -63 -56 -8 -58 75 42
+Grzegorz G 7 PartiaA 71 43 -33 45 -61 -22 -21 -96
+Grzegorz G 7 PartiaA 72 -100 -56 -96 -84 -90 -67 20
+Ewa E 7 PartiaA 73 -6 -9 48 56 -88 97 -25
+Ewa C 7 PartiaA 74 -45 13 31 100 -19 5 84
+Elzbieta I 7 PartiaA 75 -80 -80 -42 79 39 34 -8
+Krzysztof P 7 PartiaA 76 -26 -23 -31 86 56 68 -61
+Agnieszka G 7 PartiaA 77 -50 -18 -74 23 -18 52 24
+Ewa F 7 PartiaA 78 -77 10 -38 91 71 -26 -87
+Dorota Z 7 PartiaA 79 -92 -76 -68 -1 63 36 58
+Alina R 7 PartiaB 1 23 -12 -4 -58 58 88 55
+Grzegorz E 7 PartiaB 2 -18 18 -50 19 -42 24 52
+Krzysztof G 7 PartiaB 3 98 -48 -2 -65 -53 -49 -82
+Ewa O 7 PartiaB 4 -30 -25 22 65 -25 -90 24
+Dawid K 7 PartiaB 5 -44 -30 55 30 28 43 27
+Agnieszka N 7 PartiaB 6 97 59 -3 -36 12 74 64
+Maria E 7 PartiaB 7 -60 91 -91 57 -69 -58 -40
+Piotr T 7 PartiaB 8 89 -48 48 12 51 -93 -71
+Dawid G 7 PartiaB 9 -16 90 100 -66 81 -20 -46
+Filip F 7 PartiaB 10 -19 68 -87 37 -5 -15 -16
+Dorota R 7 PartiaB 11 -45 45 97 -55 -54 -54 6
+Konrad S 7 PartiaB 12 8 -24 -18 12 -76 -76 14
+Dawid C 7 PartiaB 13 28 7 91 -77 -12 64 89
+Dawid P 7 PartiaB 14 68 14 79 -93 -12 48 -68
+Ewa U 7 PartiaB 15 -62 -87 -73 10 2 -69 -77
+Jan Z 7 PartiaB 16 29 14 37 95 -18 40 62
+Janusz Z 7 PartiaB 17 -5 55 99 -16 -95 22 76
+Jan N 7 PartiaB 18 12 83 100 60 37 -21 55
+Justyna M 7 PartiaB 19 -3 7 -60 12 22 84 76
+Kazimierz W 7 PartiaB 20 -86 93 67 50 -70 -93 -19
+Krzysztof H 7 PartiaB 21 -73 48 -70 6 24 -34 -83
+Filip O 7 PartiaB 22 17 2 20 89 48 40 -11
+Filip W 7 PartiaB 23 -11 -22 57 -32 41 55 -36
+Justyna K 7 PartiaB 24 -6 1 33 -10 -79 89 -24
+Kazimierz K 7 PartiaB 25 84 70 -7 -85 -57 -92 -32
+Krzysztof O 7 PartiaB 26 68 97 45 -20 -99 22 18
+Konrad J 7 PartiaB 27 -37 57 32 -93 -35 -67 68
+Agnieszka O 7 PartiaB 28 85 -66 -4 -87 34 -60 -28
+Justyna N 7 PartiaB 29 58 -61 -99 -88 -6 -85 86
+Joanna T 7 PartiaB 30 -63 -17 -13 -54 59 -87 85
+Alina P 7 PartiaB 31 -68 91 44 59 83 15 74
+Grzegorz C 7 PartiaB 32 -20 10 -9 86 86 95 51
+Ewa B 7 PartiaB 33 -85 -79 -65 -8 -61 9 -48
+Agnieszka A 7 PartiaB 34 46 3 -59 -56 48 44 80
+Anna B 7 PartiaB 35 -10 -90 -99 64 89 -27 36
+Anna G 7 PartiaB 36 -15 42 71 42 13 55 -94
+Michal T 7 PartiaB 37 4 -27 -90 -64 -30 96 76
+Michal Z 7 PartiaB 38 -42 -61 7 -11 -100 26 56
+Zofia E 7 PartiaB 39 -86 -77 47 -86 97 -91 -38
+Anna L 7 PartiaB 40 -31 -62 -25 64 37 34 -68
+Joanna C 7 PartiaB 41 -65 -38 59 -36 1 -97 97
+Dorota F 7 PartiaB 42 -100 61 91 -21 -82 56 -28
+Ewa D 7 PartiaB 43 82 17 19 -82 38 -46 -25
+Jan L 7 PartiaB 44 -30 -34 88 -77 32 -85 -30
+Jan N 7 PartiaB 45 -57 -69 -91 37 13 -90 -98
+Kazimierz O 7 PartiaB 46 -95 -63 -7 47 24 44 -83
+Jan N 7 PartiaB 47 11 32 0 53 -23 -72 18
+Elzbieta S 7 PartiaB 48 39 -70 -27 27 -51 -12 -85
+Justyna E 7 PartiaB 49 -19 12 -45 62 -50 -83 -20
+Anna A 7 PartiaB 50 -60 -52 29 -96 -12 -62 -62
+Jan O 7 PartiaB 51 100 63 -53 -86 -52 -34 74
+Grzegorz A 7 PartiaB 52 -41 -88 86 59 98 14 -46
+Pawel S 7 PartiaB 53 84 93 -77 -100 -35 45 31
+Joanna I 7 PartiaB 54 -20 -5 84 40 47 -17 -61
+Marta M 7 PartiaB 55 84 -93 70 5 66 38 -30
+Joanna M 7 PartiaB 56 -98 -44 12 -58 38 16 -55
+Jacek Z 7 PartiaB 57 -54 -78 7 -38 -86 -92 15
+Filip F 7 PartiaB 58 17 98 72 97 -67 -36 94
+Zofia B 7 PartiaB 59 -38 83 85 81 67 -90 82
+Janusz B 7 PartiaB 60 77 52 -2 1 -47 -18 98
+Kazimierz I 7 PartiaB 61 27 -6 -37 -54 78 -97 82
+Dawid N 7 PartiaB 62 41 -83 -87 -33 79 93 -8
+Michal J 7 PartiaB 63 -23 -20 -40 78 -3 -64 38
+Ewa L 7 PartiaB 64 -66 -37 87 -51 -60 -8 76
+Maria B 7 PartiaB 65 49 21 -31 75 6 7 44
+Michal N 7 PartiaB 66 -80 -79 -50 -61 32 50 -50
+Maria A 7 PartiaB 67 46 -59 28 -5 -82 -43 -12
+Malgorzata D 7 PartiaB 68 -18 -13 -76 59 -77 -47 -88
+Piotr K 7 PartiaB 69 29 -73 35 84 40 -34 38
+Dawid H 7 PartiaB 70 7 73 45 77 17 -86 37
+Elzbieta W 7 PartiaB 71 32 -4 18 25 81 5 -57
+Janusz O 7 PartiaB 72 -76 30 17 83 -7 -84 35
+Anna U 7 PartiaB 73 21 -4 -27 -52 -99 -49 -44
+Jacek B 7 PartiaB 74 -90 -96 54 -88 2 -79 89
+Agnieszka Z 7 PartiaB 75 -65 37 18 85 -17 -30 69
+Janusz E 7 PartiaB 76 23 96 77 79 91 -43 16
+Ewa D 7 PartiaB 77 87 13 58 26 60 -84 50
+Kazimierz N 7 PartiaB 78 82 36 -4 2 -97 -23 -96
+Dawid F 7 PartiaB 79 14 -83 -28 -74 -79 -32 -2
+Elzbieta G 8 PartiaA 1 -18 45 -23 61 -56 100 62
+Jacek G 8 PartiaA 2 -98 -91 -92 55 39 42 -52
+Krzysztof N 8 PartiaA 3 -96 -6 -48 37 -2 -70 -20
+Filip U 8 PartiaA 4 32 86 82 -86 22 -98 52
+Jan D 8 PartiaA 5 72 29 -70 -87 92 53 43
+Pawel P 8 PartiaA 6 -79 16 -12 -18 -42 92 -60
+Alina R 8 PartiaA 7 -19 96 -25 39 77 -88 53
+Joanna T 8 PartiaA 8 -10 1 82 -56 86 -87 71
+Jacek M 8 PartiaA 9 -9 -47 -41 71 66 17 49
+Piotr P 8 PartiaA 10 73 -71 77 -2 -30 -89 -26
+Justyna R 8 PartiaA 11 -23 20 0 62 -15 -44 -61
+Michal M 8 PartiaA 12 -55 36 -13 68 25 -84 -87
+Filip G 8 PartiaA 13 -48 15 55 36 -68 11 48
+Elzbieta S 8 PartiaA 14 -20 40 71 -37 89 -46 -87
+Jan I 8 PartiaA 15 -5 -41 31 -54 22 -46 21
+Malgorzata H 8 PartiaA 16 88 -49 -48 -47 -7 9 33
+Zofia R 8 PartiaA 17 82 -47 69 -79 -82 -73 62
+Konrad C 8 PartiaA 18 46 93 18 13 32 77 80
+Pawel E 8 PartiaA 19 -52 -76 55 -71 -54 56 -46
+Joanna B 8 PartiaA 20 -6 -95 -4 9 86 -8 53
+Jan N 8 PartiaA 21 57 -23 -49 -21 -47 12 82
+Kazimierz T 8 PartiaA 22 -36 68 79 85 6 70 -3
+Grzegorz E 8 PartiaA 23 -43 83 59 26 -32 94 -64
+Jan W 8 PartiaA 24 63 -31 -85 26 92 94 44
+Dorota Z 8 PartiaA 25 1 -76 43 -33 -93 72 -57
+Kazimierz W 8 PartiaA 26 -53 7 -41 -27 2 -74 4
+Joanna R 8 PartiaA 27 51 -32 0 86 5 47 -79
+Dorota K 8 PartiaA 28 -22 22 -18 -91 -4 23 42
+Kazimierz O 8 PartiaA 29 80 -93 -64 -53 68 -14 -14
+Elzbieta A 8 PartiaA 30 60 3 37 58 89 -64 -98
+Jacek L 8 PartiaA 31 89 -74 -97 -10 -97 -19 -85
+Justyna A 8 PartiaA 32 -57 -17 78 -94 25 -90 30
+Ewa A 8 PartiaA 33 41 -47 37 63 -12 -17 -51
+Michal I 8 PartiaA 34 -73 -58 -19 11 -52 -27 -22
+Jan I 8 PartiaA 35 -65 -36 5 -78 22 16 29
+Dorota J 8 PartiaA 36 -83 92 -47 -89 -23 52 92
+Dorota C 8 PartiaA 37 -3 64 -45 -18 -83 63 84
+Maria I 8 PartiaA 38 -1 31 -20 99 61 -93 84
+Piotr A 8 PartiaA 39 -61 61 -1 28 -68 -97 18
+Agnieszka H 8 PartiaA 40 2 -81 64 75 -78 -92 9
+Zofia O 8 PartiaA 41 -4 37 50 -70 -76 34 -9
+Dawid J 8 PartiaA 42 -6 13 -59 -27 87 -99 60
+Michal D 8 PartiaA 43 89 -61 -51 47 89 -14 64
+Ewa D 8 PartiaA 44 -40 -59 -59 44 -35 -23 62
+Piotr U 8 PartiaA 45 -67 87 -42 51 4 -100 -83
+Marta G 8 PartiaA 46 -93 -56 -52 100 6 81 -43
+Zofia J 8 PartiaA 47 12 -17 -58 -25 42 -35 -86
+Dawid U 8 PartiaA 48 -99 -28 100 -100 20 -21 86
+Joanna Z 8 PartiaA 49 -2 -48 34 -18 20 -40 76
+Zofia U 8 PartiaB 1 -58 60 -62 -24 34 -99 50
+Konrad M 8 PartiaB 2 84 -37 49 -54 -83 89 -98
+Agnieszka R 8 PartiaB 3 92 98 86 41 48 13 69
+Dorota Z 8 PartiaB 4 91 41 1 50 80 49 28
+Janusz P 8 PartiaB 5 -8 41 75 -22 -60 -82 71
+Jacek P 8 PartiaB 6 -57 -72 38 -70 46 -54 39
+Elzbieta F 8 PartiaB 7 -76 -86 -47 58 -84 64 75
+Filip O 8 PartiaB 8 -22 -55 -9 -90 42 -66 -68
+Alina D 8 PartiaB 9 19 19 -28 -64 -4 92 63
+Justyna F 8 PartiaB 10 34 23 97 9 -72 -86 -5
+Kazimierz C 8 PartiaB 11 -8 -88 -85 -38 -4 -85 62
+Kazimierz R 8 PartiaB 12 -7 75 33 90 43 31 -70
+Malgorzata G 8 PartiaB 13 -18 -98 74 -43 49 64 -7
+Janusz Z 8 PartiaB 14 48 90 -21 31 6 47 51
+Jan R 8 PartiaB 15 -3 77 -79 -53 -48 -100 30
+Zofia I 8 PartiaB 16 -46 96 41 14 59 -74 27
+Marta C 8 PartiaB 17 63 -82 30 -75 65 60 25
+Filip K 8 PartiaB 18 84 -82 89 60 -61 -99 -84
+Piotr F 8 PartiaB 19 -54 -17 30 -14 -28 58 63
+Jan T 8 PartiaB 20 -18 -83 -53 -47 69 55 27
+Elzbieta U 8 PartiaB 21 -6 25 19 -20 -22 -53 76
+Dorota J 8 PartiaB 22 7 -86 9 -50 74 49 -4
+Dawid B 8 PartiaB 23 44 27 -66 77 -58 -97 77
+Kazimierz A 8 PartiaB 24 13 -64 -68 21 -23 14 -48
+Joanna I 8 PartiaB 25 -53 -85 53 95 73 -19 71
+Joanna H 8 PartiaB 26 -10 79 2 -42 -61 -10 21
+Anna O 8 PartiaB 27 32 29 -38 70 37 8 -82
+Elzbieta L 8 PartiaB 28 8 19 2 82 100 39 -51
+Maria Z 8 PartiaB 29 8 -19 58 -80 89 22 -80
+Zofia M 8 PartiaB 30 -96 -39 -55 61 -29 3 80
+Janusz L 8 PartiaB 31 50 98 -91 91 -46 25 -69
+Joanna R 8 PartiaB 32 74 -23 96 58 53 15 -49
+Krzysztof K 8 PartiaB 33 80 -79 84 -95 -6 -44 90
+Kazimierz P 8 PartiaB 34 92 84 37 45 15 5 -49
+Joanna R 8 PartiaB 35 -90 -79 -52 91 35 -88 -94
+Justyna O 8 PartiaB 36 -86 -20 5 -19 61 -76 -75
+Filip T 8 PartiaB 37 34 56 89 -32 -88 -6 12
+Piotr I 8 PartiaB 38 6 73 7 41 56 27 66
+Alina U 8 PartiaB 39 -13 -30 93 -83 -29 11 -37
+Malgorzata H 8 PartiaB 40 -10 31 -87 25 18 -14 17
+Zofia K 8 PartiaB 41 52 -23 -29 51 43 74 -1
+Janusz R 8 PartiaB 42 0 6 50 35 -69 24 50
+Kazimierz W 8 PartiaB 43 14 -26 82 83 58 -2 -55
+Jan S 8 PartiaB 44 -73 36 -56 75 76 10 54
+Jan H 8 PartiaB 45 99 42 -33 99 64 36 -65
+Piotr W 8 PartiaB 46 49 78 57 -91 -61 71 30
+Dorota U 8 PartiaB 47 -18 -26 70 34 -26 57 42
+Krzysztof L 8 PartiaB 48 -48 -77 -93 -39 63 -5 -18
+Joanna F 8 PartiaB 49 -49 -63 60 -20 93 92 -62
+Dawid G 9 PartiaA 1 27 74 62 77 60 -12 1
+Grzegorz B 9 PartiaA 2 8 79 -22 64 87 -93 -16
+Kazimierz P 9 PartiaA 3 -86 -4 13 -88 15 -83 -78
+Dorota M 9 PartiaA 4 94 -50 92 -40 62 0 11
+Janusz C 9 PartiaA 5 18 64 75 48 35 8 -37
+Joanna M 9 PartiaA 6 -62 9 40 -32 -75 -24 88
+Alina M 9 PartiaA 7 -78 -56 40 -64 59 50 -28
+Grzegorz H 9 PartiaA 8 95 -12 59 -34 59 -64 -96
+Dorota H 9 PartiaA 9 -86 -48 40 38 -52 11 64
+Michal Z 9 PartiaA 10 -73 89 76 63 -30 96 46
+Janusz Z 9 PartiaA 11 -49 -24 78 11 87 -5 -44
+Grzegorz M 9 PartiaA 12 2 -10 21 18 -36 0 9
+Grzegorz O 9 PartiaA 13 -42 -10 30 66 -63 59 36
+Malgorzata E 9 PartiaA 14 -6 50 14 -13 74 49 27
+Janusz J 9 PartiaA 15 -88 -54 10 -38 12 -51 30
+Alina E 9 PartiaA 16 31 91 63 100 64 82 -82
+Dorota C 9 PartiaA 17 -20 -39 4 -28 -78 -68 95
+Filip M 9 PartiaA 18 -79 45 -6 75 32 46 83
+Dawid F 9 PartiaA 19 14 -27 67 28 3 -73 -85
+Anna F 9 PartiaA 20 -9 -58 -70 -31 89 72 17
+Pawel D 9 PartiaB 1 77 -94 4 -18 -16 80 -92
+Piotr K 9 PartiaB 2 7 10 36 -22 -9 -37 64
+Dorota I 9 PartiaB 3 41 -51 -26 -92 -47 -86 -24
+Grzegorz O 9 PartiaB 4 -84 -1 35 93 -52 -22 -56
+Anna J 9 PartiaB 5 -72 -97 78 84 -100 24 45
+Marta I 9 PartiaB 6 40 1 -44 94 -58 5 29
+Jan C 9 PartiaB 7 62 -1 0 -93 44 41 -48
+Maria M 9 PartiaB 8 -96 -39 -9 78 19 26 -58
+Alina C 9 PartiaB 9 100 -16 -93 -98 -63 -6 -2
+Marta G 9 PartiaB 10 41 68 60 85 -47 61 53
+Grzegorz S 9 PartiaB 11 67 -97 100 -98 -52 -71 57
+Anna F 9 PartiaB 12 13 34 -17 6 -93 -81 46
+Ewa M 9 PartiaB 13 52 -48 35 -33 92 13 84
+Anna L 9 PartiaB 14 -8 67 -31 42 9 -51 44
+Maria R 9 PartiaB 15 -14 -56 45 -19 -22 32 -69
+Justyna P 9 PartiaB 16 -56 -65 21 -85 16 91 -53
+Joanna G 9 PartiaB 17 -17 -74 100 63 -82 57 -41
+Anna O 9 PartiaB 18 96 -81 -35 32 -21 -71 -64
+Janusz W 9 PartiaB 19 -72 -71 -50 -40 -37 -37 -70
+Dorota Z 9 PartiaB 20 94 -27 -90 22 19 40 -54
+Janusz N 10 PartiaA 1 -100 83 53 18 -98 14 -6
+Marta H 10 PartiaA 2 -53 -52 -30 74 -62 23 14
+Alina T 10 PartiaA 3 0 -86 -52 77 -83 28 12
+Michal I 10 PartiaA 4 23 -95 55 -7 80 75 34
+Filip A 10 PartiaA 5 100 -93 12 -21 47 -32 -34
+Joanna I 10 PartiaA 6 -3 100 -95 43 55 -43 65
+Alina E 10 PartiaA 7 80 82 -3 -1 3 76 25
+Janusz W 10 PartiaA 8 62 -35 72 -16 -27 -65 -33
+Jacek K 10 PartiaA 9 36 80 16 -21 4 16 -68
+Ewa E 10 PartiaA 10 73 -52 -41 7 -65 -18 35
+Justyna U 10 PartiaA 11 -81 56 -1 -66 19 23 63
+Grzegorz G 10 PartiaA 12 -33 -100 -71 71 60 -29 100
+Grzegorz L 10 PartiaA 13 -75 -58 -42 63 10 67 76
+Anna T 10 PartiaA 14 30 99 59 99 36 -4 -33
+Filip L 10 PartiaA 15 -9 -84 -30 -5 -11 70 -29
+Kazimierz J 10 PartiaA 16 -18 63 11 6 46 1 30
+Elzbieta N 10 PartiaA 17 -13 7 0 31 -18 -87 34
+Agnieszka K 10 PartiaA 18 -86 97 37 -39 47 -57 -25
+Elzbieta F 10 PartiaA 19 -94 62 21 30 -8 -66 35
+Konrad I 10 PartiaA 20 -49 56 -23 97 46 37 -63
+Kazimierz O 10 PartiaA 21 -67 49 -82 98 92 -90 -58
+Dawid O 10 PartiaA 22 -80 29 17 19 -49 44 -50
+Joanna W 10 PartiaA 23 41 23 83 -92 83 -51 -47
+Janusz J 10 PartiaA 24 -46 -53 74 93 25 -44 -9
+Alina C 10 PartiaA 25 71 78 98 46 80 58 63
+Krzysztof L 10 PartiaA 26 -13 35 4 -43 11 35 -54
+Krzysztof J 10 PartiaA 27 -63 -20 17 73 64 -32 -47
+Joanna N 10 PartiaA 28 -52 1 8 -4 -90 -35 -32
+Agnieszka C 10 PartiaA 29 75 58 50 3 -26 2 23
+Pawel B 10 PartiaA 30 -47 29 100 -64 -12 -62 70
+Krzysztof I 10 PartiaA 31 -27 -41 -6 -92 36 -5 48
+Konrad D 10 PartiaA 32 28 98 52 44 -22 100 94
+Dorota D 10 PartiaA 33 59 -87 71 -100 -38 72 39
+Alina P 10 PartiaA 34 72 -60 36 -34 10 49 72
+Alina J 10 PartiaA 35 -11 -96 -32 16 23 67 -74
+Jan Z 10 PartiaA 36 -55 -50 -92 -33 65 18 -55
+Ewa G 10 PartiaA 37 22 -55 -31 42 78 42 85
+Marta Z 10 PartiaA 38 93 -66 33 74 47 78 -9
+Kazimierz D 10 PartiaA 39 -40 27 29 2 -42 -99 -97
+Michal W 10 PartiaA 40 -19 -61 14 47 63 -33 82
+Alina B 10 PartiaA 41 31 -57 51 -14 -66 -4 53
+Malgorzata U 10 PartiaA 42 -85 -52 54 34 89 67 7
+Krzysztof S 10 PartiaA 43 50 -57 3 76 -88 64 30
+Joanna K 10 PartiaA 44 42 -35 61 -40 32 67 87
+Janusz U 10 PartiaA 45 6 -27 -39 43 22 -66 -3
+Elzbieta H 10 PartiaA 46 -28 -43 -28 0 29 -62 -64
+Grzegorz B 10 PartiaA 47 -61 39 -58 -65 26 -92 69
+Krzysztof R 10 PartiaA 48 -51 -6 -95 -86 -79 54 -62
+Dorota S 10 PartiaA 49 87 -68 -18 89 21 70 -22
+Filip F 10 PartiaA 50 -12 -45 -83 -10 55 -6 -76
+Grzegorz J 10 PartiaA 51 58 -61 3 -90 -11 -12 -13
+Maria U 10 PartiaA 52 -88 -35 -2 -75 10 -63 4
+Jan L 10 PartiaA 53 40 76 -35 85 62 4 87
+Maria Z 10 PartiaA 54 -46 -41 -57 75 -74 -75 -30
+Agnieszka G 10 PartiaA 55 66 -70 -36 -55 75 87 -42
+Zofia J 10 PartiaA 56 2 8 -81 25 58 -29 -90
+Anna S 10 PartiaA 57 9 76 -9 -89 70 -50 -79
+Kazimierz O 10 PartiaA 58 2 70 95 -93 59 57 22
+Grzegorz U 10 PartiaA 59 31 -85 -32 67 -79 61 86
+Piotr E 10 PartiaA 60 77 48 100 17 -50 -54 -29
+Joanna J 10 PartiaA 61 -89 97 36 79 -84 -2 44
+Dorota C 10 PartiaB 1 -12 -6 38 -4 57 -64 -14
+Kazimierz R 10 PartiaB 2 65 -83 -91 -28 -14 49 46
+Justyna T 10 PartiaB 3 92 63 24 -67 2 -54 -45
+Joanna O 10 PartiaB 4 -1 39 73 93 22 98 -21
+Filip U 10 PartiaB 5 34 91 13 52 46 71 -63
+Dawid H 10 PartiaB 6 96 70 -69 21 10 27 -61
+Ewa H 10 PartiaB 7 -57 1 60 84 -90 -71 56
+Jan T 10 PartiaB 8 -50 62 47 8 -1 -17 -15
+Jacek R 10 PartiaB 9 -6 83 -11 100 49 50 78
+Joanna K 10 PartiaB 10 -49 -34 51 95 -4 71 35
+Jan H 10 PartiaB 11 -19 35 0 97 -28 67 -18
+Grzegorz D 10 PartiaB 12 38 78 -48 -12 26 90 88
+Jacek H 10 PartiaB 13 -78 19 -68 31 -64 77 -18
+Maria A 10 PartiaB 14 -67 27 -10 58 -50 16 53
+Dawid F 10 PartiaB 15 -28 -54 -52 66 94 -33 13
+Michal C 10 PartiaB 16 65 -40 -16 -56 -30 -21 99
+Ewa M 10 PartiaB 17 71 -75 -38 -23 -36 82 -18
+Kazimierz P 10 PartiaB 18 20 2 -84 57 -5 81 60
+Dorota A 10 PartiaB 19 86 83 -38 83 -59 92 75
+Alina N 10 PartiaB 20 19 -73 43 100 -23 44 -27
+Michal G 10 PartiaB 21 10 -16 -80 17 -5 -35 23
+Dorota K 10 PartiaB 22 -99 72 7 -83 9 -84 -77
+Krzysztof W 10 PartiaB 23 38 78 -60 -75 -54 50 -2
+Dorota E 10 PartiaB 24 -6 -66 -68 -60 81 61 -10
+Alina W 10 PartiaB 25 95 -32 54 -6 -98 90 90
+Justyna B 10 PartiaB 26 -84 -19 -61 -30 -90 35 -90
+Piotr B 10 PartiaB 27 63 55 -88 58 40 12 -29
+Grzegorz I 10 PartiaB 28 72 75 19 18 23 84 -11
+Maria P 10 PartiaB 29 80 80 -78 -79 100 -79 16
+Dorota O 10 PartiaB 30 54 -68 56 56 65 49 -10
+Dawid Z 10 PartiaB 31 -37 -57 -70 -14 93 -26 -75
+Filip P 10 PartiaB 32 27 -7 11 -15 12 27 35
+Agnieszka F 10 PartiaB 33 28 -20 87 -27 -64 25 -51
+Alina S 10 PartiaB 34 -70 -72 -60 -56 47 40 73
+Pawel E 10 PartiaB 35 -64 -9 -35 60 -77 -27 86
+Marta U 10 PartiaB 36 10 35 -43 69 -97 -92 56
+Pawel K 10 PartiaB 37 -9 39 28 37 76 -57 -77
+Jan Z 10 PartiaB 38 4 20 67 76 8 12 -46
+Anna R 10 PartiaB 39 -8 -80 -98 -74 10 -66 -13
+Kazimierz H 10 PartiaB 40 -83 77 72 57 41 -64 21
+Jan N 10 PartiaB 41 1 -33 -40 12 83 -29 50
+Joanna H 10 PartiaB 42 -74 51 23 -65 66 22 55
+Ewa I 10 PartiaB 43 60 -13 83 -1 -42 -12 -64
+Kazimierz F 10 PartiaB 44 -30 29 75 -93 -74 2 -16
+Joanna F 10 PartiaB 45 -96 34 -54 -85 2 -71 31
+Filip J 10 PartiaB 46 86 19 94 -32 63 44 -66
+Agnieszka F 10 PartiaB 47 2 90 13 -97 -8 51 -1
+Dawid N 10 PartiaB 48 -3 18 87 -78 -29 4 -82
+Ewa E 10 PartiaB 49 -39 28 -32 33 -44 -93 71
+Malgorzata P 10 PartiaB 50 1 -60 28 -86 90 1 77
+Grzegorz R 10 PartiaB 51 43 96 -70 -66 69 96 53
+Justyna A 10 PartiaB 52 -41 -79 75 -26 37 87 9
+Jan P 10 PartiaB 53 87 17 -16 -2 -6 -89 50
+Anna T 10 PartiaB 54 20 84 -6 91 67 84 88
+Dorota O 10 PartiaB 55 -39 36 73 -98 -54 -25 -66
+Zofia A 10 PartiaB 56 -94 -25 47 -69 26 65 25
+Dorota E 10 PartiaB 57 6 -62 -6 -88 94 -78 100
+Dawid B 10 PartiaB 58 66 16 -43 -16 -14 -72 -13
+Pawel R 10 PartiaB 59 -88 -94 -52 -74 92 -26 44
+Anna E 10 PartiaB 60 -55 -90 11 60 -77 77 98
+Malgorzata P 10 PartiaB 61 32 -11 6 -22 56 -87 28
+Zofia D 1 8 -99 -99 -52 -24 -98 -57 2 PartiaA
+Agnieszka B 1 3 5
+Jacek R 1 7 5 PartiaA
+Pawel G 1 6 4 PartiaA
+Krzysztof L 1 5 58 86 69 -2 14 47 -35
+Krzysztof O 1 1 PartiaB
+Filip G 1 6 3 PartiaA
+Ewa T 1 1 PartiaB
+Justyna C 1 3 1
+Zofia I 1 7 6 PartiaA
+Jacek D 1 8 71 -25 72 -94 88 -73 34 PartiaA
+Anna K 1 1 PartiaB
+Agnieszka T 1 5 -60 -43 15 -79 -67 -14 -55
+Ewa J 1 5 -38 -9 -40 -30 13 -98 48
+Konrad T 1 4 4
+Jan L 1 5 47 2 87 -29 -89 54 61
+Dawid O 1 3 1
+Zofia J 1 6 5 PartiaA
+Marta D 1 2 PartiaA 16
+Pawel S 1 7 5 PartiaA
+Maria B 1 2 PartiaA 19
+Jacek W 1 8 -6 5 -18 39 71 59 25 PartiaA
+Pawel C 1 3 1
+Justyna I 1 4 6
+Pawel W 1 2 PartiaB 29
+Konrad G 1 7 1 PartiaA
+Kazimierz T 1 8 -71 66 20 87 25 71 13 PartiaB
+Krzysztof L 1 7 6 PartiaB
+Joanna L 1 2 PartiaA 32
+Kazimierz E 1 7 6 PartiaB
+Filip M 1 3 5
+Kazimierz G 1 8 -70 -28 78 -61 -36 47 95 PartiaA
+Filip A 1 6 6 PartiaB
+Janusz A 1 7 1 PartiaB
+Janusz W 1 1 PartiaA
+Maria L 1 5 64 -62 21 55 -73 21 -28
+Michal S 1 8 -4 100 -5 -35 -4 -75 40 PartiaA
+Konrad I 1 5 100 -42 77 -97 -44 -87 81
+Piotr Z 1 7 5 PartiaA
+Dorota A 1 8 -30 -2 92 94 57 -54 -65 PartiaA
+Justyna K 1 2 PartiaA 23
+Jan J 1 4 2
+Malgorzata D 1 5 -24 -40 -39 -71 53 -94 98
+Dorota M 1 6 1 PartiaA
+Kazimierz B 1 3 1
+Jacek H 1 5 -98 -98 -35 -32 0 15 53
+Joanna K 1 8 -74 26 -69 -68 83 -87 70 PartiaA
+Pawel F 1 5 1 -29 -9 -12 94 -4 16
+Krzysztof R 1 4 1
+Dorota U 1 7 4 PartiaB
+Grzegorz B 1 8 -59 -45 -34 81 -93 29 -92 PartiaA
+Anna Z 1 5 95 -56 -85 28 -53 -31 -43
+Jan R 1 3 1
+Pawel J 1 2 PartiaA 27
+Alina C 1 5 31 33 10 60 -77 30 98
+Marta T 1 7 2 PartiaB
+Maria I 1 6 3 PartiaA
+Grzegorz R 1 8 65 56 3 -47 91 -15 -71 PartiaA
+Filip R 1 3 4
+Alina P 1 6 5 PartiaA
+Dorota K 1 3 2
+Pawel J 1 3 5
+Marta J 1 6 3 PartiaA
+Justyna D 1 2 PartiaB 27
+Joanna W 1 1 PartiaB
+Maria R 1 5 85 38 -32 35 59 16 51
+Konrad H 1 3 7
+Anna J 1 6 6 PartiaA
+Maria K 1 4 7
+Piotr A 1 3 4
+Grzegorz M 1 5 72 -63 -93 100 -4 -7 30
+Ewa K 1 5 20 47 -42 -58 62 -18 -43
+Ewa F 1 3 2
+Dorota I 1 8 50 56 -13 32 67 4 -90 PartiaA
+Kazimierz O 1 6 2 PartiaA
+Maria G 1 8 -39 95 83 -94 -58 -65 -70 PartiaA
+Krzysztof P 1 7 4 PartiaB
+Konrad E 1 4 2
+Zofia H 1 5 55 74 -12 79 -10 -40 -48
+Maria R 1 6 5 PartiaA
+Pawel I 1 2 PartiaA 30
+Konrad K 1 7 5 PartiaB
+Dawid C 1 1 PartiaA
+Zofia S 1 1 PartiaB
+Justyna H 1 2 PartiaB 1
+Grzegorz U 1 1 PartiaB
+Kazimierz O 1 4 5
+Krzysztof A 1 2 PartiaA 19
+Piotr W 1 5 -34 -76 59 61 -28 65 12
+Krzysztof T 1 1 PartiaB
+Marta C 1 3 4
+Anna D 1 6 7 PartiaB
+Dawid A 1 4 3
+Janusz G 1 6 4 PartiaA
+Dorota E 1 7 5 PartiaA
+Kazimierz R 1 8 -20 20 -53 -33 90 84 58 PartiaB
+Grzegorz R 1 2 PartiaB 15
+Jan Z 1 4 4
+Krzysztof G 1 5 -20 71 38 32 -29 75 59
+Ewa P 1 6 5 PartiaB
+Maria A 1 2 PartiaA 5
+Grzegorz Z 1 6 1 PartiaB
+Joanna W 1 3 1
+Jan P 1 3 7
+Dawid T 1 6 4 PartiaB
+Michal D 1 3 3
+Janusz F 1 5 -8 -31 -38 -60 -72 31 -17
+Krzysztof Z 1 6 7 PartiaA
+Grzegorz W 1 6 2 PartiaB
+Ewa I 1 5 57 40 -1 20 -32 60 -25
+Marta G 1 7 6 PartiaB
+Agnieszka H 1 6 7 PartiaB
+Kazimierz L 1 8 2 80 -16 -46 -34 29 -30 PartiaB
+Elzbieta G 1 8 -26 25 -99 64 -91 -100 -45 PartiaA
+Malgorzata D 1 2 PartiaB 3
+Kazimierz P 1 1 PartiaB
+Anna D 1 4 5
+Piotr G 1 8 60 24 74 -1 25 -23 5 PartiaB
+Grzegorz K 1 3 1
+Agnieszka D 1 2 PartiaB 10
+Krzysztof O 1 5 18 -70 -56 34 -35 80 -78
+Joanna E 1 4 7
+Justyna I 1 1 PartiaB
+Krzysztof L 1 1 PartiaA
+Pawel G 1 5 78 40 -13 73 -99 56 83
+Zofia M 1 1 PartiaA
+Krzysztof G 1 3 7
+Agnieszka P 1 4 4
+Janusz M 1 4 7
+Dorota E 1 3 2
+Janusz M 1 5 -25 62 95 -25 11 -97 32
+Grzegorz C 1 2 PartiaB 21
+Agnieszka T 1 8 43 38 -23 -7 57 8 -56 PartiaA
+Filip B 1 3 5
+Grzegorz B 1 5 82 27 -4 84 9 100 -85
+Elzbieta A 1 3 3
+Kazimierz T 1 3 6
+Agnieszka H 1 7 6 PartiaA
+Alina C 1 5 57 -12 85 -87 -19 -38 75
+Piotr N 1 7 5 PartiaB
+Dawid K 1 7 3 PartiaB
+Alina H 1 3 2
+Janusz U 1 2 PartiaA 14
+Agnieszka S 1 6 1 PartiaB
+Alina H 1 6 7 PartiaB
+Maria Z 1 4 4
+Dorota Z 1 1 PartiaB
+Filip P 1 5 -65 -87 -74 -46 -30 40 62
+Justyna I 1 1 PartiaA
+Piotr K 1 3 6
+Jan D 1 3 6
+Janusz B 1 6 2 PartiaA
+Filip L 1 7 6 PartiaB
+Michal J 1 2 PartiaB 21
+Konrad T 1 6 3 PartiaB
+Maria F 1 4 4
+Agnieszka K 1 2 PartiaB 10
+Justyna U 1 4 7
+Zofia E 1 1 PartiaA
+Anna W 1 5 84 18 33 12 -62 65 -56
+Jacek Z 1 2 PartiaB 28
+Filip E 1 7 6 PartiaA
+Agnieszka I 1 6 6 PartiaA
+Ewa F 1 1 PartiaB
+Marta U 1 2 PartiaA 11
+Michal W 1 3 3
+Konrad U 1 6 1 PartiaB
+Janusz T 1 6 5 PartiaB
+Michal D 1 3 4
+Agnieszka I 1 4 5
+Joanna F 1 6 3 PartiaB
+Janusz D 1 5 -93 -95 12 -20 88 38 -32
+Filip I 1 1 PartiaB
+Zofia W 1 8 -14 -93 -33 47 -30 -67 -81 PartiaB
+Grzegorz N 1 4 2
+Janusz F 1 2 PartiaB 27
+Grzegorz F 1 8 -86 -18 77 36 -30 -26 91 PartiaA
+Dawid N 1 2 PartiaB 33
+Filip I 1 8 81 -86 -9 -78 53 -49 -70 PartiaB
+Michal W 1 6 7 PartiaB
+Justyna S 1 7 6 PartiaA
+Filip L 1 4 3
+Piotr M 1 5 -26 92 89 60 -94 -46 -33
+Agnieszka G 1 4 1
+Alina I 1 4 3
+Kazimierz G 1 6 2 PartiaA
+Justyna J 1 7 3 PartiaB
+Konrad D 1 3 3
+Agnieszka Z 1 6 7 PartiaB
+Elzbieta C 1 6 6 PartiaB
+Marta G 1 3 3
+Krzysztof Z 1 3 3
+Dorota W 1 8 -93 27 -91 -40 1 55 76 PartiaA
+Grzegorz O 1 2 PartiaB 32
+Konrad P 1 1 PartiaA
+Joanna O 1 1 PartiaB
+Justyna F 1 7 7 PartiaA
+Kazimierz Z 1 8 -34 -94 -21 -79 -80 -10 -2 PartiaA
+Michal H 1 4 4
+Filip D 1 6 2 PartiaA
+Pawel P 1 3 5
+Elzbieta S 1 5 60 -90 67 16 -1 -100 -34
+Joanna A 1 5 64 -16 -30 50 -35 2 69
+Janusz B 1 7 5 PartiaA
+Dorota A 1 5 -16 15 79 51 14 46 21
+Ewa M 1 2 PartiaA 40
+Agnieszka O 1 1 PartiaB
+Michal I 1 5 28 2 -64 -34 -35 -100 7
+Alina D 1 1 PartiaA
+Dawid E 1 6 7 PartiaA
+Piotr H 1 8 38 35 -9 54 90 4 68 PartiaB
+Zofia F 1 6 7 PartiaA
+Alina M 1 3 2
+Kazimierz C 1 7 4 PartiaA
+Krzysztof M 1 2 PartiaA 9
+Dawid R 1 4 6
+Janusz J 1 7 4 PartiaB
+Marta H 1 1 PartiaB
+Agnieszka D 1 7 5 PartiaA
+Malgorzata F 1 8 61 -89 30 -17 -34 -30 69 PartiaA
+Marta U 1 5 -54 -36 -37 48 -67 -26 72
+Justyna G 1 3 5
+Joanna J 1 2 PartiaA 36
+Anna G 1 6 3 PartiaB
+Krzysztof F 1 1 PartiaB
+Dorota A 1 4 3
+Malgorzata K 1 7 4 PartiaA
+Anna M 1 4 6
+Malgorzata U 1 5 31 -90 87 -66 -52 12 5
+Ewa O 1 4 2
+Filip G 1 4 5
+Jacek J 1 2 PartiaA 1
+Piotr R 1 1 PartiaB
+Maria E 1 5 52 31 -20 22 95 -41 -43
+Janusz F 1 6 2 PartiaA
+Elzbieta G 1 1 PartiaB
+Maria A 1 5 87 7 -27 70 77 64 35
+Anna T 1 4 7
+Ewa G 1 1 PartiaB
+Justyna E 1 4 2
+Jan P 1 4 2
+Jacek K 1 2 PartiaB 37
+Janusz T 1 5 -18 72 -50 -39 -82 48 35
+Elzbieta S 1 1 PartiaB
+Michal D 1 6 1 PartiaB
+Zofia F 1 3 2
+Ewa K 1 3 5
+Filip E 1 5 38 -75 -3 -3 -83 72 -14
+Jacek H 1 5 -99 -11 -97 85 -90 98 -34
+Malgorzata K 1 5 -26 49 -76 -81 -61 14 41
+Jacek H 1 1 PartiaA
+Dawid D 1 8 100 -53 -52 27 18 -99 46 PartiaB
+Krzysztof N 1 5 -18 -65 51 -58 79 -33 23
+Piotr W 1 8 19 94 67 3 65 33 66 PartiaB
+Anna H 1 6 7 PartiaA
+Jacek B 1 7 6 PartiaB
+Piotr T 1 5 70 -17 -54 69 -16 35 62
+Marta C 1 6 7 PartiaA
+Janusz L 1 8 44 63 -53 -13 9 76 9 PartiaA
+Jan R 1 7 6 PartiaA
+Anna L 1 8 -90 77 -13 -54 53 5 -20 PartiaA
+Pawel E 1 2 PartiaA 1
+Kazimierz K 1 7 1 PartiaB
+Pawel N 1 6 6 PartiaA
+Malgorzata C 1 6 2 PartiaB
+Michal R 1 7 7 PartiaA
+Alina N 1 7 2 PartiaA
+Dawid D 1 2 PartiaA 36
+Ewa L 1 8 33 94 -30 -98 93 -16 -71 PartiaB
+Kazimierz C 1 5 86 -75 -76 -29 45 68 87
+Ewa A 1 7 4 PartiaB
+Ewa N 1 4 7
+Zofia B 1 2 PartiaB 39
+Maria L 1 3 7
+Agnieszka R 1 2 PartiaB 11
+Maria O 1 1 PartiaA
+Janusz U 1 8 96 90 -48 92 -12 -16 -69 PartiaA
+Filip I 1 7 5 PartiaB
+Dawid A 1 7 4 PartiaA
+Grzegorz C 1 4 4
+Grzegorz K 1 2 PartiaA 29
+Jan D 1 3 3
+Jacek W 1 3 5
+Alina H 1 2 PartiaB 3
+Elzbieta K 1 2 PartiaA 20
+Anna L 1 2 PartiaB 15
+Pawel M 1 6 6 PartiaB
+Filip O 1 2 PartiaA 18
+Kazimierz A 1 4 1
+Dorota O 1 6 1 PartiaB
+Justyna U 1 3 2
+Konrad L 1 3 3
+Agnieszka D 1 8 -30 -61 -29 -28 55 37 -80 PartiaB
+Dorota C 1 8 50 -95 34 64 -67 97 61 PartiaA
+Janusz M 1 1 PartiaA
+Malgorzata Z 1 2 PartiaA 33
+Kazimierz Z 1 7 7 PartiaB
+Jan O 1 4 3
+Jacek N 1 1 PartiaA
+Marta B 1 8 48 -15 67 51 93 -28 78 PartiaA
+Krzysztof W 1 4 3
+Dawid W 1 7 1 PartiaB
+Dorota D 1 6 6 PartiaB
+Jan E 1 6 4 PartiaA
+Zofia H 1 3 2
+Maria L 1 1 PartiaA
+Alina R 1 5 13 36 -80 -89 -4 24 44
+Marta H 1 8 20 -4 -36 81 -67 -66 8 PartiaA
+Janusz I 1 3 7
+Agnieszka E 1 5 -54 77 18 62 81 23 -6
+Justyna U 1 8 -35 -15 64 -15 -38 72 91 PartiaA
+Anna U 1 7 5 PartiaB
+Dawid S 1 8 15 -76 -78 -14 -61 -34 -72 PartiaA
+Joanna T 1 5 -90 -63 77 -29 -70 -57 46
+Ewa H 1 2 PartiaA 15
+Pawel L 1 8 78 30 10 -32 16 74 14 PartiaB
+Dawid U 1 5 -44 -99 -89 -34 99 -45 39
+Maria E 1 8 -27 -15 36 95 -46 36 6 PartiaA
+Jacek H 1 6 5 PartiaB
+Zofia Z 1 1 PartiaB
+Zofia A 1 7 4 PartiaA
+Marta G 1 8 29 78 22 -56 -40 41 -64 PartiaA
+Konrad E 1 1 PartiaA
+Ewa I 1 7 5 PartiaB
+Pawel W 1 3 5
+Dawid G 1 8 -78 -88 -29 97 -64 -61 95 PartiaB
+Michal C 1 1 PartiaB
+Joanna J 1 8 22 35 -34 64 -20 42 -33 PartiaB
+Anna I 1 1 PartiaA
+Ewa U 1 3 1
+Alina E 1 5 -47 90 37 68 -58 -22 -80
+Maria N 1 8 -40 85 -17 10 71 60 13 PartiaA
+Pawel J 1 3 3
+Alina Z 1 6 3 PartiaA
+Janusz O 1 3 4
+Kazimierz W 1 5 -2 -100 -93 87 2 63 62
+Michal O 1 2 PartiaA 40
+Janusz H 1 8 -47 2 -100 -66 85 67 53 PartiaA
+Malgorzata A 1 2 PartiaA 1
+Anna H 1 2 PartiaA 34
+Jan R 1 4 2
+Joanna P 1 2 PartiaA 1
+Zofia F 1 1 PartiaB
+Filip C 1 3 1
+Pawel N 1 4 3
+Konrad L 1 8 -23 38 -49 88 24 6 23 PartiaA
+Krzysztof Z 1 8 60 -70 -49 -25 97 94 -98 PartiaA
+Janusz T 1 8 -1 79 25 33 -77 2 -30 PartiaA
+Jacek I 1 5 22 15 -38 36 -40 73 51
+Konrad N 1 6 4 PartiaA
+Maria M 1 6 4 PartiaB
+Maria K 1 1 PartiaB
+Anna U 1 3 3
+Zofia E 1 5 -20 -83 89 96 -20 -80 -39
+Anna J 1 1 PartiaA
+Jan M 1 4 3
+Krzysztof K 1 5 -85 -89 -64 -62 78 25 -48
+Joanna M 1 1 PartiaB
+Ewa R 1 7 3 PartiaA
+Maria A 1 3 6
+Janusz T 1 3 7
+Alina W 1 7 7 PartiaA
+Joanna F 1 7 2 PartiaA
+Michal L 1 4 5
+Ewa I 1 4 7
+Agnieszka P 1 8 -62 -39 -95 81 -54 -10 11 PartiaA
+Jacek F 1 7 7 PartiaA
+Jan H 1 3 1
+Kazimierz W 1 1 PartiaA
+Zofia C 1 3 1
+Agnieszka L 1 3 4
+Jacek U 1 6 4 PartiaB
+Alina N 1 8 33 -24 84 -42 19 -4 -9 PartiaA
+Dorota P 1 2 PartiaA 12
+Elzbieta S 1 2 PartiaB 28
+Konrad S 1 7 3 PartiaB
+Piotr P 1 7 3 PartiaB
+Zofia H 1 6 6 PartiaA
+Kazimierz Z 1 3 5
+Jacek L 1 1 PartiaA
+Filip H 1 3 1
+Dawid T 1 8 -8 61 55 -73 57 -75 55 PartiaA
+Anna L 1 2 PartiaB 32
+Ewa H 1 6 7 PartiaB
+Dawid G 1 4 4
+Anna F 1 7 2 PartiaA
+Maria J 1 6 7 PartiaA
+Kazimierz R 1 7 4 PartiaB
+Krzysztof L 1 4 3
+Elzbieta C 1 4 5
+Marta A 1 1 PartiaA
+Krzysztof I 1 4 6
+Agnieszka F 1 8 -81 18 70 -75 58 34 70 PartiaB
+Dorota M 1 2 PartiaA 5
+Joanna N 1 5 84 22 79 39 -11 -10 52
+Filip R 1 8 -36 -14 -93 16 -85 -79 86 PartiaB
+Dorota Z 1 1 PartiaB
+Filip W 1 3 5
+Pawel E 1 2 PartiaB 28
+Malgorzata S 1 1 PartiaA
+Malgorzata C 2 1 PartiaA
+Jacek K 2 4 2
+Justyna D 2 8 -7 -68 13 -14 76 68 16 PartiaA
+Justyna W 2 2 PartiaA 16
+Elzbieta L 2 1 PartiaB
+Kazimierz O 2 8 28 78 67 -97 67 36 -93 PartiaA
+Elzbieta R 2 7 2 PartiaB
+Elzbieta H 2 2 PartiaA 18
+Michal A 2 2 PartiaA 7
+Elzbieta N 2 2 PartiaB 63
+Janusz G 2 2 PartiaB 1
+Grzegorz Z 2 8 -13 -9 25 69 53 17 -14 PartiaB
+Dawid I 2 2 PartiaA 31
+Marta S 2 7 1 PartiaA
+Dorota N 2 6 5 PartiaA
+Dorota I 2 8 3 -6 60 -27 52 100 99 PartiaB
+Janusz B 2 3 4
+Jan I 2 2 PartiaA 49
+Krzysztof M 2 8 5 -72 -18 38 67 -62 77 PartiaB
+Jacek W 2 8 -25 60 -51 -58 81 93 36 PartiaA
+Filip W 2 6 6 PartiaB
+Ewa J 2 7 7 PartiaA
+Jan I 2 3 1
+Dawid J 2 2 PartiaB 52
+Elzbieta F 2 7 1 PartiaA
+Dorota S 2 6 6 PartiaA
+Justyna W 2 3 4
+Dorota N 2 4 5
+Maria I 2 4 1
+Dawid W 2 4 7
+Justyna U 2 6 2 PartiaA
+Joanna E 2 7 1 PartiaB
+Michal J 2 7 2 PartiaA
+Maria R 2 5 -93 80 64 -40 48 -98 43
+Krzysztof D 2 6 3 PartiaB
+Konrad P 2 8 -80 -77 83 -64 -20 -16 -91 PartiaB
+Malgorzata D 2 4 1
+Michal E 2 5 -43 -44 -38 59 37 -5 90
+Elzbieta P 2 5 -34 92 -94 -27 88 14 75
+Marta J 2 2 PartiaB 14
+Anna M 2 7 1 PartiaA
+Janusz S 2 6 5 PartiaB
+Grzegorz Z 2 8 65 -4 -80 -79 -77 -77 -9 PartiaA
+Malgorzata F 2 6 3 PartiaA
+Malgorzata W 2 4 3
+Anna C 2 2 PartiaA 36
+Maria I 2 5 -36 -9 37 89 55 -97 -92
+Konrad A 2 8 -13 -35 57 95 71 -33 -65 PartiaB
+Zofia C 2 6 4 PartiaA
+Dorota R 2 6 6 PartiaB
+Kazimierz J 2 8 -15 -64 -89 -48 -77 -100 84 PartiaB
+Joanna G 2 4 4
+Maria P 2 7 6 PartiaA
+Filip S 2 1 PartiaB
+Joanna B 2 5 -44 64 68 -99 60 32 56
+Kazimierz H 2 4 5
+Dawid B 2 4 1
+Elzbieta H 2 7 6 PartiaB
+Krzysztof U 2 5 90 -11 93 -81 -65 44 3
+Jacek N 2 3 2
+Dorota D 2 7 2 PartiaB
+Joanna B 2 8 62 -10 46 -95 23 99 32 PartiaA
+Anna M 2 7 6 PartiaB
+Jacek A 2 3 4
+Janusz L 2 8 -4 -44 62 -38 51 98 -89 PartiaA
+Agnieszka U 2 3 7
+Konrad K 2 8 2 -53 40 -75 -2 -23 -51 PartiaB
+Dorota C 2 8 -77 -44 49 -36 99 35 32 PartiaA
+Piotr O 2 6 3 PartiaA
+Agnieszka A 2 4 3
+Filip F 2 8 85 -9 -91 73 13 25 20 PartiaB
+Joanna S 2 6 3 PartiaB
+Michal P 2 6 6 PartiaB
+Anna L 2 2 PartiaA 26
+Elzbieta C 2 6 4 PartiaB
+Zofia P 2 8 65 -79 -19 -65 72 54 -98 PartiaA
+Agnieszka T 2 6 1 PartiaB
+Elzbieta W 2 1 PartiaA
+Krzysztof I 2 2 PartiaB 35
+Anna O 2 8 -32 -13 57 63 -26 45 -30 PartiaB
+Grzegorz N 2 6 3 PartiaB
+Kazimierz J 2 3 5
+Michal P 2 7 4 PartiaA
+Kazimierz D 2 8 55 -79 62 44 -55 41 84 PartiaB
+Alina C 2 3 4
+Agnieszka L 2 3 1
+Michal E 2 2 PartiaB 23
+Ewa H 2 6 7 PartiaA
+Janusz F 2 1 PartiaA
+Zofia L 2 1 PartiaA
+Jacek K 2 5 -39 65 -85 2 40 -81 76
+Grzegorz J 2 7 5 PartiaB
+Maria G 2 8 59 37 -61 -85 -61 -46 -37 PartiaA
+Krzysztof L 2 8 47 -42 94 -79 35 -37 10 PartiaA
+Alina J 2 5 -51 -37 -7 -98 -9 7 -29
+Anna D 2 6 5 PartiaA
+Konrad M 2 7 3 PartiaA
+Kazimierz K 2 1 PartiaB
+Dawid J 2 3 4
+Justyna R 2 1 PartiaA
+Agnieszka O 2 7 5 PartiaA
+Marta L 2 1 PartiaA
+Grzegorz S 2 4 1
+Michal F 2 8 1 37 72 43 -80 83 -46 PartiaB
+Jan E 2 2 PartiaA 3
+Malgorzata U 2 1 PartiaB
+Zofia O 2 5 -16 45 -2 -71 60 -35 -63
+Ewa N 2 5 100 -66 -89 -60 39 -1 33
+Maria S 2 8 -36 -66 12 -41 14 57 13 PartiaA
+Filip D 2 3 4
+Marta A 2 3 5
+Elzbieta W 2 7 7 PartiaA
+Michal I 2 6 6 PartiaB
+Piotr L 2 2 PartiaB 21
+Janusz M 2 8 -21 -47 3 8 -92 85 -89 PartiaA
+Filip L 2 5 46 45 -33 95 -53 34 -29
+Anna Z 2 2 PartiaB 37
+Agnieszka U 2 8 -40 -97 99 -68 -29 -23 -33 PartiaA
+Janusz L 2 5 -67 86 91 75 8 -77 95
+Jan F 2 2 PartiaB 25
+Zofia D 2 8 -96 23 7 -48 -62 -51 -81 PartiaB
+Jan Z 2 2 PartiaB 27
+Ewa M 2 5 -12 29 -13 -24 -3 -67 -4
+Jan N 2 4 7
+Pawel H 2 3 2
+Dawid D 2 5 60 -19 -11 64 38 54 55
+Anna C 2 5 -49 -25 -32 -30 -76 -43 58
+Jan S 2 5 26 -51 -25 -47 -69 95 6
+Agnieszka U 2 8 -10 33 -94 60 -63 80 -22 PartiaB
+Marta O 2 2 PartiaB 58
+Jacek T 2 7 1 PartiaB
+Maria R 2 3 1
+Grzegorz M 2 6 1 PartiaB
+Piotr A 2 5 -23 65 -39 -84 -4 -3 58
+Pawel T 2 8 57 35 39 85 55 -90 -16 PartiaB
+Zofia R 2 7 4 PartiaA
+Dawid R 2 3 5
+Konrad E 2 7 5 PartiaA
+Marta J 2 4 6
+Jan W 2 7 5 PartiaA
+Jan L 2 2 PartiaB 32
+Maria Z 2 7 2 PartiaA
+Filip T 2 8 62 -4 -6 -69 95 -75 -16 PartiaA
+Malgorzata M 2 6 3 PartiaB
+Dorota U 2 5 -18 62 71 20 -38 56 -93
+Joanna U 2 5 -31 20 38 -71 52 -58 -21
+Anna T 2 2 PartiaB 49
+Michal G 2 7 4 PartiaB
+Alina B 2 7 3 PartiaB
+Piotr C 2 7 4 PartiaB
+Maria B 2 7 5 PartiaB
+Konrad M 2 7 2 PartiaB
+Piotr T 2 5 -63 -56 -62 20 58 -94 0
+Krzysztof F 2 8 97 -90 31 5 29 -70 -38 PartiaB
+Konrad O 2 4 7
+Janusz Z 2 7 4 PartiaA
+Alina K 2 2 PartiaB 30
+Grzegorz B 2 2 PartiaA 66
+Krzysztof C 2 8 -63 31 20 -53 20 71 -48 PartiaA
+Filip S 2 2 PartiaB 63
+Ewa E 2 1 PartiaB
+Maria A 2 2 PartiaA 10
+Michal D 2 2 PartiaA 22
+Alina S 2 1 PartiaA
+Konrad R 2 3 6
+Jacek D 2 5 100 -28 58 39 -67 -11 -56
+Michal C 2 3 5
+Grzegorz G 2 1 PartiaA
+Ewa R 2 5 -66 53 -32 10 -88 22 17
+Jan S 2 3 4
+Janusz O 2 4 3
+Joanna H 2 5 -7 -23 87 -22 -3 50 73
+Jan S 2 3 4
+Konrad D 2 2 PartiaB 13
+Ewa R 2 7 7 PartiaA
+Alina M 2 7 7 PartiaB
+Marta K 2 2 PartiaA 36
+Pawel O 2 1 PartiaA
+Kazimierz T 2 3 7
+Piotr R 2 7 5 PartiaA
+Jacek D 2 1 PartiaA
+Zofia T 2 5 85 -53 52 54 19 -43 -88
+Zofia T 2 5 -1 0 2 84 40 -23 -5
+Filip K 2 7 2 PartiaA
+Maria G 2 4 4
+Dorota U 2 5 29 -79 71 99 -12 89 -78
+Zofia U 2 4 6
+Jacek B 2 3 4
+Pawel I 2 2 PartiaA 56
+Filip L 2 6 7 PartiaB
+Dawid C 2 5 70 33 -19 -17 68 -19 -14
+Janusz P 2 5 70 34 -74 24 -31 45 -92
+Dawid R 2 4 6
+Elzbieta D 2 7 6 PartiaA
+Maria D 2 2 PartiaB 23
+Joanna K 2 5 31 10 -40 -12 -65 31 82
+Agnieszka K 2 8 -66 22 -67 100 94 75 -13 PartiaB
+Maria A 2 3 6
+Malgorzata S 2 8 24 1 50 24 -34 81 -32 PartiaA
+Krzysztof J 2 3 2
+Joanna C 2 3 3
+Jan L 2 6 6 PartiaB
+Anna S 2 6 6 PartiaB
+Malgorzata G 2 7 5 PartiaA
+Krzysztof B 2 8 -56 -7 -83 28 28 2 99 PartiaB
+Grzegorz C 2 6 7 PartiaA
+Marta N 2 7 3 PartiaA
+Malgorzata H 2 3 5
+Dorota O 2 3 2
+Jacek R 2 2 PartiaB 66
+Janusz R 2 4 2
+Agnieszka Z 2 4 5
+Zofia R 2 8 28 47 28 24 87 -93 -22 PartiaA
+Konrad C 2 6 5 PartiaB
+Elzbieta C 2 7 5 PartiaB
+Jacek T 2 8 -20 -49 -79 -79 89 90 -2 PartiaB
+Michal P 2 3 4
+Pawel F 2 7 6 PartiaB
+Filip P 2 8 41 -87 -26 -66 -92 -45 43 PartiaB
+Jacek D 2 2 PartiaA 6
+Konrad B 2 8 -97 79 -51 44 39 -28 -94 PartiaB
+Piotr U 2 7 7 PartiaB
+Grzegorz U 2 4 3
+Zofia I 2 1 PartiaB
+Filip P 2 7 6 PartiaB
+Anna L 2 4 1
+Dawid T 2 2 PartiaA 38
+Zofia U 2 7 3 PartiaA
+Agnieszka D 2 5 -76 85 -72 -96 -94 10 47
+Michal A 2 7 1 PartiaB
+Justyna C 2 4 2
+Joanna F 2 4 1
+Kazimierz U 2 6 1 PartiaA
+Krzysztof C 2 5 -81 87 -19 31 14 -69 78
+Konrad C 2 8 25 32 -20 -45 -59 -53 68 PartiaA
+Dawid J 2 1 PartiaB
+Alina N 2 2 PartiaB 36
+Dawid B 2 7 5 PartiaB
+Ewa G 2 4 3
+Michal U 2 7 5 PartiaA
+Filip A 2 8 17 -79 43 -63 -44 -79 68 PartiaB
+Jan Z 2 3 5
+Malgorzata C 2 1 PartiaB
+Marta P 2 6 1 PartiaA
+Grzegorz M 2 8 -92 25 44 54 50 99 -67 PartiaB
+Anna J 2 4 3
+Elzbieta E 2 7 2 PartiaB
+Marta A 2 1 PartiaB
+Michal D 2 3 6
+Ewa A 2 3 3
+Jacek P 2 6 2 PartiaA
+Alina J 2 1 PartiaA
+Kazimierz R 2 4 3
+Justyna P 2 8 -41 -58 87 100 84 -10 61 PartiaA
+Janusz F 2 3 7
+Anna G 2 1 PartiaA
+Ewa N 2 1 PartiaB
+Pawel A 2 8 13 -11 -51 82 -46 -28 -87 PartiaA
+Alina I 2 2 PartiaA 66
+Marta H 2 1 PartiaB
+Dawid W 2 2 PartiaB 25
+Maria I 2 3 6
+Filip L 2 6 7 PartiaA
+Joanna Z 2 6 1 PartiaA
+Filip E 2 4 4
+Jacek A 2 4 4
+Grzegorz K 2 2 PartiaB 44
+Dawid E 2 3 5
+Elzbieta P 2 4 1
+Ewa P 2 4 7
+Konrad E 2 3 6
+Jan W 2 2 PartiaA 3
+Dorota W 2 4 5
+Joanna I 2 2 PartiaA 19
+Malgorzata J 2 2 PartiaB 23
+Pawel I 2 8 97 -7 -2 -95 12 75 -59 PartiaA
+Kazimierz E 2 4 7
+Dorota R 2 5 14 15 34 92 -72 57 -43
+Ewa A 2 4 5
+Ewa U 2 1 PartiaB
+Justyna K 2 5 98 65 25 -11 29 27 100
+Jan S 2 6 1 PartiaA
+Justyna B 2 1 PartiaA
+Jan B 2 7 7 PartiaA
+Grzegorz N 2 3 4
+Grzegorz N 2 5 -96 -69 23 -31 46 -90 -6
+Jacek A 2 7 3 PartiaB
+Konrad R 2 2 PartiaA 18
+Elzbieta T 2 4 6
+Dorota L 2 6 6 PartiaA
+Jacek A 2 8 7 74 -98 80 49 -63 90 PartiaB
+Justyna L 2 2 PartiaB 54
+Filip B 2 6 2 PartiaB
+Jan F 2 3 5
+Konrad I 2 3 6
+Krzysztof L 2 1 PartiaB
+Jacek I 2 8 53 -29 -79 38 -72 -65 6 PartiaB
+Pawel A 2 2 PartiaB 16
+Krzysztof T 2 7 6 PartiaA
+Malgorzata M 2 2 PartiaB 64
+Dawid E 2 7 6 PartiaB
+Ewa W 2 2 PartiaB 46
+Joanna U 2 7 1 PartiaA
+Konrad C 2 7 3 PartiaA
+Anna W 2 7 1 PartiaB
+Piotr O 2 5 -62 -52 63 37 43 81 9
+Janusz S 2 3 1
+Alina H 2 3 2
+Michal U 2 5 -41 24 -60 17 4 57 -20
+Kazimierz P 2 3 7
+Piotr J 2 8 29 -35 5 -64 40 56 69 PartiaB
+Malgorzata L 2 6 2 PartiaA
+Krzysztof Z 2 7 3 PartiaA
+Joanna H 2 8 67 -52 -99 -33 -55 89 52 PartiaB
+Elzbieta C 2 2 PartiaA 66
+Elzbieta E 2 7 6 PartiaB
+Maria R 2 8 66 -38 88 -23 -52 40 -33 PartiaA
+Dorota K 2 8 -70 2 61 82 100 0 -7 PartiaB
+Piotr U 2 6 7 PartiaA
+Jan U 2 7 4 PartiaA
+Jan L 2 7 6 PartiaA
+Michal K 2 2 PartiaA 62
+Anna S 2 2 PartiaB 4
+Ewa N 2 5 85 79 79 -45 40 8 -59
+Michal J 2 2 PartiaB 53
+Joanna J 2 6 4 PartiaB
+Ewa F 2 4 1
+Kazimierz A 2 1 PartiaB
+Krzysztof G 2 2 PartiaA 37
+Piotr H 2 2 PartiaA 36
+Agnieszka B 2 7 7 PartiaA
+Dawid T 2 7 7 PartiaA
+Marta E 2 4 5
+Marta B 2 8 -70 -87 27 6 2 72 69 PartiaB
+Konrad P 2 2 PartiaA 14
+Kazimierz G 2 8 -99 -55 -15 -30 -97 62 48 PartiaB
+Marta F 2 6 1 PartiaA
+Ewa E 2 5 36 70 -48 72 94 -21 50
+Maria M 2 3 1
+Justyna Z 2 1 PartiaA
+Krzysztof I 2 5 49 -62 -38 -51 72 42 -35
+Malgorzata E 2 7 5 PartiaB
+Jan D 2 6 1 PartiaA
+Justyna L 2 5 -61 -15 -36 75 -84 -3 -86
+Janusz B 2 7 3 PartiaA
+Dorota P 2 1 PartiaB
+Justyna C 2 8 -96 -45 71 63 16 37 -97 PartiaB
+Janusz L 2 4 3
+Dorota D 2 5 31 35 10 62 89 87 -26
+Dawid A 2 4 1
+Konrad N 2 8 14 -44 22 39 -18 45 80 PartiaA
+Michal O 2 8 -20 39 -74 -63 94 -72 -80 PartiaB
+Anna D 2 4 1
+Michal F 2 7 5 PartiaA
+Jacek P 2 8 68 -29 -95 -88 -39 -44 -80 PartiaA
+Elzbieta E 2 8 -38 37 38 94 8 -37 -4 PartiaB
+Alina C 2 1 PartiaB
+Alina U 2 3 2
+Pawel T 2 3 5
+Alina E 2 4 5
+Krzysztof T 2 5 -76 95 -99 50 -61 -23 81
+Janusz N 2 1 PartiaB
+Elzbieta M 2 8 94 -79 -77 47 -83 30 -76 PartiaA
+Jan E 2 7 2 PartiaB
+Joanna O 2 8 -92 20 -100 39 -22 81 15 PartiaB
+Maria W 2 2 PartiaB 22
+Anna D 2 1 PartiaA
+Alina J 2 7 7 PartiaA
+Michal E 2 5 15 3 -28 45 -6 -39 75
+Justyna G 2 1 PartiaB
+Zofia D 2 2 PartiaA 28
+Ewa B 2 3 7
+Dawid G 2 1 PartiaA
+Elzbieta G 2 3 3
+Janusz H 2 2 PartiaA 52
+Maria D 2 4 7
+Dawid T 2 5 93 91 0 -75 40 -95 37
+Agnieszka E 2 2 PartiaA 25
+Janusz C 2 3 4
+Anna T 2 3 1
+Ewa R 2 6 3 PartiaA
+Alina R 2 6 1 PartiaA
+Joanna M 2 5 22 18 53 -68 48 -98 73
+Marta A 2 7 4 PartiaB
+Konrad I 2 4 7
+Filip H 2 8 -50 6 82 0 75 0 -49 PartiaB
+Grzegorz U 2 2 PartiaA 46
+Agnieszka S 2 8 -15 71 -85 -66 -16 -94 -87 PartiaB
+Joanna L 2 5 26 -76 -3 27 -38 -94 -8
+Dorota N 2 8 2 -19 7 -80 -55 40 -95 PartiaB
+Konrad E 2 7 2 PartiaB
+Jan T 2 7 4 PartiaA
+Agnieszka W 2 7 4 PartiaA
+Jan S 2 4 7
+Ewa H 2 3 1
+Malgorzata W 2 8 -18 41 -1 70 -10 -29 -70 PartiaA
+Maria F 2 6 7 PartiaA
+Dawid G 2 7 5 PartiaA
+Krzysztof S 2 6 7 PartiaA
+Zofia I 2 6 3 PartiaA
+Piotr J 2 6 7 PartiaB
+Piotr L 2 3 6
+Marta T 2 6 1 PartiaB
+Jan G 2 7 1 PartiaB
+Konrad K 2 3 7
+Jacek P 2 4 1
+Joanna I 2 8 -14 49 -73 -54 66 -12 51 PartiaA
+Pawel N 2 8 -62 -9 74 91 18 70 71 PartiaA
+Jacek D 2 6 1 PartiaA
+Filip S 2 5 -19 5 58 95 27 -83 -68
+Krzysztof T 2 7 4 PartiaB
+Dorota O 2 7 4 PartiaA
+Marta L 2 6 4 PartiaB
+Justyna Z 2 7 6 PartiaB
+Filip R 2 3 1
+Ewa S 2 3 7
+Piotr I 2 1 PartiaA
+Joanna U 2 7 6 PartiaB
+Dawid L 2 8 11 25 -9 -70 19 -93 -77 PartiaA
+Michal L 2 6 1 PartiaA
+Elzbieta H 2 5 -77 -39 25 -57 43 55 -38
+Kazimierz B 2 1 PartiaB
+Jacek T 2 3 5
+Elzbieta U 2 1 PartiaA
+Krzysztof L 2 2 PartiaA 6
+Janusz C 2 3 3
+Marta W 2 6 5 PartiaA
+Anna U 2 7 4 PartiaB
+Grzegorz P 2 4 7
+Jan C 2 8 -37 74 39 41 -51 -68 45 PartiaA
+Michal E 2 1 PartiaA
+Konrad Z 2 8 -5 84 92 -20 39 96 84 PartiaB
+Konrad U 2 8 79 87 -98 96 -53 -98 -48 PartiaB
+Zofia P 2 3 6
+Malgorzata P 2 3 5
+Maria B 2 3 7
+Jacek E 2 8 -25 -72 -2 8 -64 -64 -75 PartiaA
+Agnieszka S 2 5 -15 -86 -100 66 -38 -18 76
+Elzbieta E 2 8 -89 62 80 -99 -74 21 5 PartiaB
+Justyna R 2 4 5
+Jan M 2 3 5
+Grzegorz H 2 3 1
+Anna S 2 5 -43 87 43 -58 -23 -33 90
+Kazimierz N 2 4 2
+Jacek T 2 6 3 PartiaB
+Piotr P 2 5 -85 -88 -43 -33 -50 -29 -90
+Michal A 2 1 PartiaB
+Pawel B 2 7 2 PartiaA
+Anna I 2 2 PartiaA 32
+Pawel B 2 7 7 PartiaA
+Dawid K 2 5 32 54 -52 -29 -97 -100 20
+Kazimierz J 2 6 5 PartiaB
+Agnieszka N 2 4 3
+Dawid O 2 4 5
+Kazimierz A 2 1 PartiaB
+Maria N 2 4 6
+Jacek F 2 5 -82 49 25 -46 100 8 -13
+Dorota N 2 8 75 100 90 -37 -40 70 43 PartiaA
+Marta P 2 5 -10 60 -66 83 -98 53 -51
+Justyna A 2 3 3
+Justyna D 2 2 PartiaB 10
+Kazimierz Z 2 1 PartiaB
+Joanna N 2 3 3
+Grzegorz J 2 6 3 PartiaA
+Krzysztof N 2 2 PartiaA 41
+Krzysztof H 2 4 5
+Dawid P 2 8 -15 42 97 -61 -25 -29 -56 PartiaB
+Pawel P 2 2 PartiaA 22
+Malgorzata B 2 7 5 PartiaB
+Krzysztof D 2 1 PartiaB
+Justyna J 2 8 4 4 43 -67 91 -26 -80 PartiaB
+Kazimierz R 2 8 -21 6 -95 48 73 -50 -17 PartiaB
+Michal I 2 6 3 PartiaB
+Jan G 2 2 PartiaB 13
+Krzysztof J 2 5 -49 52 34 -99 72 60 -43
+Maria H 2 6 3 PartiaB
+Jan J 2 8 -90 -88 97 75 -1 -11 -10 PartiaA
+Janusz G 2 7 2 PartiaB
+Zofia P 2 3 4
+Grzegorz S 2 6 4 PartiaA
+Joanna N 2 8 67 11 -56 -12 54 68 12 PartiaB
+Filip E 2 3 2
+Agnieszka S 2 1 PartiaA
+Dorota T 2 6 7 PartiaA
+Pawel G 2 2 PartiaB 60
+Michal B 2 8 -38 4 -93 -21 12 -39 -91 PartiaA
+Grzegorz L 2 1 PartiaB
+Ewa P 2 8 5 0 -67 -32 -91 -90 -83 PartiaA
+Zofia Z 2 7 2 PartiaA
+Konrad J 2 3 3
+Malgorzata R 2 2 PartiaB 59
+Elzbieta R 2 3 2
+Dawid T 2 4 5
+Anna B 2 2 PartiaA 52
+Krzysztof R 2 6 4 PartiaB
+Alina U 2 3 7
+Justyna N 2 4 7
+Maria P 2 5 77 -98 5 82 -6 38 80
+Krzysztof L 2 4 7
+Ewa O 2 3 2
+Filip K 2 4 1
+Anna E 2 5 47 -2 -14 70 5 -21 -1
+Piotr B 2 6 3 PartiaB
+Piotr N 2 3 7
+Dorota L 2 3 7
+Agnieszka D 2 6 6 PartiaB
+Konrad T 2 3 2
+Piotr O 2 8 -63 63 -97 -82 89 -10 -35 PartiaB
+Grzegorz W 2 2 PartiaA 38
+Justyna R 2 6 7 PartiaA
+Anna A 2 1 PartiaB
+Jacek N 2 3 7
+Piotr H 2 3 3
+Grzegorz B 2 4 6
+Ewa K 2 2 PartiaB 16
+Ewa W 2 1 PartiaB
+Zofia P 2 7 1 PartiaA
+Krzysztof L 2 6 4 PartiaB
+Agnieszka O 2 7 1 PartiaB
+Konrad Z 2 7 7 PartiaA
+Ewa T 2 3 6
+Piotr R 2 4 5
+Grzegorz M 2 8 -28 41 -85 21 51 -3 -51 PartiaA
+Zofia S 2 7 1 PartiaA
+Kazimierz G 2 7 1 PartiaA
+Maria U 2 6 7 PartiaA
+Alina D 2 4 6
+Ewa Z 2 6 4 PartiaA
+Justyna O 2 7 5 PartiaB
+Grzegorz F 2 8 -30 92 -35 -97 -86 62 21 PartiaA
+Jacek F 2 8 96 -68 -79 -35 2 -46 95 PartiaB
+Piotr F 2 8 68 94 -83 64 -10 42 -61 PartiaB
+Filip T 2 7 7 PartiaA
+Jan R 2 7 7 PartiaA
+Michal O 2 3 6
+Krzysztof G 2 6 2 PartiaB
+Piotr W 2 6 6 PartiaA
+Grzegorz D 2 7 4 PartiaB
+Maria S 2 4 5
+Agnieszka Z 2 7 6 PartiaA
+Kazimierz D 2 1 PartiaA
+Ewa E 2 1 PartiaB
+Jan F 2 4 3
+Janusz D 2 5 -52 9 59 -91 4 38 -96
+Filip P 2 7 6 PartiaB
+Justyna O 2 7 6 PartiaB
+Elzbieta E 2 1 PartiaB
+Elzbieta M 2 6 1 PartiaB
+Grzegorz P 2 6 5 PartiaB
+Justyna L 2 1 PartiaB
+Elzbieta G 2 8 99 85 -25 3 -11 -68 -77 PartiaA
+Pawel T 2 1 PartiaB
+Dawid N 2 5 95 22 54 5 79 -59 -45
+Filip N 2 4 5
+Malgorzata U 2 1 PartiaA
+Krzysztof A 2 6 3 PartiaA
+Filip F 2 7 7 PartiaB
+Anna M 2 4 4
+Malgorzata I 2 3 1
+Alina K 2 8 78 -45 26 -97 -28 -20 -13 PartiaA
+Kazimierz T 2 7 7 PartiaB
+Malgorzata C 2 2 PartiaB 20
+Michal M 2 8 -53 48 -50 -31 0 22 -99 PartiaA
+Maria R 2 6 6 PartiaB
+Janusz H 2 2 PartiaA 7
+Agnieszka W 2 2 PartiaA 61
+Jacek D 2 3 1
+Ewa N 2 1 PartiaA
+Elzbieta L 2 8 -51 -26 -84 -64 18 24 9 PartiaB
+Marta F 2 1 PartiaB
+Elzbieta A 2 8 -14 -41 9 -66 71 55 39 PartiaB
+Pawel H 2 3 4
+Maria S 2 2 PartiaB 2
+Elzbieta T 2 3 6
+Ewa B 2 6 4 PartiaA
+Dawid A 2 2 PartiaA 58
+Pawel P 2 2 PartiaA 3
+Janusz W 2 6 5 PartiaB
+Jan Z 2 6 7 PartiaA
+Piotr H 2 3 3
+Joanna K 2 5 -58 -1 -55 21 -86 -62 54
+Michal C 2 1 PartiaB
+Piotr K 2 6 5 PartiaB
+Krzysztof M 2 4 3
+Michal U 2 5 -90 -37 35 27 66 -98 -73
+Janusz M 2 3 5
+Ewa U 2 5 38 -85 -83 -1 -98 -54 4
+Janusz P 2 2 PartiaB 17
+Michal D 2 7 1 PartiaB
+Malgorzata N 2 8 4 -9 60 85 -42 -8 65 PartiaB
+Alina F 2 3 5
+Piotr F 2 1 PartiaB
+Michal O 2 6 5 PartiaB
+Kazimierz Z 2 1 PartiaA
+Agnieszka U 2 5 -1 70 16 23 54 -99 -78
+Jacek L 2 1 PartiaB
+Joanna R 2 8 77 94 62 -74 9 83 42 PartiaB
+Janusz M 2 1 PartiaA
+Joanna F 2 6 3 PartiaB
+Grzegorz Z 2 6 4 PartiaA
+Jacek O 2 8 32 -13 91 -19 -49 -78 61 PartiaB
+Kazimierz L 2 8 33 -26 78 -86 -15 -16 -2 PartiaA
+Justyna C 2 8 -98 35 -12 88 7 32 -37 PartiaB
+Michal B 2 8 62 -53 -67 -80 -25 12 56 PartiaA
+Grzegorz N 2 2 PartiaB 18
+Krzysztof N 2 2 PartiaB 38
+Justyna L 2 5 84 19 44 81 3 89 73
+Piotr K 2 4 2
+Malgorzata B 2 8 27 -8 -4 -66 -68 -20 -78 PartiaA
+Konrad O 2 2 PartiaB 51
+Elzbieta T 2 3 5
+Krzysztof F 2 2 PartiaB 24
+Janusz P 2 2 PartiaA 23
+Malgorzata S 2 7 3 PartiaA
+Konrad U 2 2 PartiaA 40
+Marta B 2 6 6 PartiaB
+Krzysztof B 2 7 3 PartiaA
+Jacek J 2 8 76 -78 -11 -72 26 82 -90 PartiaA
+Jacek B 2 7 5 PartiaB
+Justyna M 2 8 -61 32 -90 84 52 -100 65 PartiaB
+Jan D 2 3 1
+Filip E 2 5 10 21 -90 -42 57 -2 -1
+Grzegorz B 2 4 4
+Joanna Z 2 3 1
+Elzbieta L 2 6 5 PartiaA
+Zofia U 2 2 PartiaB 31
+Pawel T 2 2 PartiaA 34
+Agnieszka O 2 4 5
+Krzysztof K 2 8 -31 -80 61 22 43 -25 -54 PartiaA
+Agnieszka T 2 5 88 40 71 9 -20 65 -16
+Ewa R 2 3 7
+Janusz A 2 7 7 PartiaA
+Ewa I 2 6 3 PartiaA
+Justyna L 2 2 PartiaA 50
+Jan F 2 5 32 61 1 51 -100 71 26
+Jacek F 2 5 -93 96 -16 63 41 99 70
+Grzegorz Z 2 4 6
+Ewa K 2 4 5
+Justyna H 2 8 -45 -11 5 98 -33 99 2 PartiaB
+Grzegorz L 2 3 1
+Malgorzata O 2 4 3
+Krzysztof E 2 7 6 PartiaB
+Pawel I 2 3 5
+Alina M 2 6 2 PartiaA
+Filip A 2 2 PartiaB 26
+Dorota T 2 7 7 PartiaB
+Maria S 2 3 7
+Pawel H 2 8 59 -57 91 51 2 78 56 PartiaA
+Kazimierz I 2 7 3 PartiaB
+Anna N 2 7 3 PartiaB
+Jan L 2 5 33 -31 -76 77 -47 -96 -64
+Dawid W 2 5 42 22 -58 -99 -33 -20 -27
+Dawid Z 2 6 7 PartiaA
+Krzysztof Z 2 6 6 PartiaB
+Ewa L 2 6 5 PartiaB
+Grzegorz L 2 2 PartiaA 30
+Elzbieta G 2 4 2
+Jacek O 2 7 6 PartiaA
+Grzegorz N 2 6 7 PartiaA
+Filip R 2 1 PartiaA
+Dawid I 3 1 PartiaB
+Grzegorz G 3 2 PartiaB 31
+Zofia G 3 7 3 PartiaA
+Dawid S 3 3 3
+Dawid C 3 1 PartiaB
+Zofia N 3 2 PartiaB 7
+Michal H 3 5 -71 -14 -54 72 43 -96 65
+Piotr B 3 1 PartiaB
+Joanna H 3 7 3 PartiaB
+Zofia E 3 8 -15 10 -7 -12 17 -32 48 PartiaB
+Joanna C 3 6 7 PartiaB
+Alina I 3 4 4
+Michal I 3 4 7
+Pawel D 3 6 1 PartiaB
+Alina B 3 4 7
+Zofia B 3 6 6 PartiaB
+Kazimierz P 3 7 7 PartiaB
+Janusz I 3 4 5
+Jacek B 3 8 -74 96 -57 -17 62 63 13 PartiaB
+Pawel U 3 5 83 6 -86 -51 28 17 -67
+Joanna C 3 1 PartiaA
+Marta O 3 3 6
+Krzysztof C 3 1 PartiaB
+Ewa H 3 5 39 48 60 92 67 75 11
+Marta P 3 3 7
+Kazimierz L 3 8 1 -3 -17 43 -66 -29 -21 PartiaB
+Michal C 3 5 -26 -77 22 -40 -19 30 -25
+Zofia R 3 5 45 -85 -9 -74 74 43 -54
+Pawel G 3 7 7 PartiaA
+Anna M 3 3 3
+Joanna B 3 5 8 90 14 42 63 26 -50
+Justyna W 3 4 1
+Piotr R 3 4 2
+Kazimierz D 3 8 54 -38 71 -76 -40 -12 -82 PartiaA
+Janusz C 3 4 1
+Janusz M 3 3 7
+Ewa B 3 3 7
+Marta E 3 3 7
+Filip F 3 6 5 PartiaB
+Michal K 3 1 PartiaA
+Agnieszka W 3 8 68 5 31 88 13 84 13 PartiaB
+Dawid U 3 8 -80 36 -3 -14 -50 -77 94 PartiaA
+Joanna L 3 3 7
+Malgorzata G 3 6 4 PartiaA
+Janusz L 3 4 3
+Pawel O 3 3 5
+Elzbieta U 3 4 2
+Marta O 3 6 4 PartiaA
+Agnieszka J 3 2 PartiaA 25
+Filip A 3 7 3 PartiaA
+Grzegorz L 3 3 6
+Jan K 3 3 2
+Dorota J 3 4 2
+Marta O 3 4 7
+Dawid S 3 4 3
+Maria P 3 3 4
+Malgorzata R 3 2 PartiaA 29
+Alina S 3 2 PartiaB 7
+Pawel I 3 6 1 PartiaB
+Joanna R 3 8 55 74 80 86 -36 7 95 PartiaB
+Anna K 3 6 1 PartiaB
+Jan C 3 1 PartiaA
+Justyna O 3 5 -80 -34 77 -50 -75 63 -45
+Anna P 3 7 6 PartiaA
+Jan E 3 7 1 PartiaB
+Piotr S 3 5 45 60 41 16 0 -28 -47
+Dawid G 3 1 PartiaA
+Jan G 3 3 4
+Agnieszka W 3 1 PartiaA
+Konrad C 3 5 -85 -16 -84 -69 69 90 -86
+Alina G 3 7 6 PartiaA
+Konrad R 3 7 3 PartiaB
+Michal C 3 2 PartiaB 6
+Janusz K 3 6 6 PartiaB
+Joanna S 3 2 PartiaA 32
+Kazimierz W 3 2 PartiaA 27
+Ewa O 3 4 3
+Janusz J 3 5 4 87 31 53 13 -62 -84
+Jacek A 3 1 PartiaA
+Alina S 3 2 PartiaA 5
+Dorota R 3 2 PartiaB 31
+Marta J 3 4 1
+Piotr M 3 5 -68 -39 -55 -87 100 -56 7
+Jacek F 3 4 1
+Michal E 3 7 6 PartiaB
+Maria R 3 4 7
+Zofia I 3 6 3 PartiaB
+Jacek S 3 7 7 PartiaA
+Piotr S 3 7 7 PartiaA
+Krzysztof H 3 8 51 -14 -77 -75 -1 -77 22 PartiaB
+Malgorzata R 3 1 PartiaB
+Jacek O 3 1 PartiaA
+Marta B 3 8 -42 25 20 56 6 -28 -76 PartiaB
+Piotr B 3 3 7
+Piotr G 3 7 4 PartiaB
+Ewa U 3 4 5
+Michal M 3 4 7
+Ewa B 3 7 4 PartiaB
+Kazimierz R 3 2 PartiaB 28
+Malgorzata T 3 4 7
+Kazimierz B 3 5 -26 16 7 -88 -48 100 0
+Agnieszka J 3 3 1
+Elzbieta P 3 5 50 2 -54 -22 -62 35 37
+Jan N 3 3 4
+Dawid U 3 6 6 PartiaB
+Filip D 3 2 PartiaB 4
+Janusz U 3 8 8 -77 -13 -58 -51 62 -36 PartiaA
+Alina N 3 3 2
+Maria J 3 7 5 PartiaB
+Janusz Z 3 8 -94 -36 -94 68 16 91 -80 PartiaB
+Justyna F 3 3 2
+Piotr N 3 5 -91 47 66 9 -26 -15 -82
+Grzegorz L 3 8 -20 -58 -48 86 -44 -35 75 PartiaA
+Ewa U 3 7 3 PartiaB
+Krzysztof S 3 3 4
+Justyna R 3 6 2 PartiaB
+Zofia O 3 2 PartiaA 24
+Dorota Z 3 4 6
+Pawel E 3 8 98 36 -25 -52 -56 -57 34 PartiaB
+Elzbieta P 3 5 -21 91 -65 -25 -74 -68 33
+Krzysztof U 3 7 3 PartiaB
+Maria E 3 8 57 -19 4 35 76 50 -8 PartiaB
+Dawid G 3 8 -99 26 -2 6 -83 1 -68 PartiaB
+Filip W 3 8 -47 52 7 36 41 -15 92 PartiaA
+Pawel D 3 7 4 PartiaB
+Pawel E 3 5 -76 -98 28 36 -22 82 90
+Dawid D 3 6 1 PartiaB
+Dawid A 3 2 PartiaB 23
+Dawid J 3 2 PartiaB 15
+Agnieszka L 3 7 6 PartiaA
+Agnieszka C 3 3 1
+Marta S 3 2 PartiaA 10
+Dorota M 3 1 PartiaA
+Filip L 3 8 -25 37 -6 24 -36 86 -82 PartiaB
+Michal M 3 4 1
+Pawel P 3 8 -59 64 -73 -42 51 71 5 PartiaB
+Elzbieta S 3 2 PartiaB 3
+Janusz G 3 1 PartiaB
+Piotr I 3 7 5 PartiaB
+Agnieszka G 3 3 6
+Elzbieta R 3 6 7 PartiaA
+Jan T 3 6 2 PartiaA
+Grzegorz J 3 5 -100 -71 -91 54 -4 8 -93
+Krzysztof L 3 7 4 PartiaA
+Alina C 3 7 4 PartiaB
+Krzysztof P 3 4 5
+Konrad P 3 4 2
+Anna Z 3 4 2
+Piotr G 3 5 10 95 -3 2 58 -92 -44
+Zofia Z 3 7 6 PartiaA
+Piotr H 3 6 3 PartiaA
+Alina G 3 3 2
+Dorota G 3 6 3 PartiaB
+Maria D 3 7 7 PartiaA
+Konrad J 3 2 PartiaA 24
+Piotr S 3 4 6
+Piotr C 3 6 1 PartiaB
+Malgorzata G 3 8 37 -8 -91 -59 -97 -92 7 PartiaA
+Konrad K 3 6 7 PartiaA
+Piotr L 3 1 PartiaB
+Marta K 3 6 3 PartiaA
+Pawel O 3 2 PartiaA 25
+Marta C 3 6 1 PartiaA
+Elzbieta K 3 1 PartiaA
+Zofia I 3 1 PartiaA
+Maria Z 3 4 5
+Justyna R 3 4 4
+Agnieszka U 3 7 1 PartiaA
+Joanna S 3 1 PartiaA
+Maria L 3 3 1
+Krzysztof R 3 6 5 PartiaB
+Jacek J 3 2 PartiaA 33
+Dawid M 3 1 PartiaB
+Dorota A 3 8 -90 56 -65 -64 78 -7 54 PartiaA
+Michal H 3 5 -87 -97 -62 33 -26 -59 -72
+Michal U 3 3 1
+Jacek G 3 2 PartiaA 16
+Jan P 3 3 7
+Konrad H 3 7 4 PartiaA
+Ewa K 3 4 5
+Justyna N 3 5 85 79 -82 -99 12 -47 11
+Filip H 3 3 7
+Anna U 3 7 2 PartiaB
+Anna F 3 7 5 PartiaB
+Marta L 3 2 PartiaA 28
+Kazimierz W 3 8 -14 44 7 -8 -77 -78 71 PartiaB
+Elzbieta Z 3 8 28 -84 -57 9 -27 80 -88 PartiaA
+Janusz I 3 7 7 PartiaB
+Elzbieta O 3 8 -99 43 -95 80 29 57 30 PartiaB
+Filip P 3 2 PartiaA 29
+Grzegorz Z 3 2 PartiaB 8
+Jan P 3 3 5
+Filip C 3 3 3
+Maria O 3 7 2 PartiaA
+Joanna U 3 3 1
+Maria U 3 5 9 18 -28 39 -35 14 66
+Piotr S 3 2 PartiaB 14
+Pawel A 3 5 91 -4 -68 64 -34 -81 81
+Alina U 3 1 PartiaA
+Elzbieta T 3 8 28 -63 45 54 -58 18 -20 PartiaA
+Alina P 3 8 86 -66 87 -53 -70 -70 -86 PartiaB
+Malgorzata G 3 1 PartiaB
+Dorota F 3 8 -56 32 74 0 -60 -74 -19 PartiaA
+Konrad D 3 2 PartiaB 32
+Agnieszka H 3 8 -96 66 -56 -5 71 49 -78 PartiaA
+Joanna I 3 1 PartiaA
+Dorota G 3 4 4
+Jan G 3 7 1 PartiaA
+Dorota R 3 7 4 PartiaB
+Joanna A 3 7 7 PartiaB
+Agnieszka C 3 8 -98 -2 -28 -62 15 80 60 PartiaB
+Krzysztof H 3 2 PartiaB 33
+Anna K 3 2 PartiaB 9
+Michal P 3 7 2 PartiaB
+Konrad O 3 5 36 94 -69 -80 -16 -69 69
+Dawid M 3 5 72 -7 92 -74 -36 33 89
+Kazimierz T 3 2 PartiaA 19
+Alina Z 3 1 PartiaA
+Anna R 3 8 -6 44 -15 -49 -63 66 17 PartiaA
+Agnieszka G 3 8 26 54 -19 -56 -60 65 -55 PartiaA
+Grzegorz G 3 8 -18 69 38 80 -70 63 -80 PartiaB
+Jacek I 3 2 PartiaB 5
+Zofia P 3 5 22 40 61 78 64 89 10
+Dawid H 3 4 4
+Elzbieta A 3 7 3 PartiaA
+Janusz A 3 1 PartiaA
+Pawel G 3 3 7
+Zofia D 3 8 85 33 11 -21 -75 68 -3 PartiaB
+Anna N 3 4 3
+Dawid O 3 2 PartiaA 9
+Joanna R 3 4 4
+Filip I 3 6 3 PartiaB
+Grzegorz S 3 4 1
+Elzbieta I 3 4 5
+Krzysztof C 3 5 -46 -88 -80 -62 -82 64 73
+Pawel E 3 7 6 PartiaB
+Elzbieta G 3 1 PartiaA
+Joanna N 3 3 6
+Ewa U 3 2 PartiaA 12
+Anna I 3 5 61 -38 39 -76 2 1 -24
+Krzysztof C 3 6 6 PartiaA
+Filip N 3 3 1
+Elzbieta P 3 8 11 71 77 0 6 -36 57 PartiaA
+Janusz P 3 5 100 -37 -11 -19 9 81 45
+Krzysztof R 3 5 -56 55 56 -73 31 69 5
+Ewa U 3 5 -61 -53 -70 -17 48 -74 -62
+Grzegorz D 3 8 2 -26 2 6 54 -81 -74 PartiaA
+Anna A 3 8 -75 -44 73 -65 -81 87 -38 PartiaB
+Janusz K 3 8 100 -55 30 -26 -85 64 83 PartiaA
+Maria P 3 8 -31 -29 -44 12 -7 92 39 PartiaB
+Ewa A 3 3 3
+Malgorzata W 3 6 5 PartiaA
+Joanna S 3 4 7
+Piotr M 3 4 4
+Malgorzata R 3 8 -34 -33 -84 39 -56 45 -96 PartiaB
+Jacek O 3 7 2 PartiaB
+Krzysztof G 3 5 -87 83 11 -85 -11 14 72
+Agnieszka D 3 7 7 PartiaA
+Zofia M 3 8 -82 -64 74 -80 -50 -75 -97 PartiaA
+Piotr T 3 1 PartiaB
+Justyna Z 3 6 1 PartiaB
+Filip F 3 4 5
+Filip S 3 2 PartiaB 16
+Grzegorz F 3 6 6 PartiaB
+Dorota G 3 6 4 PartiaB
+Jacek A 3 1 PartiaB
+Piotr D 3 1 PartiaB
+Alina I 3 4 6
+Pawel W 3 4 4
+Krzysztof H 3 3 1
+Alina L 3 3 4
+Elzbieta L 3 2 PartiaA 11
+Piotr B 3 1 PartiaA
+Grzegorz O 3 3 7
+Alina J 3 8 -34 30 -82 58 -67 -89 66 PartiaA
+Elzbieta E 3 8 -56 -59 46 -26 -6 -51 -65 PartiaB
+Dawid E 3 3 6
+Joanna J 3 5 13 -96 78 1 24 -73 -60
+Pawel W 3 8 99 13 67 10 91 -80 34 PartiaA
+Zofia R 3 4 7
+Michal I 3 6 6 PartiaB
+Marta F 3 7 2 PartiaA
+Pawel G 3 7 1 PartiaB
+Piotr S 3 3 3
+Piotr I 3 3 1
+Justyna L 3 3 3
+Kazimierz M 3 1 PartiaA
+Ewa N 3 8 -4 98 -23 80 -39 21 -12 PartiaA
+Jan A 3 2 PartiaA 6
+Pawel C 3 2 PartiaB 19
+Marta O 3 4 7
+Michal E 3 1 PartiaA
+Krzysztof S 3 5 60 89 32 -72 53 -23 3
+Malgorzata L 3 3 1
+Justyna S 3 3 6
+Kazimierz H 3 1 PartiaB
+Elzbieta U 3 4 1
+Justyna E 3 8 45 73 -27 43 0 -11 -42 PartiaA
+Elzbieta G 3 6 7 PartiaA
+Grzegorz U 3 8 -72 76 -91 10 -2 -30 -95 PartiaB
+Agnieszka P 3 4 4
+Piotr E 3 6 6 PartiaA
+Anna Z 3 8 39 64 96 67 32 29 28 PartiaA
+Konrad C 3 1 PartiaB
+Dawid T 3 3 2
+Maria R 3 8 2 71 47 23 98 -50 -30 PartiaA
+Malgorzata F 3 5 52 14 18 -1 70 -79 -1
+Malgorzata N 3 8 73 -11 -85 -11 97 4 -19 PartiaB
+Agnieszka Z 3 5 74 87 68 -74 -56 95 -15
+Piotr E 3 2 PartiaA 21
+Krzysztof U 3 1 PartiaB
+Jan F 3 1 PartiaB
+Elzbieta R 3 8 15 31 -89 -9 -17 -88 -66 PartiaB
+Pawel L 3 8 15 66 -6 -71 -52 -50 11 PartiaA
+Ewa T 3 7 1 PartiaA
+Malgorzata D 3 8 -10 48 48 -15 -51 -27 -65 PartiaA
+Elzbieta W 3 5 -40 -58 -51 -93 77 -94 -74
+Piotr A 3 7 3 PartiaB
+Zofia W 3 3 2
+Joanna W 3 1 PartiaA
+Michal P 3 7 7 PartiaA
+Ewa A 3 7 7 PartiaA
+Jacek M 3 2 PartiaB 22
+Malgorzata O 3 4 4
+Filip C 3 6 1 PartiaA
+Jacek G 3 5 -78 -28 91 -1 41 -25 12
+Dawid P 3 2 PartiaB 4
+Kazimierz I 3 7 2 PartiaB
+Grzegorz W 3 5 77 -94 79 12 -20 0 -75
+Dawid E 3 3 3
+Kazimierz T 4 7 4 PartiaB
+Michal F 4 2 PartiaB 3
+Alina W 4 8 -48 -85 -80 -27 -75 55 -67 PartiaA
+Elzbieta Z 4 5 -60 88 -38 86 63 33 -35
+Dawid P 4 8 -17 -20 -2 -100 -46 -79 -27 PartiaB
+Janusz S 4 3 6
+Konrad G 4 6 2 PartiaB
+Justyna P 4 1 PartiaB
+Kazimierz O 4 2 PartiaB 4
+Alina O 4 2 PartiaB 38
+Jan D 4 3 4
+Janusz Z 4 8 58 -17 76 -40 51 -38 -45 PartiaA
+Grzegorz O 4 5 73 -92 31 -8 42 -39 -19
+Kazimierz F 4 4 7
+Krzysztof N 4 6 5 PartiaA
+Dawid L 4 8 52 -16 5 -23 92 75 90 PartiaA
+Krzysztof Z 4 4 4
+Pawel D 4 3 6
+Janusz L 4 1 PartiaB
+Piotr O 4 2 PartiaA 30
+Krzysztof O 4 5 -99 36 -51 61 -28 13 -37
+Janusz P 4 3 5
+Pawel E 4 1 PartiaA
+Janusz P 4 3 5
+Krzysztof M 4 7 7 PartiaB
+Alina I 4 7 6 PartiaA
+Grzegorz K 4 3 7
+Kazimierz L 4 2 PartiaB 21
+Joanna J 4 7 4 PartiaB
+Anna I 4 6 4 PartiaB
+Filip U 4 8 -51 -89 -17 49 2 59 23 PartiaA
+Grzegorz T 4 5 -58 91 -63 56 62 52 -93
+Janusz L 4 4 3
+Piotr L 4 2 PartiaB 42
+Kazimierz J 4 7 3 PartiaA
+Ewa F 4 2 PartiaB 51
+Michal H 4 2 PartiaA 62
+Krzysztof L 4 5 -53 92 0 69 -75 -89 -2
+Janusz K 4 2 PartiaA 15
+Jan N 4 3 1
+Filip K 4 2 PartiaB 7
+Malgorzata P 4 5 -35 -76 7 70 -56 42 -68
+Grzegorz C 4 5 -16 -21 55 -88 -75 -88 -54
+Krzysztof E 4 8 51 63 -36 81 3 92 80 PartiaA
+Dawid D 4 1 PartiaA
+Kazimierz R 4 3 6
+Jan D 4 4 1
+Piotr S 4 7 2 PartiaB
+Elzbieta H 4 6 6 PartiaA
+Agnieszka I 4 4 4
+Dawid M 4 5 75 -93 13 28 32 67 -34
+Alina P 4 6 3 PartiaA
+Anna K 4 7 4 PartiaA
+Zofia R 4 5 -97 54 74 29 66 -19 61
+Ewa J 4 7 2 PartiaB
+Pawel Z 4 1 PartiaA
+Piotr E 4 7 3 PartiaB
+Pawel K 4 3 6
+Zofia M 4 1 PartiaA
+Grzegorz D 4 1 PartiaB
+Filip W 4 7 6 PartiaB
+Justyna A 4 1 PartiaA
+Piotr W 4 8 35 48 2 -63 79 -15 -25 PartiaB
+Jan Z 4 1 PartiaB
+Kazimierz O 4 2 PartiaB 46
+Zofia F 4 8 46 -10 58 28 4 -68 75 PartiaB
+Kazimierz B 4 7 3 PartiaA
+Filip A 4 7 3 PartiaA
+Dawid J 4 8 53 -84 32 -27 48 -95 -14 PartiaA
+Malgorzata J 4 8 7 11 69 -95 22 58 5 PartiaB
+Anna J 4 4 3
+Agnieszka T 4 6 7 PartiaB
+Alina Z 4 6 5 PartiaA
+Joanna W 4 6 3 PartiaB
+Grzegorz S 4 8 -9 45 -37 29 -69 -85 52 PartiaB
+Jacek W 4 1 PartiaB
+Zofia H 4 4 5
+Malgorzata G 4 3 2
+Joanna A 4 1 PartiaB
+Agnieszka U 4 6 1 PartiaA
+Jan W 4 6 5 PartiaB
+Marta D 4 2 PartiaB 55
+Elzbieta B 4 8 60 -20 -81 -64 4 83 64 PartiaA
+Justyna T 4 3 2
+Jacek I 4 3 5
+Janusz K 4 5 -36 46 82 67 83 17 -31
+Elzbieta N 4 4 2
+Jacek I 4 6 5 PartiaA
+Malgorzata O 4 4 2
+Konrad H 4 5 -61 -56 6 87 11 -33 -70
+Dawid G 4 1 PartiaB
+Agnieszka E 4 8 74 -84 -53 -92 -40 100 74 PartiaB
+Pawel S 4 6 3 PartiaB
+Konrad M 4 7 7 PartiaA
+Jacek G 4 8 59 -9 61 97 4 -59 -46 PartiaA
+Joanna J 4 6 7 PartiaA
+Anna T 4 8 -33 50 11 -62 48 -21 1 PartiaA
+Elzbieta T 4 7 1 PartiaA
+Piotr B 4 4 3
+Zofia R 4 6 2 PartiaA
+Konrad E 4 2 PartiaB 49
+Dawid A 4 2 PartiaA 30
+Kazimierz N 4 1 PartiaA
+Zofia U 4 3 7
+Marta T 4 3 2
+Konrad P 4 6 4 PartiaB
+Anna C 4 1 PartiaA
+Justyna Z 4 2 PartiaB 46
+Janusz O 4 1 PartiaA
+Jacek O 4 8 -19 -3 -19 -39 75 -7 -10 PartiaA
+Justyna P 4 3 4
+Anna F 4 2 PartiaA 57
+Jacek R 4 6 1 PartiaA
+Pawel E 4 8 76 -40 -63 -48 30 76 93 PartiaB
+Agnieszka U 4 2 PartiaA 43
+Dawid K 4 4 2
+Grzegorz D 4 8 -65 -95 -7 59 -25 44 -64 PartiaA
+Elzbieta L 4 2 PartiaA 38
+Filip B 4 4 4
+Jan D 4 7 4 PartiaA
+Malgorzata U 4 4 2
+Ewa N 4 4 4
+Malgorzata B 4 2 PartiaB 26
+Piotr J 4 7 3 PartiaB
+Marta I 4 8 6 -30 43 -31 -91 -70 -43 PartiaB
+Jacek Z 4 2 PartiaB 34
+Piotr M 4 7 2 PartiaA
+Michal H 4 8 -91 19 6 58 -11 -19 34 PartiaB
+Michal W 4 6 5 PartiaA
+Kazimierz C 4 8 -66 -100 -45 -68 -65 -97 -66 PartiaB
+Dorota J 4 2 PartiaB 8
+Krzysztof R 4 8 71 -77 -32 -92 -56 -36 27 PartiaA
+Filip J 4 4 3
+Justyna T 4 5 64 94 -81 -93 -6 17 10
+Krzysztof F 4 6 2 PartiaB
+Piotr G 4 3 6
+Janusz J 4 2 PartiaA 37
+Anna L 4 2 PartiaB 14
+Pawel R 4 3 3
+Michal B 4 2 PartiaA 41
+Malgorzata E 4 8 -97 -70 -26 -26 73 50 34 PartiaA
+Justyna J 4 2 PartiaA 51
+Maria G 4 8 71 53 49 -71 -9 -35 76 PartiaB
+Filip W 4 6 3 PartiaA
+Grzegorz S 4 6 3 PartiaB
+Piotr E 4 1 PartiaA
+Anna R 4 5 80 -87 69 -99 42 -49 64
+Marta R 4 6 1 PartiaB
+Ewa I 4 4 4
+Konrad C 4 7 5 PartiaA
+Konrad J 4 5 -76 46 51 -96 -51 -54 -83
+Jan G 4 4 3
+Ewa D 4 8 24 -90 72 47 -58 87 -84 PartiaA
+Zofia N 4 8 10 -71 46 27 -60 18 -52 PartiaA
+Anna B 4 8 -27 -69 -53 -47 -17 88 -69 PartiaB
+Anna G 4 4 2
+Alina Z 4 4 4
+Jan T 4 2 PartiaB 59
+Maria W 4 6 2 PartiaA
+Zofia H 4 3 1
+Krzysztof U 4 8 96 61 70 -71 84 1 46 PartiaA
+Grzegorz H 4 6 7 PartiaA
+Elzbieta F 4 6 1 PartiaB
+Piotr B 4 7 2 PartiaB
+Justyna J 4 6 7 PartiaA
+Krzysztof P 4 3 7
+Kazimierz R 4 3 1
+Anna I 4 8 33 68 -36 -5 -71 67 37 PartiaA
+Marta E 4 6 6 PartiaA
+Agnieszka M 4 1 PartiaB
+Konrad D 4 6 3 PartiaA
+Kazimierz T 4 7 5 PartiaA
+Zofia N 4 6 4 PartiaA
+Jacek H 4 2 PartiaB 60
+Ewa B 4 7 5 PartiaA
+Konrad T 4 7 4 PartiaA
+Konrad P 4 2 PartiaA 27
+Konrad G 4 4 7
+Grzegorz P 4 7 4 PartiaA
+Filip R 4 4 1
+Malgorzata J 4 8 12 -40 -62 -13 21 8 91 PartiaA
+Joanna H 4 5 29 -91 -77 27 -29 -77 -40
+Maria A 4 1 PartiaA
+Marta U 4 1 PartiaB
+Konrad S 4 4 4
+Michal K 4 5 -49 88 -8 77 47 66 19
+Zofia N 4 7 6 PartiaA
+Dawid C 4 7 1 PartiaB
+Piotr M 4 4 6
+Dawid E 4 7 2 PartiaB
+Jacek I 4 4 4
+Dorota A 4 6 3 PartiaB
+Ewa D 4 2 PartiaB 37
+Pawel T 4 5 -83 -43 -40 77 12 21 89
+Maria F 4 4 5
+Jacek O 4 8 -58 7 -3 -59 52 -21 -12 PartiaA
+Elzbieta E 4 4 4
+Alina A 4 6 5 PartiaA
+Pawel M 4 1 PartiaB
+Grzegorz B 4 3 6
+Jacek S 4 7 1 PartiaB
+Konrad F 4 6 3 PartiaB
+Elzbieta W 4 8 44 76 -68 12 -60 52 -93 PartiaB
+Ewa H 4 4 7
+Dawid O 4 1 PartiaA
+Malgorzata C 4 5 34 39 -62 39 36 -98 62
+Konrad S 4 5 90 47 -81 -94 -56 68 47
+Elzbieta C 4 7 4 PartiaA
+Pawel R 4 4 6
+Grzegorz A 4 2 PartiaB 32
+Joanna T 4 3 2
+Filip H 4 4 7
+Elzbieta Z 4 5 34 -29 35 -2 1 -34 -31
+Anna W 4 4 4
+Malgorzata M 4 3 4
+Grzegorz Z 4 6 5 PartiaA
+Malgorzata C 4 2 PartiaA 4
+Jacek C 4 6 3 PartiaB
+Jan L 4 3 2
+Michal O 4 1 PartiaA
+Pawel Z 4 3 3
+Piotr B 4 3 6
+Konrad B 4 3 3
+Alina G 4 1 PartiaA
+Elzbieta A 4 6 7 PartiaA
+Pawel I 4 6 6 PartiaB
+Grzegorz A 4 7 5 PartiaA
+Janusz I 4 7 6 PartiaB
+Alina M 4 1 PartiaB
+Pawel N 4 1 PartiaA
+Piotr Z 4 5 -97 97 -15 52 1 91 -92
+Janusz H 4 4 3
+Pawel S 4 8 67 -45 60 31 -70 46 -84 PartiaB
+Dawid Z 4 6 5 PartiaA
+Maria R 4 5 58 -25 56 75 37 59 -67
+Dawid R 4 4 6
+Agnieszka Z 4 7 2 PartiaA
+Michal U 4 2 PartiaB 7
+Jacek H 4 3 7
+Jan L 4 3 1
+Maria M 4 3 1
+Dorota I 4 6 3 PartiaB
+Agnieszka W 4 2 PartiaB 3
+Justyna U 4 5 81 -29 29 80 83 -86 77
+Agnieszka H 4 3 6
+Dawid Z 4 2 PartiaA 34
+Dawid E 4 1 PartiaA
+Michal H 4 5 -31 -34 -32 8 -93 -32 29
+Dorota K 4 4 4
+Justyna S 4 8 42 57 -41 -73 -6 82 32 PartiaA
+Joanna Z 4 5 -1 -21 -75 90 -47 95 -13
+Filip J 4 7 7 PartiaA
+Kazimierz S 4 3 7
+Agnieszka L 4 7 3 PartiaB
+Dorota H 4 6 6 PartiaB
+Jacek K 4 5 -61 34 -100 -65 77 -45 -86
+Piotr S 4 4 5
+Agnieszka A 4 1 PartiaA
+Filip B 4 4 6
+Konrad U 4 7 6 PartiaB
+Dawid M 4 6 1 PartiaB
+Anna S 4 5 -98 -56 69 -45 -51 33 -63
+Anna N 4 4 2
+Justyna O 4 2 PartiaB 57
+Anna N 4 6 3 PartiaA
+Ewa D 4 1 PartiaA
+Janusz R 4 2 PartiaB 61
+Dorota E 4 2 PartiaA 59
+Piotr K 4 5 7 14 76 -53 -15 -65 -56
+Joanna F 4 5 -32 73 50 -20 14 -72 -67
+Elzbieta Z 4 7 1 PartiaA
+Jacek E 4 3 6
+Janusz K 4 7 2 PartiaA
+Elzbieta P 4 6 5 PartiaB
+Ewa R 4 6 2 PartiaB
+Ewa A 4 6 2 PartiaB
+Anna N 4 1 PartiaA
+Marta B 4 5 7 83 -28 96 30 -2 68
+Janusz S 4 2 PartiaA 31
+Krzysztof W 4 3 5
+Malgorzata R 4 3 3
+Marta A 4 2 PartiaB 23
+Elzbieta I 4 6 2 PartiaA
+Dorota E 4 3 1
+Grzegorz C 4 3 5
+Elzbieta Z 4 4 5
+Zofia W 4 8 88 -5 -75 -2 -14 65 -67 PartiaB
+Elzbieta A 4 3 7
+Filip N 4 2 PartiaA 55
+Krzysztof W 4 5 8 78 12 -79 -96 19 -76
+Grzegorz I 4 1 PartiaB
+Elzbieta I 4 7 1 PartiaB
+Zofia F 4 8 30 4 90 11 -18 -6 -69 PartiaB
+Krzysztof A 4 7 4 PartiaA
+Janusz A 4 1 PartiaA
+Pawel B 4 4 1
+Dawid H 4 7 6 PartiaB
+Dawid R 4 2 PartiaA 8
+Jacek A 4 5 7 -47 -7 54 -39 -95 72
+Jan G 4 3 7
+Jacek K 4 1 PartiaB
+Anna A 4 7 2 PartiaB
+Jan G 4 3 5
+Ewa K 4 8 -96 -64 99 -62 -86 37 49 PartiaB
+Michal A 4 1 PartiaA
+Alina H 4 7 1 PartiaA
+Anna B 4 4 4
+Filip K 4 5 -71 -28 81 5 78 97 19
+Michal M 4 7 1 PartiaA
+Marta S 4 3 7
+Dawid H 4 2 PartiaA 24
+Elzbieta N 4 6 5 PartiaA
+Grzegorz E 4 3 2
+Krzysztof B 4 8 50 60 -76 -42 -97 52 20 PartiaA
+Michal H 4 8 67 38 -56 55 -91 -15 57 PartiaA
+Ewa T 4 5 3 28 -57 -87 74 95 -72
+Dawid J 4 7 6 PartiaA
+Grzegorz O 4 2 PartiaB 22
+Kazimierz T 4 6 5 PartiaA
+Grzegorz K 4 8 -10 73 31 -55 2 63 23 PartiaA
+Jacek A 4 5 25 -27 68 -25 -88 -86 -33
+Grzegorz P 4 2 PartiaB 56
+Dorota S 4 5 -8 -78 -73 -88 -3 55 93
+Dawid K 4 7 7 PartiaA
+Maria B 4 1 PartiaB
+Alina W 4 6 7 PartiaA
+Piotr A 4 8 84 -9 35 63 -86 -9 18 PartiaA
+Zofia L 4 5 60 -31 -63 -45 -76 -26 -59
+Justyna Z 4 4 7
+Grzegorz W 4 7 6 PartiaB
+Kazimierz M 4 2 PartiaB 61
+Jacek R 4 1 PartiaB
+Anna Z 4 5 94 12 -94 86 64 -29 86
+Alina T 4 3 3
+Justyna E 4 6 7 PartiaB
+Jan O 4 6 1 PartiaB
+Joanna N 4 3 1
+Konrad D 4 3 6
+Jacek C 4 8 -36 -93 46 -42 44 -21 -32 PartiaA
+Agnieszka T 4 5 -80 76 65 89 -8 -85 -38
+Kazimierz B 4 2 PartiaB 43
+Janusz L 4 8 17 -94 80 -8 -33 24 53 PartiaB
+Agnieszka K 4 5 -61 -75 77 -79 32 -59 9
+Marta H 4 2 PartiaB 17
+Pawel I 4 1 PartiaA
+Dorota D 4 4 5
+Jacek B 4 8 -42 17 -19 36 27 84 24 PartiaA
+Elzbieta R 4 4 4
+Ewa B 4 5 -46 -28 33 -39 -38 6 1
+Grzegorz A 4 1 PartiaA
+Maria R 4 1 PartiaA
+Ewa B 4 6 1 PartiaB
+Jan C 4 5 22 -33 38 -67 44 26 15
+Dawid R 4 1 PartiaA
+Zofia U 4 5 -27 -30 -13 -56 94 26 57
+Piotr A 4 7 4 PartiaB
+Dorota N 4 6 7 PartiaB
+Zofia M 4 8 2 88 -94 -3 -83 -21 -58 PartiaA
+Anna K 4 1 PartiaB
+Kazimierz H 4 6 6 PartiaB
+Pawel P 4 2 PartiaB 9
+Michal L 4 1 PartiaB
+Agnieszka N 4 5 -94 -97 -31 76 62 72 -6
+Piotr R 4 7 1 PartiaB
+Dorota K 4 1 PartiaA
+Marta A 4 6 4 PartiaB
+Dorota E 4 4 3
+Ewa D 4 4 5
+Dawid T 4 2 PartiaA 26
+Anna M 4 5 -22 20 94 26 51 37 -4
+Zofia C 4 8 23 48 13 18 69 85 69 PartiaA
+Joanna E 4 5 -98 50 0 -13 -91 39 -78
+Filip T 4 7 2 PartiaB
+Alina E 4 3 1
+Alina T 4 8 -5 80 -15 -99 59 -13 2 PartiaA
+Michal I 4 7 4 PartiaA
+Marta P 4 6 2 PartiaB
+Maria A 4 5 -46 41 -42 -11 -20 68 -60
+Elzbieta Z 4 2 PartiaB 46
+Piotr T 4 7 4 PartiaA
+Kazimierz I 4 6 5 PartiaA
+Kazimierz K 4 4 2
+Krzysztof J 4 4 3
+Justyna W 4 6 3 PartiaB
+Pawel M 4 7 4 PartiaB
+Marta E 4 1 PartiaB
+Jacek Z 4 5 93 11 69 -98 -24 -64 36
+Alina S 4 8 -60 3 -70 87 -45 89 -52 PartiaA
+Janusz H 4 6 2 PartiaB
+Michal B 4 5 33 -10 -32 -95 50 56 -67
+Krzysztof A 4 7 2 PartiaB
+Marta R 4 7 7 PartiaA
+Zofia Z 4 4 6
+Joanna U 4 3 1
+Zofia E 4 4 1
+Dorota M 4 5 58 23 79 56 20 29 46
+Dawid F 4 3 5
+Justyna I 4 5 56 -38 2 94 -25 8 -99
+Ewa M 4 4 7
+Grzegorz A 4 7 7 PartiaB
+Dorota E 4 2 PartiaB 61
+Maria W 4 1 PartiaA
+Maria Z 4 8 -99 81 -87 88 20 52 -35 PartiaB
+Ewa M 4 4 2
+Jan E 4 5 -26 38 9 -17 95 4 97
+Dorota K 4 7 7 PartiaA
+Zofia U 4 5 20 -4 16 92 31 -25 -89
+Grzegorz O 4 2 PartiaA 54
+Michal A 4 8 -42 -7 -91 93 7 -40 58 PartiaA
+Krzysztof B 4 2 PartiaA 17
+Anna W 4 2 PartiaB 25
+Agnieszka L 4 8 -94 -76 87 58 2 -11 -92 PartiaB
+Anna D 4 2 PartiaA 40
+Kazimierz H 4 3 7
+Michal C 4 3 2
+Krzysztof A 4 7 2 PartiaA
+Malgorzata K 4 4 3
+Maria D 4 4 5
+Konrad B 4 5 34 -41 55 34 -9 0 -48
+Dawid N 4 6 6 PartiaA
+Agnieszka F 4 3 6
+Malgorzata H 4 8 -48 68 -16 -70 48 -78 26 PartiaA
+Joanna T 4 6 5 PartiaA
+Alina N 4 7 6 PartiaB
+Grzegorz N 4 1 PartiaB
+Janusz U 4 2 PartiaB 48
+Krzysztof B 4 5 -46 -65 -11 -67 11 49 21
+Joanna A 4 8 76 -70 16 66 64 -78 42 PartiaA
+Alina O 4 6 7 PartiaA
+Michal N 4 7 5 PartiaA
+Jan S 4 3 7
+Maria F 4 4 4
+Filip L 4 3 7
+Alina L 4 3 2
+Agnieszka K 4 1 PartiaA
+Kazimierz J 4 2 PartiaB 27
+Pawel G 4 2 PartiaA 44
+Agnieszka O 4 7 6 PartiaB
+Krzysztof I 4 5 -54 53 -41 17 -16 -59 -81
+Jacek R 4 5 52 6 71 12 42 -26 6
+Alina F 4 6 2 PartiaA
+Piotr P 4 1 PartiaA
+Piotr G 4 5 -47 78 33 -24 -38 -36 -42
+Michal R 4 6 5 PartiaA
+Dawid O 4 5 -25 81 -22 -60 -98 95 25
+Michal L 4 1 PartiaB
+Maria Z 4 2 PartiaB 28
+Agnieszka H 4 4 4
+Dorota U 4 6 3 PartiaB
+Jacek B 4 6 6 PartiaA
+Michal K 4 4 7
+Marta C 4 7 1 PartiaB
+Kazimierz K 4 8 -3 64 98 13 -86 -56 28 PartiaB
+Jacek U 4 8 -67 -95 59 57 49 18 -77 PartiaB
+Jacek O 4 8 16 -97 73 42 1 -94 -39 PartiaB
+Justyna B 4 2 PartiaB 3
+Joanna B 4 2 PartiaB 22
+Elzbieta G 4 5 48 48 -90 86 40 -72 -37
+Agnieszka G 4 1 PartiaB
+Konrad C 4 5 -43 11 52 -51 39 -89 71
+Piotr B 4 8 -75 7 -12 2 51 55 -32 PartiaA
+Elzbieta W 4 7 2 PartiaA
+Marta L 4 2 PartiaA 55
+Dorota J 4 5 -84 -68 -6 -63 74 33 91
+Konrad O 4 8 -1 20 3 -47 -86 -5 48 PartiaA
+Piotr E 4 3 4
+Zofia C 4 7 2 PartiaA
+Krzysztof N 4 8 59 -32 -95 12 -94 94 28 PartiaA
+Malgorzata F 4 3 6
+Justyna S 4 7 3 PartiaB
+Joanna F 4 1 PartiaB
+Jan D 4 8 -21 -12 27 19 97 57 -16 PartiaB
+Marta F 4 8 -30 -17 -82 21 52 36 33 PartiaA
+Dorota A 4 4 1
+Grzegorz W 4 4 5
+Alina S 4 2 PartiaA 54
+Ewa K 4 7 7 PartiaA
+Filip Z 4 8 -56 -99 -59 -26 89 89 62 PartiaB
+Michal J 4 3 5
+Filip S 4 1 PartiaB
+Konrad U 4 4 3
+Marta A 4 5 47 69 8 9 74 65 6
+Anna I 4 4 1
+Anna S 4 8 -68 60 -73 36 16 34 -49 PartiaA
+Malgorzata C 4 1 PartiaB
+Agnieszka D 4 8 -23 58 -1 62 -1 65 -58 PartiaB
+Alina S 4 4 2
+Zofia O 4 3 6
+Agnieszka K 4 7 2 PartiaA
+Janusz R 4 4 2
+Joanna G 4 1 PartiaB
+Jan I 4 2 PartiaA 8
+Piotr P 4 4 4
+Krzysztof U 4 6 7 PartiaA
+Anna S 4 6 5 PartiaB
+Konrad N 4 3 6
+Konrad H 4 7 4 PartiaA
+Ewa J 4 6 5 PartiaB
+Joanna H 4 3 2
+Michal Z 4 2 PartiaA 48
+Maria H 4 3 5
+Joanna Z 4 2 PartiaB 36
+Piotr O 4 8 -27 -16 -21 -71 -75 -86 -24 PartiaA
+Zofia H 4 8 36 100 79 37 19 -58 74 PartiaA
+Anna I 4 7 3 PartiaA
+Dawid K 4 2 PartiaB 24
+Konrad B 4 5 94 27 24 -62 -86 73 92
+Alina L 4 5 -39 20 71 -70 -84 -66 -39
+Zofia O 4 2 PartiaA 28
+Konrad F 4 4 3
+Grzegorz L 4 3 1
+Agnieszka R 4 1 PartiaB
+Jan B 4 3 6
+Zofia E 4 3 7
+Michal I 4 4 3
+Grzegorz D 4 2 PartiaB 24
+Dawid S 4 6 4 PartiaA
+Pawel J 4 8 98 90 65 -87 -29 -30 50 PartiaA
+Jacek L 4 3 4
+Agnieszka S 4 7 1 PartiaA
+Joanna W 4 6 3 PartiaA
+Anna O 4 1 PartiaB
+Elzbieta B 4 2 PartiaA 54
+Jan S 4 1 PartiaA
+Jan L 4 7 1 PartiaB
+Janusz F 4 2 PartiaB 54
+Krzysztof D 4 7 7 PartiaA
+Zofia A 4 5 30 -21 -97 33 -35 14 68
+Michal O 4 2 PartiaA 6
+Elzbieta Z 4 4 2
+Pawel Z 4 6 6 PartiaA
+Justyna A 4 3 2
+Pawel K 4 8 -61 82 89 50 -70 91 -24 PartiaA
+Zofia K 4 4 2
+Dawid W 4 1 PartiaB
+Agnieszka Z 4 4 3
+Filip F 4 1 PartiaB
+Pawel L 4 3 5
+Malgorzata T 4 4 6
+Malgorzata U 4 3 4
+Agnieszka A 4 5 72 -95 -2 85 -38 92 21
+Filip H 4 7 5 PartiaA
+Joanna I 4 7 1 PartiaB
+Filip S 4 7 3 PartiaA
+Ewa Z 4 3 4
+Dawid I 4 5 -45 49 -96 -83 6 -70 18
+Filip G 4 4 4
+Krzysztof R 4 8 -59 -48 39 -90 -54 -79 -37 PartiaB
+Filip A 4 8 -98 -1 18 68 -82 -42 68 PartiaB
+Krzysztof Z 4 4 7
+Malgorzata W 4 3 1
+Elzbieta F 4 5 -71 48 -32 31 -95 76 -93
+Justyna S 4 6 4 PartiaA
+Ewa K 4 1 PartiaA
+Malgorzata G 4 1 PartiaB
+Anna C 4 3 3
+Michal W 4 7 2 PartiaB
+Alina C 4 4 4
+Maria A 4 7 4 PartiaB
+Dorota Z 4 5 84 -15 14 46 85 70 58
+Justyna N 4 3 5
+Elzbieta Z 4 7 2 PartiaA
+Agnieszka J 4 6 7 PartiaB
+Jan C 4 5 82 -45 28 85 -4 -4 61
+Joanna F 4 3 1
+Agnieszka U 4 3 3
+Jacek G 4 7 3 PartiaB
+Jacek K 4 3 4
+Justyna H 4 6 6 PartiaA
+Jan J 4 6 3 PartiaA
+Kazimierz A 4 4 5
+Grzegorz U 4 3 1
+Piotr K 4 8 -77 -96 -7 33 -40 -38 -72 PartiaB
+Krzysztof U 4 7 1 PartiaB
+Michal N 4 2 PartiaB 62
+Maria P 4 3 7
+Zofia I 4 7 4 PartiaA
+Piotr P 4 1 PartiaA
+Grzegorz P 4 8 51 -53 58 21 93 63 17 PartiaB
+Justyna G 4 7 7 PartiaA
+Michal G 4 4 5
+Krzysztof K 4 2 PartiaB 61
+Konrad H 4 3 2
+Anna U 4 6 1 PartiaA
+Piotr O 4 7 2 PartiaB
+Dorota F 4 5 40 -11 48 89 40 94 86
+Malgorzata K 4 7 7 PartiaA
+Pawel N 4 3 7
+Grzegorz U 4 6 3 PartiaA
+Konrad I 4 3 5
+Krzysztof L 4 3 7
+Malgorzata H 4 7 1 PartiaA
+Anna G 4 3 6
+Kazimierz A 4 5 -59 43 42 78 -56 64 41
+Maria C 4 2 PartiaA 47
+Maria D 4 2 PartiaB 58
+Jacek B 4 5 -81 -23 86 5 82 -14 -33
+Marta A 4 2 PartiaA 28
+Michal M 4 5 60 -45 -45 47 -28 -29 -57
+Malgorzata P 4 5 95 -41 36 -13 9 -4 -43
+Piotr C 4 5 -82 60 -10 -29 -42 -77 -21
+Krzysztof A 4 8 11 -55 -93 -22 -47 -48 56 PartiaA
+Maria C 4 3 5
+Konrad T 4 3 7
+Michal T 4 3 3
+Dawid W 4 2 PartiaA 9
+Agnieszka T 4 8 24 69 -38 -44 -4 -47 -54 PartiaA
+Jacek E 4 6 6 PartiaA
+Konrad H 4 4 5
+Janusz K 4 4 4
+Pawel L 4 8 -76 4 12 52 -59 19 -37 PartiaB
+Zofia A 4 8 82 -75 100 -89 -93 3 -75 PartiaB
+Zofia A 4 2 PartiaA 11
+Grzegorz H 4 3 3
+Marta A 4 2 PartiaA 20
+Krzysztof P 4 5 -78 60 90 47 -64 27 -24
+Michal N 4 6 7 PartiaB
+Maria T 4 6 2 PartiaB
+Ewa O 4 3 2
+Michal O 4 8 -34 69 11 35 -34 -9 -64 PartiaA
+Ewa C 5 1 PartiaA
+Ewa H 5 2 PartiaB 34
+Piotr B 5 3 3
+Malgorzata F 5 6 3 PartiaA
+Joanna G 5 1 PartiaA
+Konrad J 5 5 -45 8 17 33 -39 2 27
+Malgorzata J 5 1 PartiaA
+Jan E 5 5 -27 -40 16 -52 57 37 -53
+Grzegorz M 5 5 -94 -13 32 -78 -84 -87 37
+Anna U 5 4 3
+Maria C 5 7 4 PartiaA
+Piotr I 5 1 PartiaB
+Piotr K 5 4 6
+Pawel R 5 1 PartiaB
+Jan H 5 6 7 PartiaB
+Justyna R 5 8 -34 10 42 19 49 -70 50 PartiaA
+Agnieszka P 5 6 7 PartiaA
+Maria C 5 2 PartiaA 43
+Filip G 5 2 PartiaB 19
+Dawid C 5 2 PartiaA 36
+Janusz O 5 2 PartiaA 38
+Justyna R 5 8 -11 -13 -62 -80 -57 98 -95 PartiaB
+Dawid B 5 1 PartiaA
+Jacek J 5 4 2
+Konrad E 5 7 2 PartiaA
+Grzegorz Z 5 6 7 PartiaA
+Alina F 5 7 5 PartiaB
+Jan R 5 3 7
+Jan Z 5 7 2 PartiaB
+Dorota W 5 2 PartiaA 9
+Piotr A 5 8 99 -31 18 -33 70 -49 -38 PartiaB
+Ewa J 5 1 PartiaB
+Malgorzata P 5 3 5
+Janusz Z 5 2 PartiaB 43
+Alina Z 5 5 90 -84 94 -26 71 80 -30
+Grzegorz N 5 1 PartiaA
+Dorota P 5 2 PartiaA 43
+Maria A 5 2 PartiaA 5
+Michal S 5 5 -100 77 -21 -16 53 79 -56
+Michal W 5 1 PartiaA
+Konrad R 5 8 79 30 -48 3 -22 -1 -23 PartiaA
+Janusz E 5 6 4 PartiaB
+Filip W 5 7 3 PartiaA
+Michal O 5 7 7 PartiaB
+Zofia K 5 3 6
+Maria A 5 5 30 69 -32 -100 88 -34 -66
+Ewa C 5 8 59 -74 -7 100 -96 -47 -46 PartiaB
+Krzysztof A 5 4 1
+Justyna I 5 8 23 -22 23 -57 -29 -38 49 PartiaB
+Zofia O 5 1 PartiaB
+Jan Z 5 1 PartiaB
+Filip K 5 3 4
+Anna Z 5 3 2
+Anna G 5 4 2
+Grzegorz A 5 1 PartiaA
+Pawel B 5 1 PartiaA
+Konrad O 5 5 -48 -92 -38 94 -69 -36 20
+Dawid P 5 3 7
+Anna I 5 6 7 PartiaA
+Krzysztof U 5 4 6
+Joanna H 5 7 4 PartiaB
+Janusz U 5 3 2
+Grzegorz A 5 2 PartiaA 50
+Elzbieta N 5 3 6
+Dawid E 5 1 PartiaA
+Marta E 5 1 PartiaA
+Jan F 5 7 3 PartiaA
+Jacek I 5 3 3
+Janusz T 5 7 4 PartiaB
+Justyna I 5 7 6 PartiaA
+Zofia T 5 2 PartiaA 3
+Dawid R 5 1 PartiaA
+Justyna F 5 5 99 -8 51 98 13 -99 77
+Konrad O 5 6 4 PartiaA
+Agnieszka R 5 1 PartiaA
+Maria M 5 8 82 22 65 -80 -41 27 15 PartiaA
+Alina D 5 2 PartiaB 59
+Malgorzata K 5 6 5 PartiaA
+Kazimierz S 5 6 7 PartiaA
+Elzbieta A 5 2 PartiaB 47
+Konrad R 5 7 7 PartiaA
+Michal S 5 4 6
+Zofia T 5 8 -28 -13 77 -93 56 -83 -45 PartiaA
+Ewa N 5 2 PartiaA 45
+Agnieszka W 5 3 7
+Agnieszka T 5 3 4
+Elzbieta C 5 8 -94 -57 4 -83 13 -24 -50 PartiaB
+Joanna M 5 1 PartiaB
+Joanna W 5 5 26 49 -18 -24 -37 -7 -28
+Krzysztof U 5 3 1
+Jan U 5 3 7
+Malgorzata T 5 1 PartiaB
+Anna C 5 4 4
+Zofia D 5 7 3 PartiaA
+Jacek A 5 5 69 -53 -33 48 -68 -77 -32
+Jacek L 5 6 6 PartiaB
+Janusz Z 5 3 2
+Maria N 5 7 2 PartiaB
+Joanna E 5 6 7 PartiaA
+Konrad U 5 6 2 PartiaB
+Jan P 5 7 7 PartiaA
+Maria J 5 6 6 PartiaA
+Malgorzata E 5 2 PartiaB 46
+Konrad F 5 4 5
+Malgorzata P 5 6 3 PartiaA
+Agnieszka L 5 8 -26 51 50 -83 13 78 33 PartiaB
+Grzegorz H 5 5 -20 44 -93 25 -55 -71 -90
+Anna J 5 3 1
+Krzysztof M 5 8 50 71 13 16 70 46 39 PartiaB
+Maria Z 5 6 3 PartiaA
+Pawel M 5 8 -22 -56 6 63 -5 -69 -63 PartiaA
+Elzbieta E 5 2 PartiaB 35
+Elzbieta Z 5 6 2 PartiaA
+Krzysztof A 5 8 89 -76 -44 -20 -53 -8 -67 PartiaB
+Jacek J 5 2 PartiaA 16
+Marta D 5 3 4
+Dorota Z 5 3 6
+Konrad H 5 8 47 -75 20 27 -60 9 36 PartiaA
+Piotr G 5 8 -25 -78 15 40 -22 -83 -46 PartiaB
+Kazimierz O 5 4 5
+Grzegorz S 5 7 5 PartiaA
+Justyna A 5 5 68 73 -86 -36 -94 70 82
+Konrad N 5 7 7 PartiaB
+Janusz A 5 2 PartiaB 29
+Kazimierz K 5 4 7
+Filip W 5 1 PartiaB
+Anna L 5 5 47 67 97 21 -41 97 35
+Dawid N 5 5 39 80 -76 -25 23 -9 -7
+Marta M 5 8 -54 -17 70 34 -46 -35 -95 PartiaA
+Jacek C 5 7 7 PartiaA
+Maria F 5 4 1
+Krzysztof A 5 2 PartiaB 23
+Kazimierz M 5 7 5 PartiaB
+Michal I 5 5 14 -93 -15 97 -88 82 45
+Grzegorz J 5 1 PartiaA
+Jan W 5 8 -77 97 13 -58 52 -19 -42 PartiaB
+Grzegorz I 5 5 5 -23 65 -39 -82 3 -51
+Marta W 5 5 -15 -79 -2 -47 -71 -2 63
+Justyna P 5 1 PartiaA
+Jacek U 5 5 31 -34 -16 -69 98 -93 -5
+Jan P 5 6 1 PartiaA
+Konrad M 5 7 2 PartiaB
+Elzbieta S 5 1 PartiaA
+Piotr J 5 1 PartiaA
+Alina A 5 5 -31 15 92 17 -9 56 65
+Krzysztof U 5 8 -78 40 -71 34 -8 -24 -37 PartiaB
+Marta L 5 2 PartiaA 9
+Maria W 5 8 -22 -54 59 -52 -26 90 18 PartiaA
+Dawid D 5 1 PartiaB
+Krzysztof A 5 1 PartiaA
+Agnieszka E 5 5 92 -80 -68 -90 30 30 67
+Anna M 5 7 5 PartiaB
+Krzysztof B 5 5 -82 92 -45 23 -61 70 -16
+Michal I 5 7 1 PartiaA
+Piotr B 5 7 5 PartiaB
+Justyna S 5 1 PartiaB
+Pawel O 5 3 6
+Alina P 5 7 1 PartiaB
+Jacek G 5 6 3 PartiaB
+Zofia G 5 8 82 60 43 -59 -7 84 94 PartiaB
+Ewa E 5 8 -20 -1 90 -72 -39 -81 -26 PartiaA
+Elzbieta J 5 5 -24 -58 81 27 14 100 64
+Dawid I 5 5 -41 -14 49 -83 28 22 -92
+Elzbieta S 5 5 -21 -79 -22 69 73 4 -78
+Konrad C 5 8 -27 -20 -12 99 -49 -69 94 PartiaA
+Dorota D 5 5 25 77 -93 -73 -45 -80 -20
+Kazimierz Z 5 1 PartiaA
+Grzegorz O 5 7 4 PartiaA
+Dawid C 5 6 1 PartiaA
+Marta P 5 5 -10 5 -43 -69 70 75 33
+Justyna B 5 6 3 PartiaB
+Filip W 5 1 PartiaB
+Alina U 5 4 7
+Jan T 5 7 7 PartiaA
+Joanna S 5 5 34 16 -5 -4 76 21 -42
+Piotr R 5 1 PartiaB
+Jan E 5 3 1
+Pawel S 5 4 7
+Michal Z 5 5 -56 96 80 -3 -24 49 -45
+Pawel I 5 3 5
+Filip G 5 7 7 PartiaA
+Alina I 5 1 PartiaB
+Anna D 5 6 7 PartiaA
+Maria B 5 3 3
+Pawel H 5 7 5 PartiaB
+Janusz W 5 1 PartiaB
+Agnieszka J 5 7 3 PartiaA
+Maria G 5 7 7 PartiaA
+Maria N 5 4 1
+Zofia E 5 2 PartiaA 47
+Dorota O 5 5 -39 31 -66 4 63 -69 8
+Alina H 5 6 7 PartiaB
+Ewa S 5 8 76 -65 -82 -32 -79 91 -69 PartiaB
+Justyna U 5 7 4 PartiaA
+Justyna G 5 1 PartiaB
+Janusz C 5 7 4 PartiaB
+Alina C 5 6 1 PartiaA
+Michal N 5 1 PartiaB
+Krzysztof G 5 5 -37 -19 -44 5 -46 -17 -82
+Malgorzata O 5 8 -49 66 44 -13 -55 -65 -56 PartiaB
+Kazimierz M 5 6 2 PartiaB
+Alina M 5 8 22 97 62 37 100 -8 -84 PartiaA
+Jacek M 5 1 PartiaB
+Filip J 5 5 -4 55 39 -92 -74 -23 97
+Kazimierz R 5 2 PartiaB 25
+Jan F 5 3 3
+Elzbieta R 5 6 6 PartiaB
+Kazimierz S 5 4 1
+Michal H 5 8 37 -17 -33 -27 -70 52 -66 PartiaB
+Konrad U 5 7 7 PartiaB
+Agnieszka N 5 6 3 PartiaB
+Marta L 5 4 2
+Janusz C 5 4 1
+Grzegorz R 5 5 -92 27 0 -63 -84 89 69
+Konrad U 5 6 3 PartiaA
+Dorota J 5 2 PartiaA 18
+Piotr J 5 6 4 PartiaB
+Zofia J 5 5 55 -41 16 -47 12 -80 100
+Maria J 5 7 1 PartiaA
+Malgorzata L 5 8 -98 -45 -22 -99 41 99 16 PartiaB
+Joanna E 5 1 PartiaB
+Konrad H 5 7 4 PartiaA
+Grzegorz U 5 7 7 PartiaB
+Jacek T 5 7 1 PartiaB
+Dawid I 5 5 -26 -65 29 4 -72 -13 -80
+Ewa D 5 1 PartiaA
+Alina B 5 8 15 -1 7 -29 87 79 73 PartiaA
+Jacek S 5 5 76 -10 35 -28 -34 -13 -46
+Konrad O 5 2 PartiaB 54
+Jan N 5 4 7
+Dawid T 5 7 7 PartiaB
+Alina H 5 1 PartiaB
+Janusz U 5 8 1 64 -7 -60 1 77 -51 PartiaB
+Filip W 5 8 25 56 -75 32 -1 -96 -49 PartiaB
+Jan E 5 4 5
+Elzbieta P 5 7 5 PartiaB
+Agnieszka S 5 1 PartiaB
+Zofia U 5 6 4 PartiaA
+Krzysztof I 5 8 -66 55 -20 -72 -16 -21 63 PartiaB
+Justyna B 5 7 3 PartiaA
+Joanna T 5 2 PartiaA 24
+Justyna D 5 4 7
+Ewa B 5 6 5 PartiaB
+Janusz K 5 6 7 PartiaB
+Joanna U 5 2 PartiaB 4
+Joanna A 5 4 5
+Pawel S 5 6 7 PartiaB
+Maria O 5 3 3
+Janusz L 5 5 65 38 55 6 69 30 46
+Agnieszka K 5 5 82 -56 -10 92 -39 26 84
+Jan D 5 2 PartiaA 43
+Grzegorz M 5 6 3 PartiaB
+Elzbieta H 5 5 -48 -95 27 3 -37 11 -35
+Piotr R 5 6 7 PartiaB
+Maria M 5 6 2 PartiaA
+Agnieszka D 5 3 4
+Michal A 5 4 4
+Jan H 5 5 -19 -73 25 -87 21 -100 14
+Kazimierz J 5 5 54 80 -87 -68 66 87 -51
+Agnieszka K 5 7 5 PartiaB
+Kazimierz R 5 6 4 PartiaB
+Joanna G 5 2 PartiaB 22
+Anna H 5 2 PartiaA 15
+Jan E 5 3 7
+Jacek C 5 8 -41 92 83 -79 -31 52 80 PartiaA
+Dorota U 5 3 4
+Alina N 5 8 -45 -50 23 -80 9 38 92 PartiaB
+Maria P 5 3 4
+Konrad N 5 7 4 PartiaA
+Justyna P 5 2 PartiaA 5
+Marta A 5 1 PartiaA
+Kazimierz C 5 4 1
+Janusz S 5 4 6
+Alina C 5 6 6 PartiaB
+Michal S 5 3 3
+Agnieszka T 5 4 2
+Michal C 5 4 2
+Ewa O 5 4 3
+Agnieszka Z 5 3 1
+Janusz O 5 4 1
+Anna B 5 5 4 -57 -76 -2 -22 66 10
+Joanna F 5 2 PartiaB 3
+Anna R 5 3 3
+Marta F 5 6 6 PartiaA
+Grzegorz J 5 5 5 -8 -31 -92 -100 81 -20
+Jacek K 5 8 62 -79 96 36 -82 -91 77 PartiaB
+Michal I 5 6 3 PartiaA
+Jacek Z 5 2 PartiaA 8
+Joanna L 5 5 84 -13 -23 95 -30 -67 -63
+Michal O 5 6 2 PartiaB
+Kazimierz L 5 2 PartiaA 7
+Pawel G 5 1 PartiaB
+Janusz Z 5 3 7
+Piotr C 5 4 5
+Anna F 5 7 6 PartiaB
+Piotr E 5 3 1
+Kazimierz A 5 6 7 PartiaB
+Elzbieta T 5 5 72 -99 55 10 -65 87 50
+Anna H 5 6 5 PartiaB
+Jacek F 5 4 1
+Grzegorz U 5 3 6
+Piotr G 5 7 7 PartiaB
+Zofia J 5 6 5 PartiaB
+Grzegorz K 5 7 1 PartiaB
+Piotr W 5 8 6 96 72 3 57 -100 -31 PartiaA
+Zofia Z 5 4 5
+Filip K 5 7 3 PartiaB
+Jacek I 5 1 PartiaA
+Pawel C 5 6 4 PartiaB
+Pawel R 5 3 1
+Michal C 5 4 3
+Pawel O 5 3 3
+Jacek O 5 8 38 -98 58 -35 -87 -92 -57 PartiaA
+Dorota W 5 3 4
+Marta P 5 6 4 PartiaB
+Alina U 5 6 3 PartiaA
+Anna T 5 4 4
+Agnieszka B 5 4 7
+Justyna R 5 6 1 PartiaA
+Krzysztof F 5 8 8 -68 -73 -1 -43 1 -78 PartiaB
+Anna C 5 6 7 PartiaA
+Agnieszka G 5 1 PartiaB
+Marta S 5 7 7 PartiaA
+Agnieszka F 5 5 42 2 -55 -19 66 -38 -71
+Agnieszka H 5 3 1
+Agnieszka T 5 5 43 -100 0 -67 -67 -21 24
+Zofia D 5 5 -58 -24 86 72 84 -35 51
+Filip K 5 2 PartiaA 33
+Ewa C 5 4 2
+Ewa M 5 2 PartiaA 54
+Malgorzata P 5 5 -99 29 38 55 -40 -77 22
+Anna C 5 7 5 PartiaA
+Elzbieta Z 5 1 PartiaB
+Maria I 5 7 6 PartiaA
+Janusz L 5 6 6 PartiaA
+Joanna M 5 6 4 PartiaB
+Grzegorz P 5 3 7
+Agnieszka D 5 7 6 PartiaB
+Konrad A 5 7 5 PartiaA
+Janusz I 5 8 97 -68 -31 -86 -15 0 12 PartiaA
+Grzegorz L 5 6 6 PartiaB
+Dorota M 5 8 -3 35 11 53 99 92 -45 PartiaA
+Joanna U 5 7 3 PartiaB
+Zofia B 5 8 79 93 -14 -44 -71 -49 -28 PartiaA
+Ewa N 5 7 1 PartiaB
+Maria F 5 1 PartiaA
+Ewa R 5 6 4 PartiaB
+Krzysztof J 5 4 3
+Filip T 5 6 4 PartiaA
+Joanna O 5 5 19 -4 84 -12 -78 -39 56
+Grzegorz N 5 2 PartiaB 54
+Anna G 5 6 3 PartiaB
+Maria H 5 7 6 PartiaA
+Michal B 5 1 PartiaA
+Dawid R 5 1 PartiaB
+Michal N 5 1 PartiaB
+Jan R 5 2 PartiaB 20
+Janusz T 5 7 1 PartiaA
+Michal M 5 3 6
+Kazimierz F 5 7 2 PartiaB
+Marta E 5 4 4
+Pawel R 5 8 -60 83 -13 0 56 -37 56 PartiaB
+Dorota S 5 2 PartiaB 19
+Alina H 5 7 1 PartiaA
+Malgorzata P 5 8 -2 18 80 -82 -83 66 -55 PartiaA
+Agnieszka M 5 8 -77 -78 -99 58 51 83 96 PartiaA
+Krzysztof H 5 5 67 -61 -94 -92 98 94 -83
+Zofia J 5 5 100 18 -54 -14 -29 -31 100
+Alina L 5 6 5 PartiaB
+Maria Z 5 5 -11 43 -96 -68 64 -26 43
+Maria B 5 5 63 86 9 64 -91 67 -16
+Jacek C 5 1 PartiaA
+Alina B 5 3 3
+Konrad M 5 6 2 PartiaA
+Alina C 5 1 PartiaB
+Ewa T 5 3 4
+Marta H 5 6 7 PartiaA
+Jan J 5 4 1
+Dawid B 5 7 3 PartiaB
+Janusz L 5 5 87 -84 -82 78 -17 10 -61
+Maria T 5 3 4
+Janusz T 5 8 86 -57 18 -38 -45 31 69 PartiaA
+Kazimierz C 5 1 PartiaA
+Grzegorz N 5 3 2
+Marta H 5 2 PartiaA 10
+Pawel P 5 2 PartiaA 15
+Pawel K 5 2 PartiaA 36
+Dawid H 5 4 1
+Anna P 5 5 4 -60 58 74 61 77 57
+Pawel Z 5 8 100 -69 16 -9 -52 -11 63 PartiaB
+Marta I 5 2 PartiaB 47
+Pawel E 5 1 PartiaB
+Joanna S 5 4 2
+Michal R 5 8 -53 30 84 88 -41 9 -9 PartiaA
+Marta W 5 3 3
+Pawel R 5 3 2
+Agnieszka C 5 3 6
+Konrad M 5 3 2
+Konrad U 5 6 7 PartiaA
+Ewa E 5 8 -86 -75 -71 27 -68 98 100 PartiaB
+Agnieszka P 5 5 -71 73 70 83 -18 -72 2
+Jan I 5 2 PartiaB 31
+Alina C 5 4 6
+Pawel I 5 5 -29 -75 13 -1 -68 -97 -15
+Zofia D 5 8 93 -95 64 25 51 -65 -64 PartiaB
+Krzysztof A 5 8 -82 36 -54 90 49 -39 -42 PartiaA
+Jacek L 5 5 -26 -68 42 45 72 20 48
+Marta I 5 5 36 -38 -60 87 45 27 -47
+Ewa U 5 4 2
+Joanna S 5 3 5
+Piotr N 5 1 PartiaA
+Justyna U 5 7 6 PartiaB
+Pawel H 5 4 7
+Jan G 5 7 1 PartiaA
+Agnieszka T 5 6 7 PartiaB
+Grzegorz J 5 2 PartiaB 17
+Joanna E 5 1 PartiaB
+Ewa K 5 5 -78 47 -21 -54 -97 -91 13
+Filip J 5 4 3
+Dawid W 5 8 66 -93 59 -95 75 -44 -68 PartiaA
+Dawid C 5 3 7
+Elzbieta E 5 6 3 PartiaB
+Joanna B 5 8 74 62 -88 -58 -27 -80 62 PartiaA
+Agnieszka H 5 8 -16 83 25 -37 33 -85 96 PartiaA
+Agnieszka W 5 7 2 PartiaB
+Elzbieta W 5 7 2 PartiaA
+Krzysztof P 5 3 2
+Agnieszka R 5 4 5
+Dorota I 5 7 1 PartiaA
+Zofia G 5 7 5 PartiaB
+Agnieszka F 5 5 30 -68 -32 11 -77 -29 47
+Malgorzata B 5 8 -31 3 -49 13 90 -57 -52 PartiaB
+Michal N 5 2 PartiaB 18
+Alina U 5 1 PartiaA
+Filip A 5 4 5
+Krzysztof H 5 8 15 -89 -91 -37 -79 2 -63 PartiaB
+Krzysztof H 5 5 -97 72 24 -88 89 -4 48
+Maria U 5 7 6 PartiaA
+Kazimierz J 5 1 PartiaA
+Alina J 5 8 -29 42 -77 55 -16 42 -88 PartiaA
+Jan J 5 2 PartiaB 15
+Filip J 5 1 PartiaB
+Jacek U 5 7 2 PartiaB
+Jacek U 5 4 5
+Zofia W 5 8 12 -46 -66 -58 31 54 -100 PartiaA
+Filip O 5 4 4
+Grzegorz C 5 2 PartiaA 49
+Malgorzata L 5 6 1 PartiaB
+Maria H 5 7 4 PartiaA
+Elzbieta G 5 6 2 PartiaA
+Zofia K 5 3 4
+Maria M 5 1 PartiaB
+Ewa U 5 7 7 PartiaA
+Dawid Z 5 2 PartiaA 2
+Zofia Z 5 1 PartiaB
+Ewa M 5 1 PartiaA
+Malgorzata Z 5 2 PartiaB 30
+Grzegorz S 5 7 6 PartiaB
+Kazimierz S 5 7 4 PartiaB
+Joanna R 5 8 24 -69 80 -67 9 -33 -10 PartiaB
+Kazimierz K 5 1 PartiaB
+Ewa E 5 5 88 37 61 -4 6 -34 -93
+Justyna H 5 3 4
+Filip L 5 5 88 65 98 10 83 -92 -56
+Marta E 5 2 PartiaB 26
+Alina Z 5 5 -42 -55 -2 -10 31 -41 -62
+Dawid R 5 3 2
+Jan U 5 3 7
+Dorota T 5 5 46 -96 89 76 23 -61 34
+Jacek H 5 1 PartiaB
+Kazimierz I 5 5 -10 -30 84 -22 86 -49 1
+Jan K 5 1 PartiaB
+Agnieszka N 5 1 PartiaB
+Krzysztof R 5 3 4
+Konrad Z 5 1 PartiaB
+Dawid K 5 2 PartiaB 34
+Krzysztof Z 5 6 7 PartiaB
+Ewa F 5 6 2 PartiaB
+Pawel H 5 2 PartiaB 8
+Joanna S 5 2 PartiaB 48
+Justyna D 5 2 PartiaA 50
+Michal J 5 7 4 PartiaA
+Dawid U 5 3 6
+Elzbieta Z 5 6 2 PartiaA
+Grzegorz D 5 5 -69 50 8 20 99 85 -13
+Zofia W 5 3 5
+Ewa U 5 7 7 PartiaB
+Janusz C 5 3 7
+Piotr L 5 2 PartiaB 1
+Elzbieta K 5 2 PartiaB 3
+Grzegorz N 5 4 2
+Kazimierz W 5 4 4
+Pawel O 5 5 -64 18 34 -11 -52 30 90
+Filip W 5 6 5 PartiaA
+Marta T 5 3 7
+Jan J 5 1 PartiaA
+Zofia J 5 4 4
+Piotr F 5 5 -17 45 -25 25 -23 61 67
+Janusz K 5 6 6 PartiaB
+Janusz M 5 3 1
+Michal E 5 3 2
+Jan Z 5 3 4
+Krzysztof C 5 6 2 PartiaB
+Alina B 5 5 -67 -53 57 -82 -38 49 83
+Konrad M 5 4 2
+Zofia J 5 7 7 PartiaB
+Jan W 5 3 5
+Michal C 5 3 1
+Dorota H 5 2 PartiaA 39
+Ewa A 5 2 PartiaA 39
+Elzbieta S 5 3 1
+Joanna L 5 8 63 39 56 78 67 -87 68 PartiaB
+Kazimierz D 5 1 PartiaA
+Elzbieta C 5 5 76 44 16 -53 -80 -100 -5
+Konrad F 5 4 7
+Jacek O 5 4 5
+Elzbieta K 5 7 1 PartiaB
+Agnieszka M 5 4 7
+Joanna E 5 1 PartiaB
+Marta D 5 4 5
+Konrad E 5 3 7
+Elzbieta I 5 3 3
+Zofia S 5 3 7
+Marta A 5 2 PartiaA 29
+Piotr G 5 8 60 -93 71 -50 26 -44 -15 PartiaA
+Jan G 5 8 -26 -96 -98 -78 73 -100 1 PartiaB
+Joanna T 5 8 -17 -73 23 -6 34 39 84 PartiaB
+Agnieszka N 5 2 PartiaB 25
+Konrad G 5 3 5
+Jacek E 5 2 PartiaB 49
+Janusz B 5 7 4 PartiaB
+Marta J 5 1 PartiaA
+Piotr H 5 5 -62 81 84 62 -32 50 -20
+Jan E 5 5 82 15 -61 -71 100 0 45
+Maria J 5 2 PartiaA 54
+Krzysztof P 5 4 4
+Agnieszka P 5 4 3
+Anna H 5 2 PartiaB 33
+Filip E 5 5 59 -79 77 -65 -44 -75 -96
+Krzysztof S 5 3 7
+Pawel N 5 6 4 PartiaA
+Jan A 5 2 PartiaA 27
+Pawel I 5 3 7
+Zofia G 5 8 76 90 97 33 7 25 76 PartiaB
+Justyna K 5 1 PartiaA
+Justyna H 5 3 5
+Zofia P 5 3 1
+Ewa B 5 8 91 -74 -46 -86 54 -82 -48 PartiaB
+Jacek O 5 7 7 PartiaA
+Janusz T 5 7 4 PartiaA
+Krzysztof F 5 6 3 PartiaB
+Zofia E 5 8 -98 -57 -20 -70 25 -61 54 PartiaA
+Dawid N 5 8 -30 -63 -43 -43 94 74 -14 PartiaB
+Kazimierz T 5 4 2
+Joanna G 5 8 -46 85 100 21 19 30 -21 PartiaA
+Maria S 5 7 7 PartiaB
+Dawid T 5 4 3
+Kazimierz N 5 2 PartiaB 54
+Elzbieta F 5 6 4 PartiaB
+Jacek H 5 1 PartiaA
+Jan H 5 3 1
+Alina N 5 1 PartiaB
+Grzegorz O 5 6 2 PartiaB
+Maria P 5 8 -37 -66 41 -13 88 -30 52 PartiaB
+Pawel G 5 8 -87 -24 44 -100 -62 22 -31 PartiaB
+Dawid G 5 6 1 PartiaB
+Ewa I 5 2 PartiaA 58
+Marta L 5 1 PartiaA
+Marta L 5 2 PartiaB 41
+Grzegorz H 5 5 -82 81 12 5 -3 -47 -81
+Malgorzata H 5 5 14 80 -21 98 -60 35 45
+Joanna M 5 6 6 PartiaB
+Zofia J 5 1 PartiaA
+Zofia M 5 7 3 PartiaB
+Ewa B 5 6 7 PartiaB
+Alina U 5 1 PartiaB
+Joanna I 5 6 1 PartiaA
+Jacek C 5 3 2
+Maria E 5 5 1 35 -73 93 -99 -4 -6
+Maria B 5 1 PartiaB
+Alina J 5 1 PartiaA
+Zofia B 5 1 PartiaA
+Piotr N 5 3 2
+Marta E 5 4 1
+Alina G 5 1 PartiaB
+Jacek R 5 1 PartiaA
+Zofia B 5 5 85 74 97 6 32 -90 -65
+Dorota R 5 6 5 PartiaA
+Grzegorz C 5 4 4
+Filip N 5 6 1 PartiaB
+Dorota U 5 6 2 PartiaA
+Kazimierz T 5 1 PartiaA
+Ewa F 5 2 PartiaA 30
+Janusz J 5 8 -21 -65 0 -70 74 56 -75 PartiaA
+Jacek G 5 2 PartiaB 22
+Pawel D 5 6 6 PartiaB
+Elzbieta F 5 1 PartiaA
+Dorota A 5 6 3 PartiaA
+Joanna N 5 5 88 76 80 -87 -69 23 38
+Krzysztof J 5 3 5
+Pawel E 6 2 PartiaB 18
+Kazimierz W 6 8 -52 -5 26 40 -2 71 -1 PartiaB
+Konrad I 6 4 1
+Michal W 6 8 37 -42 -37 20 -59 -26 54 PartiaB
+Elzbieta H 6 6 4 PartiaB
+Dorota U 6 8 -66 -91 -42 -26 10 32 -71 PartiaA
+Marta H 6 3 2
+Agnieszka F 6 3 2
+Piotr M 6 5 31 -47 82 17 46 54 63
+Elzbieta F 6 3 6
+Pawel F 6 1 PartiaA
+Pawel M 6 1 PartiaA
+Elzbieta Z 6 6 5 PartiaA
+Grzegorz L 6 1 PartiaB
+Michal D 6 3 5
+Krzysztof L 6 6 4 PartiaA
+Marta P 6 8 72 65 88 -39 -23 50 77 PartiaA
+Grzegorz O 6 7 3 PartiaB
+Jacek B 6 7 2 PartiaA
+Jacek G 6 5 56 -43 0 -51 -84 68 -87
+Joanna G 6 3 1
+Dorota N 6 7 6 PartiaB
+Michal S 6 6 4 PartiaB
+Michal S 6 2 PartiaA 5
+Dawid C 6 2 PartiaB 12
+Malgorzata P 6 8 -19 48 -1 35 -8 38 -32 PartiaB
+Alina G 6 2 PartiaA 22
+Kazimierz D 6 2 PartiaA 12
+Alina B 6 4 2
+Jan C 6 4 4
+Alina T 6 4 7
+Malgorzata O 6 8 -90 3 -51 -25 -52 -79 59 PartiaA
+Dorota P 6 3 6
+Zofia O 6 7 7 PartiaB
+Jan U 6 3 1
+Alina M 6 8 76 19 -8 36 58 68 92 PartiaB
+Filip M 6 2 PartiaB 22
+Anna T 6 2 PartiaA 3
+Dawid W 6 7 7 PartiaA
+Malgorzata M 6 5 -84 20 62 -47 48 34 -13
+Dawid E 6 2 PartiaA 19
+Justyna A 6 5 22 23 -54 -77 35 -98 -70
+Krzysztof T 6 8 50 -8 27 -92 -85 41 35 PartiaA
+Justyna N 6 5 -71 -44 -24 83 43 36 29
+Janusz B 6 7 5 PartiaA
+Krzysztof I 6 3 4
+Michal Z 6 8 -44 57 37 -63 -81 56 -34 PartiaB
+Janusz P 6 3 2
+Malgorzata O 6 7 2 PartiaB
+Zofia Z 6 2 PartiaA 4
+Alina B 6 3 2
+Kazimierz D 6 8 -29 -16 -71 -21 77 -83 60 PartiaA
+Alina B 6 4 4
+Jan H 6 5 -5 47 96 -96 72 93 2
+Agnieszka D 6 4 3
+Ewa B 6 8 66 62 14 38 -82 -79 22 PartiaB
+Dawid G 6 7 3 PartiaA
+Krzysztof P 6 5 -19 -58 -41 91 64 -3 -94
+Maria O 6 8 -93 -2 11 7 76 88 80 PartiaA
+Ewa O 6 3 7
+Alina B 6 7 3 PartiaA
+Alina J 6 4 5
+Dorota E 6 2 PartiaA 20
+Pawel O 6 5 36 -10 -83 21 64 55 93
+Justyna G 6 8 49 100 32 -92 91 -14 -48 PartiaB
+Marta R 6 6 1 PartiaB
+Filip K 6 4 3
+Michal I 6 6 3 PartiaB
+Anna G 6 3 4
+Marta D 6 8 98 59 -19 77 -50 71 -49 PartiaA
+Konrad C 6 4 1
+Alina E 6 6 2 PartiaB
+Alina F 6 7 7 PartiaA
+Joanna R 6 8 45 -15 -27 3 -92 83 -83 PartiaA
+Anna Z 6 2 PartiaB 11
+Janusz L 6 2 PartiaA 13
+Dorota G 6 8 -83 63 57 -25 95 -54 -68 PartiaA
+Dawid E 6 7 5 PartiaA
+Grzegorz E 6 3 5
+Janusz A 6 5 44 -58 -15 -30 -78 -80 47
+Piotr S 6 1 PartiaA
+Dawid T 6 6 5 PartiaB
+Piotr H 6 8 -7 -50 6 -55 60 84 6 PartiaB
+Alina I 6 1 PartiaB
+Piotr H 6 8 -36 96 62 -98 85 62 65 PartiaA
+Michal C 6 4 1
+Ewa E 6 7 7 PartiaB
+Jacek P 6 5 62 85 17 -40 -12 60 -55
+Jacek A 6 7 5 PartiaA
+Kazimierz I 6 6 4 PartiaB
+Krzysztof W 6 5 40 28 -76 -19 -14 50 96
+Kazimierz E 6 6 6 PartiaA
+Konrad N 6 6 6 PartiaB
+Pawel P 6 5 -27 -29 42 28 63 84 -39
+Pawel H 6 1 PartiaB
+Zofia P 6 1 PartiaA
+Kazimierz W 6 7 6 PartiaA
+Krzysztof R 6 1 PartiaB
+Alina P 6 5 -15 -7 -22 42 19 54 56
+Alina R 6 5 73 27 -88 30 -38 -84 -55
+Jan D 6 1 PartiaA
+Janusz M 6 8 -78 44 26 95 -9 32 -83 PartiaB
+Pawel Z 6 4 4
+Justyna C 6 6 5 PartiaB
+Joanna U 6 8 35 -63 7 -45 -86 -47 21 PartiaA
+Piotr W 6 2 PartiaA 12
+Joanna E 6 5 -50 18 -30 44 -5 -29 21
+Jacek S 6 8 51 -56 47 37 0 45 95 PartiaA
+Pawel R 6 8 0 -24 10 34 38 80 -50 PartiaB
+Jan K 6 1 PartiaB
+Michal E 6 6 2 PartiaB
+Maria E 6 7 2 PartiaB
+Ewa B 6 7 6 PartiaB
+Grzegorz P 6 5 -34 -33 -27 25 20 -52 6
+Jacek M 6 6 2 PartiaB
+Dawid P 6 3 6
+Zofia C 6 6 4 PartiaA
+Alina B 6 1 PartiaA
+Malgorzata B 6 4 2
+Alina Z 6 4 2
+Ewa G 6 4 4
+Elzbieta J 6 8 22 31 28 85 -16 -43 -1 PartiaA
+Joanna G 6 2 PartiaB 14
+Justyna S 6 7 6 PartiaB
+Konrad T 6 8 64 60 -67 -93 -66 -98 -71 PartiaA
+Marta U 6 8 -24 -59 -23 4 33 -99 -66 PartiaB
+Agnieszka S 6 7 5 PartiaB
+Malgorzata L 6 3 7
+Elzbieta N 6 8 -1 76 -47 -5 -93 99 -28 PartiaB
+Pawel B 6 2 PartiaB 14
+Jan Z 6 1 PartiaB
+Marta D 6 3 6
+Malgorzata P 6 1 PartiaA
+Zofia P 6 2 PartiaA 19
+Jacek D 6 3 2
+Jan C 6 8 74 -59 88 90 -46 -11 -91 PartiaB
+Dawid D 6 4 7
+Michal U 6 2 PartiaB 11
+Jacek Z 6 7 1 PartiaA
+Maria W 6 8 -70 -54 73 51 -36 -28 66 PartiaA
+Jan W 6 1 PartiaA
+Justyna R 6 8 86 -59 -40 -66 -17 -29 -16 PartiaB
+Jan S 6 4 2
+Filip M 6 7 4 PartiaA
+Dorota L 6 7 7 PartiaB
+Krzysztof M 6 7 6 PartiaA
+Marta F 6 1 PartiaA
+Ewa N 6 4 6
+Kazimierz D 6 2 PartiaB 15
+Dawid H 6 2 PartiaB 13
+Michal M 6 4 5
+Janusz D 6 2 PartiaB 19
+Agnieszka C 6 8 -49 66 34 -44 -98 -72 -71 PartiaB
+Elzbieta F 6 5 5 -4 -34 32 -63 -100 -11
+Ewa O 6 5 59 -19 27 62 -32 95 -54
+Filip F 6 2 PartiaB 2
+Joanna W 6 1 PartiaA
+Piotr I 6 7 2 PartiaB
+Ewa F 6 1 PartiaB
+Elzbieta R 6 1 PartiaA
+Maria D 6 6 2 PartiaA
+Michal N 6 1 PartiaB
+Malgorzata S 6 2 PartiaB 20
+Ewa W 6 8 31 70 -98 25 -34 87 85 PartiaA
+Dawid O 6 2 PartiaB 9
+Michal T 6 7 5 PartiaA
+Zofia B 6 5 -59 85 10 37 -75 -93 -37
+Janusz K 6 3 2
+Filip N 6 8 -77 -85 -97 -53 -34 75 55 PartiaB
+Filip T 6 6 3 PartiaA
+Elzbieta J 6 3 4
+Agnieszka P 6 7 1 PartiaA
+Krzysztof N 6 3 2
+Jacek R 6 3 1
+Michal O 6 7 5 PartiaB
+Marta F 6 4 6
+Krzysztof U 6 1 PartiaB
+Justyna L 6 1 PartiaA
+Marta Z 6 6 7 PartiaA
+Filip M 6 8 75 28 -55 11 96 69 -54 PartiaA
+Malgorzata N 6 8 13 88 46 66 -61 -88 -76 PartiaB
+Michal S 6 8 21 -41 57 -3 30 56 70 PartiaA
+Kazimierz P 6 3 7
+Ewa P 6 3 7
+Maria T 6 5 -45 6 -18 -15 47 25 -49
+Dorota M 6 3 7
+Pawel E 6 3 3
+Dorota O 6 2 PartiaB 15
+Marta N 6 3 2
+Kazimierz H 6 6 5 PartiaA
+Elzbieta B 6 3 1
+Grzegorz M 6 3 2
+Maria S 6 3 1
+Ewa S 6 8 88 -59 21 97 99 0 -32 PartiaB
+Michal G 6 3 5
+Filip J 6 7 7 PartiaB
+Konrad N 6 7 3 PartiaB
+Jan G 6 8 -3 -82 -52 -8 -71 30 -23 PartiaA
+Maria H 6 4 1
+Pawel D 6 2 PartiaA 5
+Dorota M 6 4 4
+Alina H 6 8 -52 -15 -97 -73 83 -71 85 PartiaB
+Dawid M 6 3 3
+Krzysztof M 6 4 1
+Elzbieta H 6 7 5 PartiaB
+Piotr U 6 2 PartiaA 5
+Janusz I 6 6 1 PartiaA
+Agnieszka L 6 6 4 PartiaB
+Alina W 6 2 PartiaB 1
+Alina U 6 3 3
+Anna W 6 8 58 -94 -12 -88 -15 -33 67 PartiaA
+Michal P 6 4 2
+Filip W 6 7 7 PartiaB
+Michal L 6 8 -60 -79 -33 -91 -87 95 -62 PartiaB
+Filip R 6 7 3 PartiaB
+Maria D 6 7 1 PartiaA
+Marta B 6 4 2
+Dorota H 6 7 4 PartiaB
+Joanna H 6 1 PartiaB
+Marta S 6 3 6
+Agnieszka S 7 6 1 PartiaA
+Elzbieta T 7 6 4 PartiaA
+Piotr K 7 7 2 PartiaA
+Ewa G 7 1 PartiaA
+Maria Z 7 1 PartiaA
+Zofia H 7 6 5 PartiaA
+Agnieszka S 7 1 PartiaA
+Elzbieta J 7 4 5
+Marta S 7 5 -17 66 26 -11 19 -3 -29
+Michal T 7 1 PartiaA
+Konrad E 7 2 PartiaB 64
+Kazimierz L 7 4 1
+Agnieszka L 7 5 -96 98 12 -29 94 -80 23
+Malgorzata O 7 5 24 39 91 11 27 -39 -14
+Jacek Z 7 2 PartiaA 29
+Dorota K 7 1 PartiaA
+Kazimierz Z 7 3 5
+Justyna O 7 5 -75 26 18 10 -57 -79 -26
+Justyna O 7 3 1
+Joanna O 7 4 4
+Maria K 7 8 95 94 10 -76 42 27 -28 PartiaB
+Justyna B 7 4 7
+Malgorzata S 7 5 -21 0 23 -69 -37 -33 93
+Zofia A 7 4 2
+Agnieszka R 7 4 4
+Jan K 7 8 49 -73 83 78 -15 16 -40 PartiaB
+Ewa Z 7 2 PartiaB 44
+Grzegorz B 7 7 1 PartiaA
+Pawel C 7 5 80 53 -58 6 -17 38 -64
+Filip R 7 4 2
+Konrad G 7 2 PartiaA 62
+Elzbieta C 7 5 96 -8 -57 38 -58 -33 -11
+Piotr U 7 2 PartiaA 62
+Malgorzata A 7 3 5
+Piotr Z 7 2 PartiaA 60
+Konrad W 7 1 PartiaA
+Agnieszka L 7 3 6
+Zofia D 7 3 7
+Jacek N 7 3 1
+Agnieszka U 7 7 5 PartiaB
+Malgorzata G 7 2 PartiaA 23
+Janusz M 7 1 PartiaA
+Krzysztof S 7 8 75 43 79 96 -7 66 85 PartiaA
+Kazimierz U 7 7 5 PartiaB
+Elzbieta N 7 2 PartiaB 62
+Krzysztof N 7 3 6
+Pawel W 7 7 4 PartiaA
+Agnieszka T 7 3 6
+Jacek D 7 3 7
+Marta U 7 3 1
+Alina E 7 3 4
+Joanna R 7 1 PartiaB
+Anna R 7 3 1
+Janusz C 7 2 PartiaB 56
+Dorota Z 7 6 6 PartiaB
+Grzegorz S 7 1 PartiaA
+Michal B 7 6 5 PartiaA
+Agnieszka R 7 7 4 PartiaB
+Jacek E 7 8 80 -9 21 70 30 49 -21 PartiaB
+Malgorzata R 7 4 5
+Maria S 7 5 88 -97 82 10 1 -19 36
+Alina I 7 5 -28 -89 98 80 -16 -35 -64
+Krzysztof D 7 8 -26 33 -19 98 57 15 61 PartiaA
+Maria M 7 2 PartiaB 14
+Jacek O 7 8 -28 -36 -3 -41 -22 -50 -14 PartiaB
+Marta F 7 3 7
+Piotr H 7 7 1 PartiaB
+Justyna N 7 2 PartiaA 22
+Jan C 7 4 4
+Krzysztof C 7 8 69 -3 75 -46 65 -5 -19 PartiaB
+Dawid R 7 4 6
+Jan B 7 4 4
+Justyna J 7 1 PartiaA
+Pawel Z 7 8 -8 -63 -17 94 63 91 100 PartiaB
+Grzegorz E 7 1 PartiaB
+Alina M 7 2 PartiaB 40
+Grzegorz I 7 7 3 PartiaA
+Dawid O 7 2 PartiaB 14
+Filip A 7 5 91 -98 47 33 -45 -68 -34
+Agnieszka L 7 8 -9 30 36 6 81 -11 -56 PartiaA
+Konrad I 7 2 PartiaB 67
+Elzbieta H 7 3 6
+Jacek T 7 7 1 PartiaB
+Agnieszka O 7 1 PartiaA
+Konrad R 7 7 6 PartiaB
+Malgorzata O 7 8 9 55 -16 -98 26 39 75 PartiaA
+Justyna D 7 6 1 PartiaA
+Filip O 7 1 PartiaA
+Janusz H 7 6 7 PartiaB
+Anna U 7 1 PartiaA
+Kazimierz M 7 3 2
+Konrad O 7 8 -27 52 49 16 41 -24 89 PartiaB
+Filip R 7 2 PartiaA 14
+Michal H 7 6 7 PartiaA
+Maria A 7 4 5
+Krzysztof N 7 1 PartiaB
+Alina G 7 4 6
+Michal H 7 1 PartiaB
+Pawel Z 7 5 74 54 -40 59 85 -28 -55
+Filip D 7 1 PartiaB
+Kazimierz K 7 3 4
+Krzysztof U 7 5 57 100 0 -8 29 23 42
+Michal P 7 1 PartiaB
+Maria U 7 7 1 PartiaB
+Maria Z 7 5 -2 82 55 13 62 -46 17
+Konrad G 7 5 25 -11 88 -28 6 -87 -90
+Ewa W 7 3 4
+Konrad Z 7 4 2
+Filip U 7 7 4 PartiaB
+Zofia C 7 1 PartiaB
+Malgorzata N 7 3 5
+Alina M 7 7 7 PartiaA
+Dorota G 7 4 6
+Konrad T 7 2 PartiaB 73
+Janusz Z 7 3 7
+Malgorzata N 7 8 -6 -62 22 33 70 75 -15 PartiaB
+Krzysztof G 7 2 PartiaA 68
+Maria C 7 1 PartiaA
+Agnieszka S 7 4 5
+Agnieszka J 7 6 5 PartiaA
+Dorota A 7 6 7 PartiaA
+Filip S 7 1 PartiaA
+Pawel O 7 1 PartiaB
+Malgorzata B 7 3 3
+Kazimierz W 7 5 -28 -87 -94 -19 -42 14 -88
+Krzysztof B 7 8 35 100 -7 68 79 4 -8 PartiaA
+Jacek M 7 8 -24 -19 40 -81 -97 -22 -27 PartiaB
+Elzbieta K 7 6 4 PartiaA
+Konrad I 7 8 25 1 -86 -15 -58 -53 -37 PartiaA
+Dorota U 7 2 PartiaB 20
+Marta P 7 1 PartiaB
+Kazimierz D 7 7 5 PartiaB
+Kazimierz W 7 8 79 -3 -42 -87 37 95 -24 PartiaB
+Konrad G 7 8 23 -61 -36 -27 -59 -15 79 PartiaB
+Grzegorz Z 7 4 7
+Dawid N 7 6 4 PartiaB
+Michal N 7 3 6
+Zofia K 7 5 -77 7 96 49 45 24 89
+Ewa T 7 6 4 PartiaA
+Maria S 7 5 90 -35 10 38 -6 -79 -58
+Filip L 7 8 -34 -9 -7 -38 49 5 -43 PartiaA
+Agnieszka E 7 8 9 31 75 -93 -56 5 99 PartiaB
+Kazimierz C 7 2 PartiaB 28
+Alina C 7 6 6 PartiaA
+Grzegorz P 7 1 PartiaA
+Ewa M 7 7 6 PartiaA
+Maria F 7 7 1 PartiaB
+Ewa N 7 8 100 91 23 -75 73 77 21 PartiaB
+Ewa R 7 3 6
+Anna R 7 7 1 PartiaA
+Krzysztof C 7 3 4
+Alina K 7 7 1 PartiaB
+Konrad W 7 1 PartiaB
+Jacek Z 7 6 7 PartiaB
+Marta L 7 4 1
+Michal I 7 4 7
+Pawel O 7 2 PartiaB 9
+Malgorzata O 7 6 3 PartiaA
+Grzegorz I 7 3 2
+Agnieszka U 7 1 PartiaB
+Dorota O 7 8 57 5 80 67 -94 -46 69 PartiaA
+Krzysztof I 7 8 -76 -77 62 11 53 77 -94 PartiaB
+Elzbieta J 7 5 -53 76 -57 47 77 -17 100
+Malgorzata P 7 3 3
+Jacek W 7 7 3 PartiaB
+Alina W 7 6 1 PartiaA
+Marta F 7 3 1
+Justyna I 7 3 2
+Ewa M 7 1 PartiaA
+Justyna P 7 8 88 87 37 -73 -100 62 -66 PartiaA
+Dorota N 7 1 PartiaB
+Anna J 7 7 3 PartiaB
+Michal T 7 1 PartiaB
+Kazimierz C 7 8 -71 -64 1 12 3 92 94 PartiaA
+Malgorzata D 7 2 PartiaA 67
+Konrad C 7 5 43 -85 -91 78 68 -85 -48
+Krzysztof F 7 6 5 PartiaB
+Piotr T 7 2 PartiaA 16
+Jacek C 7 8 -89 -74 -33 -97 -67 48 -69 PartiaA
+Konrad C 7 7 3 PartiaA
+Piotr S 7 2 PartiaB 58
+Grzegorz J 7 6 3 PartiaA
+Malgorzata U 7 7 1 PartiaA
+Dorota A 7 1 PartiaB
+Anna Z 7 7 4 PartiaA
+Maria F 7 2 PartiaB 48
+Filip J 7 5 -67 4 77 -56 61 70 54
+Maria B 7 8 10 -32 -41 61 7 -25 45 PartiaB
+Joanna I 7 2 PartiaA 30
+Ewa J 7 5 -75 5 -65 42 -90 52 -32
+Maria U 7 5 -37 -28 65 -83 89 51 -25
+Dorota W 7 6 6 PartiaB
+Kazimierz L 7 7 6 PartiaB
+Pawel F 7 4 2
+Marta G 7 6 1 PartiaA
+Krzysztof M 7 1 PartiaA
+Jacek H 7 8 95 89 -13 -46 -34 48 62 PartiaB
+Dorota N 7 1 PartiaB
+Dorota F 7 4 4
+Marta B 7 5 93 -22 -67 64 -7 -51 2
+Malgorzata G 7 8 -75 -55 76 -87 51 -52 37 PartiaB
+Agnieszka M 7 3 7
+Janusz J 7 8 -53 -25 11 87 -14 10 -29 PartiaA
+Jacek T 7 2 PartiaA 13
+Jacek K 7 8 72 13 33 -57 0 14 51 PartiaA
+Jacek C 7 1 PartiaA
+Marta L 7 8 24 46 91 -25 -1 98 14 PartiaA
+Janusz U 7 8 95 -50 -95 25 -94 -93 -92 PartiaA
+Kazimierz B 7 8 17 -80 61 15 46 -51 47 PartiaA
+Maria S 7 4 6
+Konrad E 7 1 PartiaB
+Marta A 7 5 -32 5 97 22 88 56 -96
+Elzbieta U 7 7 7 PartiaA
+Janusz S 7 2 PartiaA 27
+Jacek F 7 5 75 -87 -90 -26 40 53 48
+Anna R 7 8 -92 76 -71 -95 65 6 99 PartiaA
+Janusz W 7 6 4 PartiaB
+Pawel H 7 3 3
+Grzegorz Z 7 2 PartiaA 75
+Joanna D 7 5 -45 63 35 65 18 42 40
+Krzysztof U 7 2 PartiaB 58
+Piotr O 7 2 PartiaB 79
+Michal U 7 6 1 PartiaB
+Kazimierz C 7 3 5
+Malgorzata D 7 8 -12 92 -43 -55 67 -36 22 PartiaB
+Kazimierz T 7 1 PartiaB
+Michal L 7 4 6
+Ewa C 7 6 7 PartiaB
+Krzysztof M 7 5 -43 58 -70 -69 -24 90 -22
+Filip T 7 1 PartiaA
+Janusz W 7 1 PartiaB
+Janusz B 7 4 2
+Joanna F 7 5 -84 -48 -87 30 66 -8 -10
+Alina S 7 8 -44 -96 90 -81 -26 29 12 PartiaA
+Kazimierz U 7 1 PartiaB
+Ewa A 7 2 PartiaB 40
+Dorota K 7 2 PartiaA 44
+Zofia A 7 1 PartiaB
+Pawel A 7 7 7 PartiaB
+Jan F 7 4 4
+Filip O 7 1 PartiaA
+Pawel F 7 5 -32 40 -70 -64 79 -87 60
+Grzegorz C 7 3 3
+Pawel I 7 6 7 PartiaB
+Maria U 7 7 6 PartiaA
+Kazimierz F 7 3 4
+Agnieszka E 7 6 1 PartiaB
+Zofia L 7 8 -12 20 7 -64 -57 -49 -34 PartiaA
+Piotr R 7 2 PartiaA 19
+Alina O 7 7 5 PartiaB
+Malgorzata D 7 5 -24 33 25 86 80 53 -68
+Krzysztof Z 7 8 55 -24 82 -24 50 75 -17 PartiaB
+Dorota M 7 1 PartiaB
+Zofia O 7 6 4 PartiaB
+Janusz O 7 3 4
+Joanna E 7 4 3
+Krzysztof M 7 6 5 PartiaB
+Pawel B 7 3 6
+Grzegorz K 7 3 3
+Kazimierz K 7 4 1
+Alina D 7 5 46 49 -72 19 -24 -82 -84
+Alina K 7 8 34 4 52 -85 -62 36 -3 PartiaB
+Jan G 7 1 PartiaB
+Jan O 7 1 PartiaB
+Janusz K 7 5 -75 26 -13 -49 72 -22 -29
+Anna J 7 8 49 -86 75 -52 74 -67 56 PartiaA
+Elzbieta F 7 5 94 80 29 24 8 -37 62
+Grzegorz O 7 6 5 PartiaA
+Krzysztof C 7 2 PartiaA 42
+Jan D 7 2 PartiaB 46
+Grzegorz I 7 4 3
+Elzbieta P 7 2 PartiaB 25
+Anna M 7 1 PartiaA
+Piotr N 7 6 6 PartiaB
+Ewa H 7 6 4 PartiaA
+Maria U 7 8 1 -51 -90 -10 -71 25 9 PartiaB
+Pawel P 7 7 3 PartiaB
+Malgorzata W 7 1 PartiaB
+Jan K 7 7 7 PartiaB
+Piotr T 7 2 PartiaA 5
+Anna D 7 1 PartiaB
+Dorota B 7 5 20 4 -88 21 -49 65 21
+Zofia F 7 2 PartiaA 69
+Maria A 7 3 5
+Pawel D 7 5 -45 -65 98 -49 44 -50 86
+Pawel I 7 3 6
+Janusz J 7 7 2 PartiaA
+Janusz A 7 1 PartiaA
+Justyna N 7 4 7
+Malgorzata S 7 4 4
+Anna W 7 3 3
+Jan M 7 5 55 -87 -9 82 -7 -73 -78
+Dawid G 7 1 PartiaA
+Elzbieta L 7 5 -46 -23 20 -29 -96 -36 50
+Pawel A 7 6 5 PartiaB
+Justyna T 7 5 -8 5 -14 -54 2 100 11
+Alina R 7 7 5 PartiaA
+Pawel N 7 3 1
+Malgorzata F 7 5 70 -85 -83 58 7 -49 87
+Janusz O 7 6 6 PartiaB
+Konrad N 7 2 PartiaA 11
+Agnieszka P 7 5 -66 62 -68 12 60 -90 1
+Michal B 7 1 PartiaA
+Jacek N 7 5 49 -51 18 -14 98 60 51
+Anna B 7 5 26 0 -94 18 -14 -23 -23
+Alina G 7 2 PartiaA 1
+Piotr K 7 1 PartiaB
+Malgorzata G 7 6 5 PartiaB
+Kazimierz C 7 4 1
+Pawel S 7 5 -26 83 -69 89 2 -8 -89
+Agnieszka Z 7 3 4
+Zofia F 7 3 1
+Kazimierz J 7 4 4
+Michal E 7 4 2
+Anna E 7 2 PartiaA 3
+Piotr W 7 1 PartiaB
+Michal M 7 3 3
+Piotr J 7 8 19 46 -17 -99 51 40 56 PartiaA
+Kazimierz T 7 1 PartiaA
+Filip F 7 3 4
+Michal C 7 2 PartiaA 36
+Grzegorz I 7 7 2 PartiaB
+Grzegorz B 7 1 PartiaA
+Piotr O 7 6 6 PartiaB
+Dawid N 7 3 3
+Agnieszka D 7 8 -11 -50 -1 -46 -10 -92 -61 PartiaA
+Jan P 7 2 PartiaB 16
+Grzegorz L 7 2 PartiaA 56
+Alina M 7 3 7
+Malgorzata E 7 6 2 PartiaB
+Kazimierz D 7 1 PartiaB
+Marta C 7 2 PartiaB 15
+Janusz T 7 5 46 22 79 -91 44 68 58
+Grzegorz M 7 3 2
+Konrad I 7 3 2
+Zofia F 7 3 5
+Malgorzata M 7 5 16 47 23 71 25 22 -50
+Janusz I 7 4 2
+Filip R 7 2 PartiaA 14
+Michal K 7 3 2
+Jacek C 7 7 2 PartiaA
+Maria J 7 2 PartiaA 69
+Marta H 7 3 5
+Ewa B 7 7 7 PartiaA
+Jacek M 7 2 PartiaA 9
+Ewa R 7 3 1
+Jan L 7 2 PartiaA 75
+Krzysztof P 7 7 3 PartiaB
+Marta F 7 7 5 PartiaA
+Justyna K 7 3 6
+Dorota H 7 3 2
+Joanna B 7 5 -51 -13 -50 -29 53 -22 -22
+Filip K 7 2 PartiaA 17
+Krzysztof H 7 2 PartiaB 62
+Janusz L 7 2 PartiaB 71
+Dorota A 7 2 PartiaB 52
+Maria W 7 2 PartiaA 62
+Anna S 7 8 73 78 75 86 -7 -91 -28 PartiaA
+Justyna D 7 2 PartiaA 62
+Anna U 7 5 64 -7 100 -75 40 -33 35
+Ewa R 7 8 27 -48 36 -49 -77 -29 14 PartiaA
+Joanna B 7 8 13 31 42 -94 84 -30 36 PartiaB
+Michal C 7 5 46 -40 -39 58 -66 -41 92
+Konrad U 7 1 PartiaA
+Pawel O 7 8 -78 85 81 -97 15 18 14 PartiaB
+Elzbieta R 7 3 1
+Michal U 7 7 3 PartiaA
+Elzbieta T 7 3 1
+Maria N 7 4 5
+Konrad P 7 7 6 PartiaA
+Kazimierz T 7 5 -15 25 -28 -44 83 72 -83
+Zofia F 7 4 3
+Dawid I 7 6 5 PartiaB
+Kazimierz E 7 8 88 67 34 78 -37 -49 47 PartiaA
+Konrad O 7 4 6
+Kazimierz L 7 3 3
+Michal W 7 2 PartiaA 24
+Joanna U 7 2 PartiaB 29
+Alina R 7 5 -80 67 57 35 -28 -68 -28
+Jan K 7 5 72 -60 95 -47 -30 60 -94
+Zofia U 7 3 7
+Marta T 7 5 -73 46 -45 -9 15 0 18
+Krzysztof G 7 6 6 PartiaB
+Maria P 7 8 -9 18 99 -18 -92 78 -77 PartiaA
+Grzegorz A 7 7 4 PartiaB
+Pawel A 7 5 36 46 7 73 83 -4 33
+Dorota N 7 6 1 PartiaB
+Kazimierz A 7 1 PartiaA
+Konrad M 7 6 3 PartiaA
+Zofia A 7 1 PartiaB
+Ewa J 7 8 67 -66 -56 -21 -69 100 -46 PartiaA
+Joanna K 7 4 2
+Konrad N 7 7 2 PartiaB
+Zofia A 7 4 6
+Jacek G 7 4 1
+Dorota D 7 4 1
+Dorota P 7 2 PartiaA 2
+Maria F 7 6 1 PartiaB
+Anna I 7 3 7
+Marta P 7 4 2
+Konrad D 7 2 PartiaB 58
+Piotr A 7 2 PartiaA 9
+Elzbieta M 7 7 4 PartiaA
+Maria N 7 2 PartiaB 33
+Anna P 7 3 2
+Zofia F 7 2 PartiaB 53
+Alina I 7 2 PartiaB 72
+Malgorzata A 7 6 6 PartiaA
+Marta H 7 4 2
+Jacek R 7 8 -47 -65 37 -29 37 51 28 PartiaB
+Justyna P 7 1 PartiaA
+Maria E 7 7 6 PartiaA
+Filip R 7 7 6 PartiaB
+Elzbieta I 7 7 4 PartiaB
+Alina J 7 3 2
+Dawid I 7 1 PartiaA
+Piotr A 7 1 PartiaB
+Agnieszka K 7 2 PartiaA 51
+Kazimierz J 7 3 7
+Joanna G 7 4 4
+Krzysztof S 7 2 PartiaA 21
+Joanna J 7 6 2 PartiaB
+Ewa Z 7 3 4
+Elzbieta J 7 6 4 PartiaA
+Michal U 7 1 PartiaB
+Krzysztof O 7 4 4
+Elzbieta H 7 4 4
+Marta N 7 5 -24 -53 -42 -64 -13 42 52
+Agnieszka L 7 6 2 PartiaA
+Dawid E 7 8 -96 1 -70 78 98 73 28 PartiaA
+Elzbieta G 7 4 7
+Marta T 7 2 PartiaA 6
+Malgorzata L 7 7 1 PartiaB
+Dawid F 7 2 PartiaB 75
+Filip L 7 8 50 -48 -37 -73 -7 -85 -84 PartiaA
+Ewa H 7 5 95 84 -31 -88 83 71 87
+Ewa S 7 1 PartiaA
+Michal H 7 8 30 -5 8 39 81 -45 -8 PartiaB
+Pawel F 7 6 7 PartiaB
+Justyna W 7 3 5
+Maria D 7 7 2 PartiaB
+Piotr E 7 8 100 79 -84 16 23 95 48 PartiaA
+Anna C 7 5 8 6 73 -7 -23 -49 57
+Kazimierz D 7 1 PartiaA
+Filip A 7 2 PartiaB 36
+Filip W 7 2 PartiaB 57
+Marta C 7 4 6
+Elzbieta M 7 6 3 PartiaA
+Jan N 7 5 20 56 43 67 -75 18 -1
+Malgorzata P 7 3 1
+Dorota C 7 6 2 PartiaA
+Krzysztof A 7 5 4 -45 -15 -85 93 -65 -50
+Kazimierz M 7 2 PartiaB 46
+Anna M 7 6 5 PartiaB
+Filip N 7 7 4 PartiaA
+Pawel L 7 1 PartiaB
+Joanna Z 7 7 7 PartiaB
+Elzbieta Z 7 4 4
+Michal U 7 8 7 -8 -62 55 -7 -61 -66 PartiaA
+Agnieszka T 7 3 4
+Krzysztof G 7 3 3
+Justyna Z 7 7 5 PartiaB
+Anna K 7 3 1
+Krzysztof C 7 6 2 PartiaB
+Alina Z 7 2 PartiaA 69
+Zofia S 7 7 5 PartiaB
+Kazimierz G 7 1 PartiaA
+Alina N 7 3 6
+Jan S 7 5 -86 -80 -70 -49 -58 -48 57
+Dawid B 7 8 87 -89 -9 -86 -51 -86 -67 PartiaA
+Alina H 7 3 7
+Malgorzata U 7 6 1 PartiaB
+Ewa T 7 6 2 PartiaB
+Jan C 7 7 2 PartiaA
+Justyna B 7 3 6
+Ewa P 7 8 28 69 -60 59 -45 -39 -85 PartiaA
+Ewa K 7 2 PartiaB 71
+Zofia M 7 4 2
+Konrad E 7 8 94 2 -81 -14 -57 -86 48 PartiaA
+Jacek K 7 1 PartiaB
+Malgorzata W 7 1 PartiaA
+Kazimierz K 7 4 7
+Dorota A 7 7 6 PartiaB
+Dawid S 7 4 7
+Alina A 7 8 -16 14 -62 -65 -57 13 60 PartiaB
+Agnieszka T 7 8 57 -88 55 -27 76 44 15 PartiaB
+Zofia G 7 8 -80 24 -49 70 22 38 88 PartiaA
+Kazimierz G 7 4 1
+Krzysztof J 7 4 3
+Dorota O 7 2 PartiaA 5
+Alina B 7 8 -47 15 -47 -68 19 -6 -26 PartiaA
+Joanna I 7 4 4
+Dawid B 7 5 51 -55 79 -19 -41 -28 -93
+Dorota R 7 3 1
+Filip K 7 1 PartiaA
+Alina D 7 4 5
+Zofia S 7 2 PartiaA 72
+Zofia T 7 2 PartiaB 41
+Elzbieta H 7 5 88 30 -96 -34 1 86 -56
+Dawid G 7 7 4 PartiaB
+Piotr B 7 5 86 -63 68 78 14 89 -97
+Jacek Z 7 3 6
+Dawid F 7 4 1
+Piotr G 7 3 1
+Janusz C 7 4 7
+Pawel F 7 6 4 PartiaB
+Marta Z 7 7 1 PartiaA
+Kazimierz L 7 6 3 PartiaA
+Michal N 7 5 84 -96 79 -50 94 1 11
+Jacek F 7 7 4 PartiaA
+Alina S 7 2 PartiaA 41
+Elzbieta W 7 3 1
+Malgorzata K 7 3 6
+Konrad Z 7 6 2 PartiaB
+Grzegorz J 7 2 PartiaB 2
+Krzysztof I 7 1 PartiaB
+Agnieszka D 7 5 -54 60 -12 25 70 -8 -30
+Elzbieta P 7 5 56 18 59 -5 26 59 -13
+Grzegorz O 7 7 2 PartiaA
+Krzysztof H 7 3 5
+Anna N 7 5 14 -18 -71 -52 -51 -56 72
+Elzbieta L 7 2 PartiaB 4
+Piotr J 7 1 PartiaA
+Janusz U 7 3 6
+Joanna T 7 3 7
+Michal Z 7 4 2
+Pawel F 7 4 7
+Malgorzata J 7 6 6 PartiaA
+Krzysztof S 7 8 4 -30 66 -58 -53 19 -48 PartiaA
+Malgorzata R 7 6 5 PartiaB
+Elzbieta R 7 3 2
+Grzegorz U 7 8 76 44 1 30 81 40 -24 PartiaB
+Maria B 7 5 79 30 21 17 -81 -42 -60
+Marta J 7 8 26 64 4 -81 23 20 0 PartiaA
+Pawel F 7 6 7 PartiaA
+Piotr O 7 7 7 PartiaA
+Marta I 7 2 PartiaB 50
+Kazimierz A 7 4 7
+Malgorzata H 7 4 5
+Filip L 7 2 PartiaA 70
+Zofia C 7 3 1
+Konrad U 7 1 PartiaB
+Jacek R 7 7 2 PartiaA
+Kazimierz Z 7 5 87 33 11 -87 -98 -93 28
+Elzbieta P 7 7 4 PartiaB
+Jan T 7 5 40 15 -7 -31 -52 -6 -80
+Zofia E 7 5 -5 -80 9 -53 -81 34 -88
+Konrad S 7 8 60 -13 47 100 -66 -61 49 PartiaB
+Anna B 7 8 -9 70 -51 -10 3 -80 -96 PartiaA
+Marta L 7 1 PartiaA
+Piotr C 7 2 PartiaA 30
+Michal T 7 2 PartiaB 71
+Janusz R 7 4 6
+Konrad Z 7 5 39 45 -39 60 -4 6 73
+Filip N 7 2 PartiaB 47
+Agnieszka S 7 6 5 PartiaA
+Jan H 7 3 2
+Dorota K 7 6 5 PartiaB
+Justyna L 7 7 3 PartiaB
+Dorota K 7 5 -38 -93 77 -96 -3 -100 -26
+Jan B 7 7 2 PartiaB
+Maria H 7 4 7
+Joanna I 7 1 PartiaA
+Grzegorz O 7 3 6
+Maria L 7 5 -80 -13 60 -30 73 -4 75
+Alina R 7 1 PartiaB
+Konrad P 7 7 3 PartiaB
+Zofia B 7 1 PartiaB
+Janusz N 7 3 7
+Maria B 7 8 -44 22 -18 -16 -78 -36 72 PartiaA
+Anna O 7 7 2 PartiaA
+Krzysztof L 7 8 -22 77 -26 82 17 1 97 PartiaA
+Pawel T 7 4 4
+Joanna O 7 7 1 PartiaA
+Joanna D 7 6 7 PartiaA
+Jan C 7 1 PartiaB
+Michal E 7 1 PartiaA
+Dorota B 7 8 -91 -80 -19 81 74 96 56 PartiaB
+Agnieszka N 7 4 4
+Justyna O 7 3 7
+Marta M 7 3 6
+Krzysztof C 7 5 -14 31 99 38 14 33 88
+Maria J 7 1 PartiaB
+Joanna I 7 3 6
+Justyna R 7 4 3
+Piotr T 7 1 PartiaB
+Marta F 7 5 67 68 -34 87 -80 -43 -26
+Agnieszka N 7 4 7
+Konrad N 7 6 5 PartiaB
+Malgorzata A 7 6 6 PartiaA
+Grzegorz Z 7 8 70 59 87 -19 -72 66 20 PartiaA
+Jan C 7 3 7
+Michal W 7 8 -24 -3 -18 35 88 67 -85 PartiaA
+Dawid L 7 3 7
+Maria H 7 7 5 PartiaB
+Anna A 7 6 3 PartiaA
+Grzegorz G 7 4 2
+Joanna K 7 2 PartiaB 18
+Piotr L 7 5 -60 -86 48 91 -40 -96 -4
+Joanna F 7 8 79 92 10 94 -16 -81 96 PartiaB
+Justyna J 7 7 7 PartiaB
+Justyna W 7 8 37 14 37 -80 -7 -4 -65 PartiaA
+Grzegorz R 7 1 PartiaB
+Justyna R 7 2 PartiaB 46
+Grzegorz B 7 4 1
+Dorota L 7 4 6
+Janusz O 7 8 -45 46 -73 53 38 96 -8 PartiaA
+Dorota P 7 5 -94 59 24 -44 22 -2 41
+Ewa B 7 8 22 -17 17 50 77 91 -31 PartiaA
+Ewa R 7 8 19 79 12 91 95 -77 54 PartiaB
+Filip Z 7 3 4
+Zofia S 7 1 PartiaB
+Maria P 7 7 1 PartiaB
+Dawid H 7 4 5
+Kazimierz R 7 8 -32 -68 12 81 8 -61 60 PartiaA
+Jan O 7 8 9 83 -24 79 -9 0 35 PartiaB
+Janusz H 7 7 3 PartiaA
+Jan E 7 7 3 PartiaB
+Maria F 7 8 94 18 40 -90 -28 -26 2 PartiaB
+Piotr B 7 8 -16 31 -89 -27 63 64 14 PartiaA
+Krzysztof K 7 7 7 PartiaA
+Piotr N 7 5 66 5 9 -39 -23 90 -93
+Konrad Z 7 5 38 32 -87 58 48 17 85
+Kazimierz I 7 2 PartiaB 10
+Joanna U 7 8 -18 -54 -63 -38 74 -70 -8 PartiaB
+Maria U 7 5 38 -100 58 5 3 28 45
+Janusz J 7 8 55 -51 -18 -35 -83 -32 48 PartiaB
+Michal D 7 3 4
+Malgorzata B 7 5 -69 54 39 -66 27 -82 30
+Justyna B 7 7 3 PartiaB
+Kazimierz L 7 6 2 PartiaB
+Elzbieta K 7 5 -100 54 24 -50 47 -39 -12
+Janusz R 7 7 3 PartiaA
+Ewa I 7 7 6 PartiaB
+Jacek H 7 2 PartiaB 37
+Ewa W 7 3 4
+Jan A 7 2 PartiaB 79
+Piotr E 7 6 4 PartiaA
+Maria A 7 1 PartiaB
+Marta O 7 5 24 -70 50 19 48 -33 76
+Elzbieta F 7 3 7
+Piotr H 7 1 PartiaB
+Anna P 7 1 PartiaA
+Grzegorz H 7 8 76 21 -25 -86 53 23 37 PartiaB
+Joanna P 7 8 81 -91 90 -85 88 12 -44 PartiaB
+Dawid N 7 6 7 PartiaA
+Agnieszka W 7 4 6
+Krzysztof K 7 7 7 PartiaB
+Grzegorz L 7 5 -18 -22 25 57 -98 -29 -56
+Michal L 7 2 PartiaA 26
+Grzegorz A 7 7 1 PartiaA
+Janusz T 7 4 4
+Jan J 7 3 2
+Marta H 7 5 -69 31 -42 14 -17 -20 -87
+Grzegorz T 7 2 PartiaA 62
+Ewa T 7 6 7 PartiaA
+Jacek D 7 2 PartiaA 34
+Michal A 7 6 5 PartiaB
+Pawel G 7 5 40 23 -31 83 -30 -58 80
+Malgorzata P 7 6 6 PartiaB
+Dorota N 7 3 1
+Malgorzata E 7 2 PartiaA 8
+Kazimierz L 7 3 7
+Krzysztof C 7 4 2
+Zofia O 7 4 5
+Alina B 7 1 PartiaA
+Marta P 7 8 -82 1 97 21 -24 -38 84 PartiaB
+Ewa B 7 8 40 98 -19 -54 -48 61 100 PartiaA
+Elzbieta Z 7 1 PartiaA
+Alina S 7 1 PartiaB
+Joanna L 7 8 -31 -98 51 -35 58 70 -63 PartiaB
+Justyna I 7 5 46 51 49 45 -53 90 -89
+Malgorzata T 7 5 -3 100 35 1 -73 73 -58
+Dorota D 7 4 7
+Marta W 7 5 54 -36 -98 -80 58 9 -68
+Dorota J 7 1 PartiaA
+Janusz J 7 7 6 PartiaA
+Michal J 7 7 6 PartiaB
+Ewa W 7 4 3
+Anna S 7 6 2 PartiaA
+Maria J 7 5 -30 -29 3 45 -50 -6 37
+Janusz T 7 1 PartiaA
+Marta N 7 4 5
+Anna C 7 2 PartiaB 49
+Piotr W 7 4 4
+Elzbieta P 7 5 7 -52 -27 -71 99 9 56
+Maria M 7 1 PartiaA
+Janusz K 7 2 PartiaB 69
+Kazimierz C 7 7 2 PartiaB
+Alina A 7 1 PartiaA
+Konrad L 7 3 1
+Dorota A 7 1 PartiaB
+Jan B 7 1 PartiaB
+Grzegorz O 7 2 PartiaB 44
+Zofia M 7 3 2
+Zofia P 7 3 5
+Zofia R 7 4 3
+Anna N 7 4 2
+Alina N 7 7 2 PartiaB
+Janusz B 7 2 PartiaB 21
+Kazimierz I 7 8 33 -11 -93 -38 -93 -93 66 PartiaA
+Piotr P 7 3 5
+Maria W 7 8 -7 -43 -85 -42 -8 -35 -53 PartiaA
+Agnieszka E 7 3 6
+Pawel U 7 1 PartiaB
+Elzbieta T 7 6 7 PartiaA
+Konrad E 7 1 PartiaB
+Grzegorz L 7 5 56 -40 39 -32 84 17 69
+Malgorzata L 7 4 4
+Michal P 7 1 PartiaA
+Krzysztof O 7 3 3
+Krzysztof H 7 5 85 -68 -41 -36 91 -60 5
+Dawid H 7 1 PartiaA
+Jan N 7 8 16 -21 100 -9 -65 68 -77 PartiaA
+Piotr M 7 8 98 -61 -5 58 -36 -16 -92 PartiaB
+Filip D 7 3 1
+Konrad Z 7 7 4 PartiaA
+Kazimierz B 7 4 6
+Janusz S 7 6 2 PartiaA
+Jacek Z 7 5 -97 -5 -57 -86 -82 -26 92
+Jan F 7 6 1 PartiaB
+Anna C 7 5 -62 66 85 50 -77 24 -41
+Alina F 7 2 PartiaB 4
+Kazimierz J 7 5 -3 -82 76 77 -60 51 -26
+Konrad C 7 1 PartiaB
+Konrad S 7 4 4
+Jan E 7 3 6
+Jan E 7 5 22 20 -85 51 -33 -37 -68
+Dorota P 7 1 PartiaB
+Elzbieta U 7 3 5
+Jacek T 7 5 -36 -49 -20 98 82 -46 -25
+Jan T 7 3 7
+Anna R 7 7 6 PartiaB
+Dorota U 7 3 7
+Jan G 7 5 55 -74 -52 -43 67 88 -96
+Dawid A 7 7 5 PartiaA
+Dorota L 7 4 2
+Kazimierz N 7 8 1 -61 -15 -30 -81 53 83 PartiaB
+Pawel B 7 8 3 -10 -88 -80 -93 -11 57 PartiaA
+Michal I 7 7 1 PartiaA
+Jan P 7 6 4 PartiaB
+Anna K 7 5 21 24 -62 -35 -82 14 7
+Justyna L 7 5 3 -67 54 -3 -30 45 65
+Dorota F 7 5 84 9 -66 100 37 48 57
+Dawid P 7 6 1 PartiaB
+Pawel C 7 5 -13 -85 46 -9 -78 13 -28
+Marta H 7 4 5
+Joanna J 7 6 4 PartiaA
+Joanna C 7 7 4 PartiaA
+Krzysztof F 7 8 57 69 -7 78 33 -68 -50 PartiaB
+Dawid E 7 3 3
+Justyna A 7 2 PartiaA 50
+Michal Z 7 7 7 PartiaB
+Elzbieta H 7 3 1
+Janusz W 7 4 3
+Dorota W 7 7 3 PartiaA
+Pawel M 7 3 2
+Malgorzata L 7 6 1 PartiaB
+Alina U 7 5 -41 -38 8 10 -47 29 0
+Konrad T 7 8 -8 -10 43 -89 24 -67 79 PartiaA
+Agnieszka W 7 7 4 PartiaA
+Zofia R 7 5 55 -81 64 -17 -98 34 13
+Dawid R 7 1 PartiaB
+Konrad E 7 8 -67 73 -38 14 -25 -98 71 PartiaB
+Konrad R 7 7 5 PartiaA
+Jacek J 7 5 -69 -99 71 1 89 69 -70
+Maria F 7 5 44 38 50 92 81 29 62
+Agnieszka C 7 4 7
+Zofia U 7 1 PartiaB
+Dorota M 7 3 6
+Grzegorz W 7 7 7 PartiaB
+Joanna M 7 3 5
+Jacek D 7 5 -98 -7 30 -62 92 71 -94
+Maria U 7 8 31 9 -28 -99 17 88 60 PartiaA
+Jan K 7 6 5 PartiaB
+Malgorzata H 7 5 21 -58 -53 49 45 -52 84
+Dorota T 7 5 99 -75 -6 -89 68 -69 -61
+Malgorzata A 7 2 PartiaB 40
+Ewa G 7 8 -7 67 100 58 -98 -22 4 PartiaA
+Malgorzata K 7 5 -32 99 72 -6 -61 30 7
+Jacek B 7 1 PartiaA
+Jan U 7 4 6
+Grzegorz H 7 6 3 PartiaA
+Filip A 7 3 4
+Kazimierz F 7 1 PartiaA
+Filip O 7 5 3 54 -72 -65 99 -18 -86
+Malgorzata G 7 7 2 PartiaB
+Justyna D 7 6 3 PartiaB
+Dawid H 7 1 PartiaB
+Elzbieta S 7 5 -90 89 -64 42 60 -38 -25
+Grzegorz P 8 2 PartiaA 25
+Michal C 8 6 6 PartiaB
+Dorota K 8 7 1 PartiaA
+Pawel M 8 3 7
+Grzegorz H 8 1 PartiaB
+Janusz A 8 7 7 PartiaA
+Malgorzata S 8 4 7
+Michal J 8 6 7 PartiaB
+Dorota A 8 1 PartiaA
+Malgorzata G 8 5 -32 -52 -64 -39 91 42 25
+Pawel H 8 6 7 PartiaA
+Jan I 8 8 54 -24 25 -5 19 -9 30 PartiaB
+Joanna A 8 1 PartiaB
+Alina S 8 2 PartiaA 39
+Grzegorz H 8 5 -31 4 -87 83 -52 54 -61
+Krzysztof I 8 5 100 69 -9 -86 -89 44 58
+Malgorzata J 8 3 3
+Joanna T 8 8 -79 -32 3 38 58 -19 -61 PartiaB
+Piotr A 8 8 -45 -86 24 23 14 84 -56 PartiaA
+Alina Z 8 2 PartiaA 45
+Pawel A 8 6 7 PartiaA
+Maria L 8 1 PartiaA
+Anna S 8 8 -89 21 68 -82 -24 -48 38 PartiaB
+Janusz F 8 1 PartiaB
+Jan O 8 6 5 PartiaA
+Justyna O 8 1 PartiaA
+Jacek R 8 4 7
+Alina E 8 5 -99 56 95 94 85 -81 -74
+Maria E 8 2 PartiaB 1
+Ewa U 8 8 -83 -59 83 87 -55 -7 -43 PartiaA
+Anna O 8 4 7
+Konrad W 8 3 1
+Kazimierz E 8 7 1 PartiaA
+Michal M 8 5 82 -89 7 -65 -41 89 6
+Grzegorz S 8 1 PartiaB
+Janusz Z 8 5 97 -7 -30 -47 -62 93 69
+Agnieszka L 8 7 3 PartiaA
+Justyna O 8 3 1
+Anna B 8 2 PartiaB 15
+Michal H 8 6 1 PartiaA
+Agnieszka N 8 7 7 PartiaB
+Piotr N 8 1 PartiaB
+Malgorzata I 8 7 2 PartiaA
+Jacek P 8 7 1 PartiaA
+Filip U 8 7 2 PartiaB
+Alina S 8 2 PartiaB 39
+Maria W 8 6 3 PartiaA
+Kazimierz E 8 7 1 PartiaB
+Zofia T 8 5 84 -100 94 74 -37 -77 58
+Dawid A 8 2 PartiaA 22
+Joanna Z 8 3 3
+Filip J 8 2 PartiaB 45
+Malgorzata W 8 4 3
+Pawel U 8 8 87 28 78 85 43 72 -92 PartiaB
+Malgorzata A 8 4 2
+Ewa U 8 3 2
+Anna S 8 3 1
+Janusz G 8 6 1 PartiaA
+Filip M 8 7 3 PartiaA
+Dorota I 8 2 PartiaA 36
+Kazimierz H 8 7 5 PartiaA
+Janusz Z 8 3 5
+Jacek D 8 5 8 -82 -64 -34 -61 58 48
+Marta N 8 2 PartiaA 46
+Janusz P 8 2 PartiaB 9
+Joanna R 8 6 3 PartiaB
+Dorota G 8 3 5
+Jacek O 8 7 7 PartiaA
+Filip G 8 4 4
+Zofia E 8 7 7 PartiaA
+Justyna G 8 6 3 PartiaA
+Piotr O 8 8 53 -3 -72 25 10 67 -28 PartiaB
+Malgorzata Z 8 3 2
+Konrad R 8 6 2 PartiaB
+Elzbieta E 8 3 5
+Maria D 8 7 6 PartiaA
+Dawid C 8 5 97 3 10 -55 -38 -90 -95
+Janusz R 8 7 5 PartiaB
+Zofia R 8 7 4 PartiaA
+Konrad E 8 5 94 -90 -77 19 -57 46 96
+Janusz W 8 5 -49 -46 -87 27 5 61 -35
+Kazimierz A 8 5 -34 39 32 -72 23 -49 90
+Dorota K 8 7 5 PartiaA
+Piotr L 8 3 7
+Ewa E 8 7 7 PartiaA
+Dorota I 8 8 -96 -43 -13 92 85 -80 -40 PartiaB
+Justyna T 8 4 7
+Joanna N 8 4 3
+Jacek F 8 7 6 PartiaA
+Elzbieta M 8 5 -38 -62 -55 28 9 -26 -71
+Krzysztof P 8 6 4 PartiaA
+Malgorzata J 8 6 3 PartiaA
+Jan F 8 4 2
+Piotr C 8 6 2 PartiaB
+Jacek U 8 6 6 PartiaB
+Marta H 8 4 7
+Zofia E 8 7 6 PartiaA
+Jan L 8 3 4
+Jan T 8 4 7
+Malgorzata H 8 2 PartiaB 44
+Alina K 8 7 4 PartiaB
+Agnieszka C 8 4 3
+Maria U 8 7 7 PartiaB
+Alina J 8 1 PartiaB
+Janusz C 8 6 4 PartiaB
+Justyna F 8 4 1
+Konrad S 8 1 PartiaA
+Elzbieta T 8 6 3 PartiaB
+Agnieszka U 8 8 -89 -30 -55 30 52 31 -75 PartiaB
+Krzysztof I 8 4 5
+Dawid U 8 4 5
+Piotr G 8 8 100 65 39 -18 -73 -92 -37 PartiaB
+Jan O 8 5 -34 92 82 -40 -21 40 66
+Justyna J 8 8 -45 42 -63 -60 47 -51 -42 PartiaB
+Elzbieta C 8 6 5 PartiaB
+Dorota B 8 1 PartiaB
+Pawel N 8 1 PartiaA
+Piotr B 8 5 -95 -61 36 -86 13 78 2
+Anna A 8 1 PartiaA
+Agnieszka E 8 4 3
+Filip O 8 2 PartiaA 35
+Alina A 8 2 PartiaB 21
+Marta F 8 2 PartiaB 36
+Jan I 8 7 6 PartiaB
+Krzysztof M 8 8 96 -13 50 8 -73 -27 99 PartiaB
+Anna G 8 3 4
+Alina H 8 1 PartiaA
+Elzbieta T 8 4 5
+Malgorzata B 8 7 2 PartiaB
+Konrad O 8 4 5
+Malgorzata O 8 1 PartiaB
+Maria T 8 2 PartiaB 26
+Kazimierz A 8 5 10 -64 -19 -36 -5 -45 -36
+Joanna W 8 6 7 PartiaB
+Janusz J 8 6 7 PartiaB
+Malgorzata L 8 5 -46 -93 87 3 17 -44 -50
+Ewa E 8 8 -63 -45 44 61 35 3 77 PartiaA
+Malgorzata E 8 8 43 17 97 88 -30 5 44 PartiaB
+Dorota U 8 2 PartiaB 17
+Anna A 8 4 3
+Alina E 8 2 PartiaA 9
+Alina H 8 3 1
+Michal M 8 1 PartiaA
+Janusz J 8 6 5 PartiaB
+Ewa D 8 6 3 PartiaA
+Pawel R 8 5 -48 99 -42 -54 38 -56 -83
+Konrad G 8 2 PartiaB 3
+Agnieszka W 8 6 5 PartiaB
+Jacek F 8 1 PartiaA
+Joanna U 8 4 6
+Alina U 8 7 2 PartiaA
+Krzysztof J 8 8 -33 -23 99 -19 -67 -61 -98 PartiaA
+Jan F 8 4 6
+Dawid G 8 6 5 PartiaA
+Ewa Z 8 6 1 PartiaA
+Grzegorz E 8 3 2
+Krzysztof T 8 4 2
+Filip O 8 5 39 0 -71 11 81 -80 -34
+Grzegorz W 8 7 5 PartiaB
+Ewa I 8 5 60 -75 -13 93 -46 -70 -95
+Kazimierz Z 8 8 -77 -99 -93 54 -65 27 -32 PartiaA
+Kazimierz Z 8 6 3 PartiaA
+Michal M 8 1 PartiaA
+Malgorzata S 8 6 4 PartiaA
+Agnieszka P 8 7 1 PartiaB
+Malgorzata S 8 5 -92 -28 -28 57 -46 -2 23
+Pawel M 8 7 4 PartiaA
+Elzbieta T 8 4 3
+Grzegorz E 8 8 -65 1 -20 44 -49 -33 -86 PartiaB
+Michal K 8 3 6
+Justyna G 8 6 2 PartiaA
+Marta K 8 6 2 PartiaA
+Dawid K 8 7 6 PartiaA
+Grzegorz U 8 8 -98 57 33 20 -50 -94 93 PartiaB
+Malgorzata E 8 7 7 PartiaB
+Marta A 8 3 1
+Zofia S 8 7 7 PartiaB
+Justyna T 8 2 PartiaB 23
+Malgorzata O 8 4 2
+Anna N 8 4 4
+Konrad L 8 1 PartiaB
+Joanna B 8 3 6
+Justyna F 8 3 6
+Filip M 8 6 1 PartiaA
+Joanna H 8 4 6
+Piotr A 8 6 5 PartiaA
+Elzbieta A 8 1 PartiaA
+Janusz U 8 6 6 PartiaB
+Krzysztof W 8 4 5
+Dawid C 8 4 7
+Krzysztof M 8 8 44 76 -68 79 7 8 9 PartiaB
+Elzbieta S 8 1 PartiaA
+Alina S 8 6 4 PartiaA
+Malgorzata C 8 3 1
+Jan L 8 4 4
+Elzbieta A 8 3 3
+Agnieszka S 8 3 5
+Pawel O 8 1 PartiaB
+Jacek K 8 7 7 PartiaA
+Michal P 8 5 -74 97 84 63 -76 84 -37
+Agnieszka F 8 8 82 -33 63 -41 28 -91 -73 PartiaA
+Ewa Z 8 7 2 PartiaA
+Marta Z 8 1 PartiaA
+Elzbieta L 8 7 7 PartiaA
+Elzbieta C 8 4 5
+Alina Z 8 3 5
+Pawel E 8 8 -85 27 -39 74 -35 100 85 PartiaA
+Justyna W 8 2 PartiaA 8
+Ewa J 8 7 3 PartiaB
+Filip W 8 4 6
+Kazimierz R 8 5 -46 -16 -40 -40 -46 93 -93
+Alina Z 8 4 3
+Krzysztof G 8 6 4 PartiaA
+Marta O 8 7 2 PartiaA
+Maria L 8 1 PartiaA
+Jan D 8 3 4
+Pawel D 8 1 PartiaB
+Piotr F 8 8 -100 76 -6 87 -5 32 -25 PartiaB
+Elzbieta N 8 1 PartiaB
+Anna I 8 6 4 PartiaA
+Konrad N 8 5 61 -92 79 21 -23 -84 46
+Janusz R 8 8 98 38 -66 36 -31 -43 19 PartiaB
+Michal A 8 4 3
+Dawid S 8 1 PartiaA
+Kazimierz Z 8 2 PartiaB 15
+Zofia L 8 3 3
+Ewa K 8 5 -55 55 -49 69 68 -73 -13
+Maria Z 8 3 4
+Janusz D 8 6 4 PartiaB
+Dorota J 8 1 PartiaB
+Pawel S 8 4 4
+Konrad N 8 7 6 PartiaA
+Justyna S 8 1 PartiaB
+Grzegorz B 8 5 -59 -21 -27 -30 21 -41 -44
+Ewa O 8 6 4 PartiaB
+Malgorzata T 8 5 -41 94 77 -39 -8 -47 44
+Ewa I 8 4 5
+Malgorzata F 8 7 1 PartiaA
+Elzbieta E 8 8 41 -46 -17 4 16 41 -93 PartiaA
+Justyna B 8 6 2 PartiaA
+Pawel M 8 2 PartiaA 14
+Dorota T 8 6 1 PartiaB
+Krzysztof G 8 6 1 PartiaB
+Jan K 8 3 1
+Jan M 8 7 1 PartiaA
+Ewa I 8 6 4 PartiaB
+Grzegorz U 8 1 PartiaA
+Konrad K 8 6 6 PartiaB
+Joanna N 8 5 68 -70 -50 29 -27 -8 -4
+Alina K 8 3 6
+Michal S 8 5 -58 28 94 -20 -56 -79 33
+Jan C 8 8 -16 -49 -34 4 -11 -16 -53 PartiaA
+Justyna C 8 6 4 PartiaB
+Marta Z 8 4 7
+Alina M 8 1 PartiaA
+Zofia F 8 3 2
+Janusz G 8 8 48 33 30 -49 16 -78 -3 PartiaA
+Pawel W 8 4 5
+Kazimierz K 8 3 5
+Grzegorz K 8 6 6 PartiaB
+Marta C 8 3 2
+Ewa O 8 5 -39 59 5 -77 -70 90 -12
+Dawid J 8 3 1
+Maria S 8 5 -28 15 -97 52 31 91 5
+Grzegorz L 8 3 1
+Janusz D 8 6 7 PartiaB
+Justyna D 8 4 6
+Dorota T 8 4 3
+Dawid C 8 3 6
+Grzegorz S 8 4 4
+Krzysztof E 8 6 7 PartiaA
+Filip D 8 2 PartiaA 46
+Maria B 8 6 2 PartiaA
+Jan M 8 7 7 PartiaA
+Janusz A 8 8 -71 49 -93 -25 54 90 96 PartiaB
+Anna N 8 4 6
+Alina O 8 4 1
+Janusz A 8 3 2
+Agnieszka N 8 6 3 PartiaA
+Zofia I 8 7 2 PartiaB
+Joanna J 8 4 6
+Elzbieta D 8 6 1 PartiaA
+Elzbieta F 8 8 -80 -26 -54 -27 12 -91 24 PartiaB
+Joanna J 8 1 PartiaB
+Alina G 8 8 -62 -7 29 -76 -80 -70 -87 PartiaA
+Grzegorz G 8 8 -43 -32 24 -55 -79 34 99 PartiaB
+Ewa E 8 3 4
+Konrad K 8 5 -94 -57 -87 -15 99 20 73
+Anna Z 8 7 5 PartiaA
+Jan B 8 2 PartiaA 41
+Piotr B 8 8 -19 -1 -34 33 80 94 -36 PartiaA
+Konrad D 8 8 -13 69 -41 -38 91 58 77 PartiaB
+Dawid O 8 8 -98 20 -32 0 23 52 41 PartiaA
+Dorota P 8 8 53 -62 -37 -23 -8 40 83 PartiaB
+Dorota E 8 2 PartiaB 6
+Alina H 8 2 PartiaA 2
+Justyna M 8 2 PartiaB 48
+Justyna W 8 1 PartiaB
+Michal I 8 4 5
+Filip M 8 2 PartiaA 42
+Marta K 8 4 5
+Anna O 8 8 94 -30 -36 -61 65 -87 42 PartiaA
+Jacek L 8 8 82 41 -95 79 -95 50 -64 PartiaA
+Krzysztof D 8 6 6 PartiaB
+Jan P 8 4 3
+Pawel Z 8 8 52 -85 72 28 -69 42 82 PartiaA
+Pawel U 8 7 5 PartiaB
+Jan D 8 3 1
+Malgorzata G 8 8 -42 91 38 58 -20 91 -48 PartiaB
+Filip W 8 5 -25 87 14 -79 -46 3 53
+Maria P 8 5 14 -64 80 -83 -56 -8 70
+Krzysztof A 8 2 PartiaB 12
+Joanna C 8 7 3 PartiaB
+Pawel T 8 1 PartiaA
+Krzysztof G 8 7 7 PartiaB
+Jan K 8 4 3
+Michal T 8 7 3 PartiaA
+Kazimierz Z 8 4 2
+Jacek A 8 5 66 59 47 -43 32 -71 0
+Justyna M 8 5 39 -77 88 20 87 12 -63
+Malgorzata A 8 4 3
+Ewa F 8 8 87 -9 -64 78 -50 -94 -73 PartiaA
+Krzysztof E 8 7 4 PartiaA
+Alina A 8 5 17 14 19 -18 63 -88 64
+Agnieszka H 8 7 5 PartiaA
+Anna Z 8 6 6 PartiaB
+Michal D 8 7 1 PartiaB
+Ewa J 8 7 2 PartiaA
+Maria T 8 5 -72 57 -28 71 16 54 -79
+Filip T 8 7 2 PartiaB
+Alina L 8 8 9 42 -95 9 -63 4 16 PartiaB
+Jacek P 8 6 7 PartiaB
+Janusz R 8 7 4 PartiaA
+Michal M 8 2 PartiaA 38
+Maria N 8 7 4 PartiaB
+Agnieszka I 8 7 3 PartiaB
+Elzbieta D 8 4 1
+Zofia U 8 8 -58 34 -36 -18 -69 85 15 PartiaB
+Dorota G 8 1 PartiaB
+Maria I 8 2 PartiaB 37
+Joanna L 8 1 PartiaA
+Justyna Z 8 1 PartiaB
+Anna E 8 7 1 PartiaA
+Pawel C 8 3 7
+Joanna I 8 2 PartiaB 26
+Marta B 8 1 PartiaB
+Jan N 8 6 2 PartiaB
+Krzysztof S 8 7 3 PartiaA
+Dawid N 8 6 1 PartiaB
+Malgorzata Z 8 6 7 PartiaB
+Elzbieta N 8 6 2 PartiaB
+Alina M 8 2 PartiaA 24
+Ewa A 8 2 PartiaA 43
+Konrad S 8 3 6
+Filip H 8 4 5
+Konrad H 8 5 -70 36 40 99 8 0 94
+Elzbieta K 8 5 9 -34 -100 -81 33 4 -86
+Jacek P 8 7 1 PartiaA
+Marta E 8 8 -20 6 -72 -58 30 -17 -66 PartiaA
+Jan D 8 2 PartiaB 27
+Justyna S 8 4 1
+Agnieszka A 8 1 PartiaB
+Justyna S 8 5 -75 -77 63 -87 73 71 18
+Marta U 8 4 7
+Zofia E 8 8 61 23 -82 9 -30 -86 -100 PartiaB
+Jan I 8 3 5
+Alina E 8 3 7
+Marta E 8 1 PartiaB
+Zofia G 8 1 PartiaB
+Konrad P 8 8 -97 12 6 -62 -28 -57 50 PartiaB
+Ewa U 8 1 PartiaA
+Marta W 8 3 4
+Zofia E 8 1 PartiaA
+Justyna F 8 1 PartiaB
+Kazimierz U 8 3 2
+Filip F 8 1 PartiaB
+Agnieszka H 8 3 3
+Michal T 8 5 -94 -33 88 -5 28 -90 44
+Janusz S 8 1 PartiaB
+Jacek B 8 2 PartiaA 35
+Grzegorz I 8 7 6 PartiaB
+Dorota I 8 3 5
+Joanna B 8 7 3 PartiaA
+Piotr J 8 7 6 PartiaA
+Anna L 8 5 94 54 12 89 37 94 -79
+Dawid F 8 2 PartiaA 2
+Michal L 8 2 PartiaB 12
+Dorota A 8 5 -14 92 -44 88 -56 -71 26
+Krzysztof P 8 2 PartiaA 40
+Janusz L 8 7 3 PartiaB
+Anna T 8 5 -90 -60 52 48 63 -46 61
+Maria D 8 7 1 PartiaB
+Piotr D 8 7 5 PartiaA
+Zofia M 8 5 23 -20 -25 14 -56 -51 95
+Grzegorz W 8 7 2 PartiaA
+Michal I 8 5 38 97 -89 -4 56 83 85
+Konrad M 8 6 2 PartiaA
+Konrad H 8 4 3
+Alina E 8 1 PartiaB
+Dawid G 8 6 5 PartiaB
+Justyna N 8 8 25 -50 55 52 28 39 66 PartiaB
+Konrad I 8 6 1 PartiaB
+Dawid E 8 2 PartiaA 8
+Maria A 8 1 PartiaA
+Janusz A 8 3 4
+Justyna W 8 5 -53 -44 96 -6 -36 -27 100
+Alina M 8 8 10 35 93 43 74 -52 -54 PartiaB
+Joanna O 8 2 PartiaA 9
+Pawel S 8 1 PartiaA
+Elzbieta Z 8 5 87 49 -69 -20 -24 73 32
+Malgorzata B 8 6 2 PartiaA
+Agnieszka J 8 2 PartiaB 44
+Dorota K 8 1 PartiaB
+Dawid K 8 7 4 PartiaB
+Marta U 8 5 53 11 66 -2 41 83 -71
+Ewa R 8 6 1 PartiaA
+Marta T 8 7 7 PartiaB
+Grzegorz G 8 8 -80 -26 67 80 -24 65 59 PartiaB
+Maria L 8 7 7 PartiaB
+Konrad N 8 6 2 PartiaB
+Elzbieta N 8 4 4
+Malgorzata K 8 8 73 -36 -82 -9 32 -34 33 PartiaB
+Janusz R 8 1 PartiaA
+Dorota U 8 3 1
+Maria U 8 5 81 -71 34 -11 54 -39 69
+Piotr M 8 1 PartiaA
+Maria K 8 4 5
+Filip D 8 3 7
+Joanna B 8 5 55 -92 -31 73 48 18 -10
+Ewa Z 8 8 -67 56 37 31 99 92 86 PartiaB
+Zofia U 8 6 1 PartiaA
+Zofia Z 8 3 4
+Elzbieta B 8 4 5
+Grzegorz K 8 4 5
+Maria I 8 5 24 -47 37 -25 16 -52 73
+Justyna U 8 6 6 PartiaB
+Jacek N 8 2 PartiaA 26
+Zofia L 8 1 PartiaB
+Malgorzata S 8 4 3
+Grzegorz H 8 3 7
+Michal M 8 1 PartiaB
+Krzysztof S 8 4 1
+Jacek T 8 6 7 PartiaB
+Ewa Z 8 6 1 PartiaB
+Grzegorz S 8 7 6 PartiaB
+Grzegorz K 8 7 1 PartiaA
+Konrad M 8 1 PartiaB
+Dorota A 8 8 68 3 -48 35 71 14 76 PartiaB
+Dawid K 8 6 4 PartiaA
+Zofia F 8 4 3
+Justyna T 8 6 3 PartiaB
+Anna S 8 4 6
+Ewa L 8 4 4
+Elzbieta J 8 3 5
+Joanna D 8 3 6
+Janusz O 8 7 6 PartiaB
+Ewa U 8 5 58 10 25 -86 -93 -39 94
+Marta H 8 5 -56 -51 -7 -22 -18 81 93
+Janusz U 8 3 4
+Maria H 8 6 7 PartiaB
+Jacek R 8 4 6
+Dorota F 8 3 2
+Joanna D 8 8 89 63 94 31 -50 -1 82 PartiaB
+Zofia A 8 5 -70 -30 36 12 -61 14 47
+Ewa E 8 6 5 PartiaB
+Justyna E 8 7 2 PartiaA
+Anna R 8 1 PartiaB
+Piotr P 8 1 PartiaA
+Jacek S 8 1 PartiaA
+Kazimierz C 8 5 58 100 -59 97 90 -4 23
+Anna E 8 2 PartiaB 36
+Pawel D 8 8 3 -70 81 53 -16 -98 43 PartiaA
+Dorota U 8 2 PartiaA 49
+Ewa G 8 7 5 PartiaB
+Janusz U 8 3 3
+Konrad S 8 8 -28 61 -72 -94 -90 -3 34 PartiaB
+Krzysztof F 8 3 7
+Dorota Z 8 1 PartiaA
+Filip L 8 5 5 -47 -91 -29 68 -20 77
+Elzbieta P 8 3 4
+Pawel L 8 4 3
+Michal I 8 5 -32 30 -50 2 95 32 -92
+Agnieszka D 8 4 4
+Janusz T 8 7 7 PartiaA
+Jacek S 8 5 -71 -12 27 -20 16 48 96
+Jacek S 8 4 6
+Konrad G 8 4 3
+Janusz Z 8 8 76 69 -74 -67 -31 -89 -63 PartiaB
+Malgorzata C 8 2 PartiaB 22
+Maria P 8 2 PartiaB 36
+Anna F 9 5 35 80 -7 18 -89 -75 -69
+Jacek M 9 7 3 PartiaB
+Maria T 9 8 45 47 94 77 59 47 -96 PartiaB
+Janusz J 9 5 -80 -80 73 -43 -30 3 78
+Agnieszka C 9 7 5 PartiaB
+Kazimierz R 9 5 -85 87 -70 -98 5 -74 -3
+Jan D 9 1 PartiaB
+Piotr L 9 7 1 PartiaA
+Kazimierz F 9 3 3
+Anna L 9 2 PartiaB 1
+Dawid S 9 6 3 PartiaB
+Krzysztof N 9 1 PartiaA
+Anna C 9 5 53 -5 -87 81 -92 48 75
+Filip T 9 6 2 PartiaB
+Janusz G 9 7 6 PartiaB
+Konrad H 9 8 -70 -42 -68 -87 68 84 -35 PartiaA
+Michal C 9 8 -13 -32 52 72 73 -18 38 PartiaA
+Marta J 9 2 PartiaB 8
+Dawid J 9 1 PartiaB
+Krzysztof W 9 6 4 PartiaA
+Anna L 9 6 2 PartiaA
+Alina E 9 1 PartiaB
+Jan R 9 8 53 -15 -53 -97 45 4 -9 PartiaA
+Marta L 9 4 4
+Michal A 9 2 PartiaA 19
+Anna E 9 7 5 PartiaB
+Michal N 9 5 13 42 47 -78 -89 -83 2
+Marta A 9 1 PartiaB
+Jan T 9 3 6
+Piotr J 9 4 1
+Maria S 9 8 29 -65 9 89 26 9 28 PartiaB
+Dawid A 9 4 7
+Krzysztof N 9 1 PartiaA
+Pawel J 9 5 81 -16 27 29 -62 -65 84
+Malgorzata G 9 2 PartiaB 19
+Agnieszka D 9 8 45 68 -35 49 53 95 72 PartiaB
+Pawel H 9 3 5
+Alina U 9 1 PartiaB
+Alina F 9 8 49 4 7 -54 -27 11 16 PartiaB
+Dorota K 9 6 2 PartiaB
+Malgorzata G 9 3 5
+Alina U 9 5 77 47 48 65 -44 60 100
+Jacek I 9 1 PartiaB
+Malgorzata M 9 7 1 PartiaA
+Pawel D 9 8 87 -53 24 39 -52 22 -53 PartiaB
+Krzysztof K 9 8 -8 -90 -9 14 -52 84 36 PartiaB
+Piotr W 9 2 PartiaA 5
+Marta U 9 5 76 -42 34 -73 10 -83 37
+Malgorzata A 9 5 -72 -58 -30 81 75 -6 -50
+Agnieszka B 9 1 PartiaA
+Michal N 9 8 -64 1 -15 82 -57 -58 -96 PartiaB
+Zofia T 9 4 7
+Janusz C 9 7 4 PartiaA
+Elzbieta N 9 4 2
+Elzbieta P 9 1 PartiaA
+Justyna O 9 2 PartiaB 18
+Elzbieta Z 9 5 -66 -14 -23 81 -6 -2 -38
+Michal O 9 3 5
+Piotr H 9 6 4 PartiaB
+Maria P 9 8 -96 -37 -27 90 -45 -4 -78 PartiaB
+Anna H 9 6 3 PartiaB
+Dorota P 9 1 PartiaA
+Konrad O 9 8 -10 -38 78 -28 -75 -82 60 PartiaA
+Zofia I 9 8 -43 7 18 28 59 -96 -16 PartiaB
+Maria C 9 7 2 PartiaB
+Zofia F 9 5 -25 -48 50 74 89 -16 -32
+Joanna C 9 1 PartiaA
+Kazimierz U 9 5 -63 70 -94 -32 94 2 -5
+Elzbieta O 9 4 3
+Zofia E 9 4 2
+Zofia G 9 4 7
+Zofia G 9 2 PartiaA 11
+Joanna O 9 8 -62 -99 -22 -79 -88 69 -86 PartiaB
+Anna C 9 5 -64 41 -49 73 81 80 -39
+Michal O 9 1 PartiaB
+Pawel Z 9 8 47 42 4 10 -43 -39 -64 PartiaB
+Jacek J 9 3 4
+Agnieszka N 9 7 3 PartiaA
+Ewa O 9 5 43 -16 -47 -99 -84 -12 -19
+Elzbieta P 9 2 PartiaB 19
+Pawel R 9 8 -14 14 21 -7 -71 78 91 PartiaA
+Anna C 9 5 -72 45 2 69 -82 -24 31
+Justyna L 9 5 44 -86 -50 21 -14 -43 76
+Agnieszka S 9 2 PartiaA 7
+Janusz L 9 6 6 PartiaA
+Agnieszka H 9 4 7
+Agnieszka M 9 8 -2 9 -19 96 37 85 10 PartiaA
+Dawid T 9 3 4
+Jacek J 9 3 4
+Alina J 9 2 PartiaA 17
+Kazimierz L 9 7 1 PartiaA
+Pawel W 9 3 7
+Elzbieta K 9 1 PartiaB
+Dorota W 9 4 6
+Janusz Z 9 8 72 -98 -10 -95 30 75 -9 PartiaA
+Joanna F 9 1 PartiaB
+Maria I 9 7 3 PartiaB
+Dorota A 9 7 5 PartiaB
+Dorota H 9 7 6 PartiaA
+Justyna N 9 7 6 PartiaB
+Anna F 9 2 PartiaB 7
+Marta J 9 6 1 PartiaA
+Krzysztof C 9 6 2 PartiaB
+Krzysztof C 9 3 5
+Konrad P 9 4 2
+Jan D 9 7 5 PartiaA
+Filip L 9 8 11 -78 -96 -90 -11 5 84 PartiaB
+Anna H 9 5 27 -36 -72 -43 61 -16 -44
+Agnieszka R 9 7 5 PartiaB
+Janusz K 9 1 PartiaB
+Justyna U 9 1 PartiaA
+Maria C 9 8 -41 -23 -58 64 9 -76 -82 PartiaA
+Elzbieta H 9 7 5 PartiaB
+Justyna I 9 4 5
+Ewa K 9 3 7
+Maria M 9 1 PartiaA
+Dawid S 9 8 -36 16 88 -45 90 -23 2 PartiaB
+Maria S 9 8 -68 -36 -10 -47 73 -65 2 PartiaA
+Dawid P 9 5 -90 59 -58 27 81 -97 40
+Elzbieta J 9 4 1
+Anna A 9 2 PartiaB 5
+Dawid G 9 4 5
+Alina B 9 4 3
+Piotr H 9 2 PartiaA 15
+Krzysztof J 9 5 82 -71 -20 16 -27 73 6
+Grzegorz G 9 2 PartiaA 18
+Malgorzata B 9 8 -4 79 51 -86 2 -19 -67 PartiaB
+Dorota U 9 5 -24 64 39 -61 -68 -81 -44
+Ewa E 9 1 PartiaB
+Zofia K 9 4 5
+Ewa I 9 2 PartiaA 3
+Janusz Z 9 1 PartiaA
+Jacek J 9 4 1
+Piotr J 9 1 PartiaB
+Justyna L 9 2 PartiaA 11
+Filip K 9 1 PartiaA
+Pawel R 9 2 PartiaA 5
+Michal N 9 2 PartiaA 18
+Alina P 9 5 47 20 13 38 -85 -20 21
+Marta J 9 2 PartiaA 8
+Dorota U 9 4 1
+Dawid G 9 4 4
+Anna B 9 7 7 PartiaB
+Filip N 9 5 -4 -27 55 18 -95 -94 -33
+Joanna L 9 8 49 -83 13 -60 -17 98 -73 PartiaA
+Alina F 9 6 7 PartiaB
+Pawel D 9 8 77 31 58 23 23 -74 -28 PartiaB
+Justyna D 9 4 2
+Agnieszka N 9 1 PartiaA
+Konrad J 9 6 7 PartiaA
+Dawid S 9 2 PartiaB 5
+Pawel E 9 6 3 PartiaA
+Dawid E 9 2 PartiaA 8
+Justyna J 9 3 1
+Janusz A 9 3 4
+Ewa H 9 2 PartiaA 9
+Filip L 9 6 3 PartiaA
+Marta R 9 3 6
+Michal R 9 5 68 22 21 -15 100 73 -59
+Michal G 9 8 57 45 -61 35 49 -84 66 PartiaB
+Malgorzata D 9 6 6 PartiaB
+Pawel C 9 2 PartiaB 17
+Zofia U 9 6 4 PartiaB
+Jacek R 9 5 -54 -78 75 75 100 -32 18
+Grzegorz C 9 7 2 PartiaB
+Elzbieta K 9 7 4 PartiaB
+Agnieszka K 9 3 6
+Konrad L 9 7 2 PartiaA
+Janusz G 9 3 5
+Marta G 9 1 PartiaA
+Grzegorz N 9 3 2
+Anna J 9 6 3 PartiaB
+Filip C 9 5 84 90 57 37 22 -12 52
+Kazimierz P 9 6 1 PartiaA
+Anna N 9 8 11 -56 -83 21 96 -44 6 PartiaB
+Joanna R 9 3 4
+Zofia A 9 6 6 PartiaB
+Janusz O 9 7 1 PartiaA
+Jacek U 9 6 5 PartiaB
+Dorota B 9 6 6 PartiaA
+Jacek P 9 3 6
+Malgorzata H 9 3 3
+Marta B 9 1 PartiaA
+Krzysztof U 9 3 2
+Malgorzata D 9 1 PartiaA
+Marta J 9 8 -96 20 100 47 -100 -33 -41 PartiaB
+Maria F 9 4 4
+Piotr A 9 2 PartiaA 15
+Dorota F 9 7 7 PartiaA
+Dorota U 9 8 77 -40 6 25 -62 -35 -7 PartiaA
+Anna J 9 4 1
+Justyna H 9 5 -69 -86 4 -93 40 47 -81
+Elzbieta E 9 6 7 PartiaB
+Marta T 9 3 4
+Agnieszka R 9 3 3
+Marta P 9 6 2 PartiaB
+Alina L 9 6 5 PartiaA
+Janusz C 9 4 6
+Anna D 9 1 PartiaA
+Elzbieta A 9 8 79 -90 52 -82 93 -29 70 PartiaB
+Jacek P 10 4 3
+Konrad I 10 1 PartiaB
+Piotr E 10 3 2
+Michal C 10 6 4 PartiaB
+Janusz Z 10 6 4 PartiaA
+Justyna T 10 5 -39 0 15 -10 -8 91 51
+Filip S 10 3 5
+Agnieszka E 10 1 PartiaB
+Anna T 10 4 6
+Grzegorz I 10 4 7
+Dawid F 10 8 5 -30 -76 -11 13 -27 -56 PartiaA
+Grzegorz C 10 1 PartiaB
+Krzysztof T 10 2 PartiaA 43
+Zofia Z 10 5 -86 -80 -48 -20 95 -41 -70
+Justyna O 10 1 PartiaA
+Jacek O 10 4 2
+Ewa K 10 3 1
+Maria W 10 3 2
+Kazimierz O 10 2 PartiaB 21
+Alina W 10 4 6
+Krzysztof L 10 2 PartiaA 54
+Krzysztof D 10 4 4
+Alina S 10 1 PartiaB
+Jacek W 10 5 -21 77 89 -78 -15 -89 -86
+Krzysztof Z 10 7 4 PartiaB
+Jan G 10 1 PartiaB
+Jan F 10 7 6 PartiaB
+Michal F 10 3 6
+Dawid E 10 4 7
+Maria D 10 1 PartiaB
+Anna H 10 2 PartiaA 38
+Filip A 10 5 -41 -37 -100 -29 -49 -85 38
+Konrad C 10 7 2 PartiaB
+Anna G 10 8 65 90 -22 -17 -91 81 -100 PartiaB
+Anna I 10 4 4
+Filip F 10 8 31 -27 -75 -31 -76 60 -97 PartiaB
+Dorota T 10 6 5 PartiaA
+Marta H 10 8 85 40 -84 30 -99 -31 70 PartiaA
+Elzbieta N 10 7 6 PartiaA
+Alina Z 10 1 PartiaB
+Agnieszka R 10 6 3 PartiaA
+Marta R 10 1 PartiaA
+Maria G 10 2 PartiaB 19
+Justyna U 10 2 PartiaA 7
+Agnieszka P 10 8 24 64 -63 23 -43 47 -85 PartiaB
+Michal C 10 6 7 PartiaA
+Pawel W 10 1 PartiaA
+Marta Z 10 6 6 PartiaB
+Konrad K 10 1 PartiaA
+Dorota S 10 8 43 -69 -66 -27 -74 -30 73 PartiaB
+Marta A 10 8 60 -90 -20 10 71 -46 3 PartiaA
+Agnieszka J 10 4 5
+Alina Z 10 2 PartiaB 28
+Elzbieta K 10 5 -94 -53 13 -30 33 83 -72
+Filip L 10 4 7
+Michal R 10 1 PartiaA
+Grzegorz L 10 8 4 -59 78 -25 86 -86 63 PartiaA
+Marta H 10 8 78 48 -56 74 -51 -68 -23 PartiaB
+Alina W 10 7 7 PartiaA
+Janusz L 10 4 6
+Zofia T 10 8 12 82 47 78 62 -32 34 PartiaA
+Kazimierz I 10 2 PartiaA 55
+Maria L 10 1 PartiaB
+Dawid O 10 7 7 PartiaB
+Grzegorz S 10 4 3
+Kazimierz Z 10 6 5 PartiaB
+Marta G 10 1 PartiaA
+Malgorzata M 10 3 2
+Anna S 10 4 5
+Kazimierz S 10 1 PartiaB
+Jan A 10 7 2 PartiaB
+Jan K 10 7 1 PartiaB
+Elzbieta H 10 3 3
+Anna I 10 8 75 -79 -79 88 54 -83 -90 PartiaB
+Michal T 10 5 -6 -22 -4 -94 -82 38 -49
+Michal J 10 5 -97 100 10 34 1 57 11
+Zofia N 10 8 93 30 -45 -68 -55 73 -93 PartiaA
+Jan J 10 7 3 PartiaA
+Jan C 10 7 6 PartiaA
+Maria F 10 5 -16 -85 90 66 1 -39 21
+Kazimierz D 10 2 PartiaA 24
+Malgorzata P 10 8 13 -81 48 -22 -48 -8 26 PartiaB
+Agnieszka I 10 7 2 PartiaA
+Anna U 10 5 76 11 -6 51 4 10 36
+Joanna T 10 3 2
+Elzbieta I 10 3 5
+Malgorzata U 10 3 1
+Agnieszka W 10 4 3
+Joanna D 10 1 PartiaB
+Anna E 10 1 PartiaB
+Ewa D 10 7 6 PartiaA
+Maria D 10 5 87 -24 -42 96 -20 41 -84
+Jacek K 10 7 4 PartiaA
+Malgorzata A 10 3 5
+Agnieszka R 10 6 6 PartiaB
+Joanna E 10 5 36 -25 -60 49 -90 51 21
+Filip G 10 4 2
+Zofia D 10 6 6 PartiaA
+Agnieszka P 10 6 2 PartiaA
+Elzbieta F 10 8 88 56 6 77 64 -77 -16 PartiaA
+Grzegorz R 10 1 PartiaA
+Kazimierz D 10 1 PartiaB
+Marta U 10 8 -35 -15 84 -36 -8 -80 -68 PartiaA
+Dorota B 10 7 4 PartiaA
+Jacek O 10 2 PartiaB 12
+Ewa W 10 8 56 -34 -61 -59 -38 -12 76 PartiaA
+Zofia B 10 4 4
+Piotr W 10 2 PartiaA 44
+Dorota M 10 3 7
+Pawel O 10 4 6
+Ewa U 10 4 3
+Michal N 10 4 2
+Jan B 10 2 PartiaB 13
+Janusz P 10 5 40 89 82 86 51 -40 79
+Jacek O 10 4 3
+Piotr B 10 8 -74 96 -9 -55 80 36 14 PartiaB
+Elzbieta W 10 2 PartiaA 46
+Elzbieta M 10 1 PartiaA
+Maria Z 10 4 3
+Justyna B 10 3 5
+Dawid N 10 1 PartiaA
+Grzegorz O 10 3 1
+Kazimierz R 10 6 6 PartiaA
+Jacek P 10 8 -68 -82 -37 -38 -18 -11 51 PartiaA
+Grzegorz B 10 4 7
+Konrad R 10 8 -10 65 -13 -86 -17 43 -3 PartiaB
+Joanna S 10 7 4 PartiaA
+Dorota L 10 3 5
+Ewa D 10 4 2
+Jan S 10 4 1
+Marta U 10 8 2 -25 -7 -41 87 -74 -90 PartiaA
+Malgorzata J 10 7 7 PartiaA
+Justyna A 10 4 2
+Jan N 10 2 PartiaA 24
+Marta C 10 6 2 PartiaA
+Krzysztof E 10 8 72 -94 21 54 61 31 51 PartiaA
+Zofia Z 10 6 5 PartiaA
+Joanna M 10 8 62 6 -65 90 -78 -77 -78 PartiaB
+Maria M 10 3 5
+Elzbieta A 10 8 84 8 -7 43 -39 -96 -3 PartiaB
+Malgorzata T 10 1 PartiaA
+Elzbieta E 10 4 5
+Michal F 10 2 PartiaB 31
+Piotr D 10 1 PartiaB
+Agnieszka H 10 3 1
+Kazimierz N 10 8 -92 -79 -61 18 -100 -33 -49 PartiaB
+Konrad Z 10 7 3 PartiaA
+Grzegorz F 10 4 4
+Dawid G 10 1 PartiaB
+Agnieszka T 10 5 69 84 -1 -40 -73 66 81
+Anna Z 10 8 13 -89 43 90 1 17 -87 PartiaB
+Dawid Z 10 6 3 PartiaA
+Elzbieta A 10 5 27 -74 26 -87 95 3 24
+Jan S 10 1 PartiaB
+Pawel T 10 6 5 PartiaB
+Marta B 10 3 1
+Anna E 10 8 -81 -8 -41 56 96 34 -67 PartiaA
+Filip D 10 8 -71 -28 -85 56 -4 33 -54 PartiaA
+Maria T 10 2 PartiaA 1
+Dawid U 10 1 PartiaB
+Dawid J 10 3 6
+Grzegorz U 10 2 PartiaA 50
+Maria Z 10 7 2 PartiaB
+Filip M 10 1 PartiaA
+Janusz B 10 1 PartiaB
+Elzbieta R 10 6 7 PartiaB
+Malgorzata C 10 8 51 -2 -86 -61 43 -86 100 PartiaA
+Malgorzata F 10 5 88 -19 5 -19 -78 -4 -49
+Ewa J 10 3 1
+Alina N 10 2 PartiaB 32
+Elzbieta T 10 4 7
+Alina O 10 7 1 PartiaB
+Elzbieta D 10 3 7
+Elzbieta C 10 4 5
+Maria J 10 4 6
+Agnieszka R 10 6 4 PartiaB
+Piotr R 10 1 PartiaA
+Joanna N 10 3 1
+Michal S 10 7 4 PartiaB
+Alina J 10 1 PartiaA
+Maria F 10 7 6 PartiaA
+Jan W 10 1 PartiaA
+Filip D 10 7 3 PartiaA
+Agnieszka R 10 1 PartiaB
+Joanna S 10 1 PartiaA
+Malgorzata A 10 1 PartiaA
+Joanna C 10 6 3 PartiaB
+Pawel F 10 1 PartiaB
+Maria D 10 7 7 PartiaB
+Piotr A 10 7 2 PartiaA
+Agnieszka H 10 2 PartiaA 33
+Grzegorz E 10 5 -15 -7 46 -64 -86 -81 90
+Piotr T 10 5 -59 31 -94 -42 -84 -38 46
+Elzbieta F 10 4 6
+Konrad Z 10 8 99 -82 70 46 90 -11 23 PartiaB
+Dorota L 10 6 2 PartiaA
+Maria L 10 6 3 PartiaB
+Ewa P 10 1 PartiaA
+Maria N 10 7 3 PartiaB
+Konrad K 10 5 88 96 62 -86 -38 10 -38
+Janusz J 10 7 2 PartiaB
+Janusz M 10 8 69 48 -8 -37 41 77 86 PartiaA
+Michal E 10 5 -83 57 -1 -23 -62 23 -8
+Dawid F 10 3 7
+Piotr N 10 1 PartiaA
+Konrad E 10 3 7
+Anna Z 10 8 -21 -53 -91 -67 -61 8 -67 PartiaA
+Piotr B 10 3 5
+Ewa K 10 6 5 PartiaA
+Piotr T 10 7 6 PartiaB
+Jacek C 10 7 6 PartiaA
+Jan K 10 6 1 PartiaA
+Anna S 10 1 PartiaA
+Filip O 10 3 6
+Joanna T 10 6 7 PartiaB
+Pawel P 10 5 -1 75 -12 25 -24 -15 -74
+Kazimierz H 10 3 4
+Pawel N 10 6 4 PartiaA
+Alina Z 10 3 1
+Zofia B 10 3 3
+Dorota D 10 7 2 PartiaA
+Dawid W 10 4 5
+Maria J 10 8 42 -84 -49 -36 -64 22 -82 PartiaA
+Elzbieta E 10 3 7
+Elzbieta Z 10 1 PartiaA
+Jacek I 10 3 7
+Elzbieta N 10 8 11 46 78 -77 -52 100 98 PartiaB
+Maria S 10 6 3 PartiaA
+Malgorzata B 10 6 2 PartiaB
+Michal B 10 7 6 PartiaA
+Agnieszka F 10 7 3 PartiaB
+Justyna S 10 8 65 27 -52 47 65 11 12 PartiaA
+Krzysztof R 10 4 2
+Justyna L 10 5 -29 11 -13 18 75 -23 7
+Elzbieta L 10 7 6 PartiaA
+Agnieszka P 10 2 PartiaB 49
+Filip I 10 5 -52 -23 -83 -100 69 21 -69
+Malgorzata A 10 4 1
+Filip A 10 2 PartiaA 58
+Anna F 10 6 5 PartiaA
+Janusz J 10 7 6 PartiaB
+Malgorzata P 10 4 6
+Jacek G 10 6 7 PartiaA
+Grzegorz O 10 5 79 -27 -10 -67 -93 -3 -86
+Jan T 10 2 PartiaB 1
+Dawid Z 10 5 -54 -67 -11 -12 57 88 -98
+Agnieszka N 10 4 5
+Janusz L 10 2 PartiaA 32
+Malgorzata B 10 8 81 -95 42 49 3 22 -35 PartiaA
+Dorota A 10 4 4
+Malgorzata C 10 7 7 PartiaB
+Konrad T 10 5 -48 93 74 97 78 52 -68
+Alina R 10 7 4 PartiaB
+Konrad H 10 6 4 PartiaA
+Piotr P 10 6 3 PartiaB
+Konrad H 10 2 PartiaA 57
+Joanna A 10 1 PartiaB
+Joanna N 10 4 1
+Agnieszka C 10 5 -32 60 -11 -10 96 -33 43
+Pawel U 10 7 4 PartiaB
+Konrad L 10 7 7 PartiaA
+Ewa O 10 1 PartiaB
+Maria P 10 4 3
+Maria J 10 3 1
+Jan P 10 7 4 PartiaB
+Dorota H 10 2 PartiaA 56
+Grzegorz F 10 4 2
+Dorota E 10 1 PartiaA
+Zofia W 10 6 1 PartiaB
+Zofia H 10 1 PartiaA
+Agnieszka I 10 4 3
+Grzegorz E 10 3 2
+Agnieszka L 10 6 3 PartiaB
+Marta Z 10 1 PartiaB
+Piotr S 10 7 7 PartiaA
+Zofia S 10 8 2 -43 -51 -97 -90 -57 5 PartiaA
+Grzegorz T 10 1 PartiaB
+Dawid B 10 5 95 -77 67 -82 9 78 -8
+Maria H 10 4 6
+Janusz H 10 1 PartiaA
+Krzysztof S 10 4 3
+Maria Z 10 8 -27 -84 59 87 -20 44 93 PartiaA
+Filip B 10 8 71 35 -40 -72 97 -54 87 PartiaA
+Filip C 10 6 5 PartiaA
+Elzbieta B 10 5 -36 -57 -13 -56 -12 -54 70
+Malgorzata U 10 8 -66 94 -32 -98 65 99 -22 PartiaB
+Konrad H 10 8 75 -96 -75 -9 31 -41 85 PartiaA
+Zofia L 10 1 PartiaA
+Alina N 10 1 PartiaB
+Filip C 10 7 2 PartiaA
+Grzegorz D 10 2 PartiaA 4
+Elzbieta R 10 2 PartiaA 56
+Elzbieta B 10 3 5
+Malgorzata Z 10 2 PartiaA 5
+Krzysztof E 10 5 83 16 74 25 53 2 57
+Alina H 10 3 4
+Jan D 10 4 1
+Jan W 10 3 7
+Maria B 10 8 26 -71 49 79 66 -18 17 PartiaB
+Ewa F 10 7 3 PartiaB
+Marta I 10 4 2
+Piotr O 10 3 4
+Jacek L 10 4 1
+Jacek M 10 1 PartiaA
+Piotr H 10 3 2
+Joanna H 10 4 3
+Filip N 10 5 -64 86 -100 -10 -18 -42 -88
+Janusz L 10 6 5 PartiaA
+Elzbieta S 10 6 4 PartiaA
+Anna D 10 8 99 48 45 40 57 26 -13 PartiaA
+Alina U 10 8 60 17 -71 38 17 95 8 PartiaB
+Justyna B 10 4 5
+Grzegorz E 10 7 1 PartiaB
+Piotr B 10 8 46 3 -67 81 92 -51 12 PartiaA
+Ewa L 10 4 3
+Zofia R 10 2 PartiaA 50
+Joanna L 10 2 PartiaB 46
+Alina L 10 7 5 PartiaA
+Joanna U 10 2 PartiaB 47
+Jacek F 10 4 2
+Janusz T 10 4 2
+Malgorzata A 10 6 2 PartiaB
+Anna C 10 7 3 PartiaB
+Maria D 10 3 2
+Elzbieta G 10 5 87 13 -26 -6 54 27 93
+Justyna E 10 6 5 PartiaB
+Marta S 10 1 PartiaA
+Dawid B 10 5 15 9 18 5 -32 77 -32
+Krzysztof T 10 8 -93 25 51 49 -31 -51 41 PartiaA
+Dawid R 10 4 6
+Justyna F 10 8 67 35 48 14 31 -94 91 PartiaB
+Piotr L 10 7 2 PartiaA
+Dorota P 10 3 3
+Krzysztof Z 10 3 1
+Justyna Z 10 8 1 -12 88 56 -77 -77 -78 PartiaA
+Piotr C 10 1 PartiaB
+Michal B 10 6 6 PartiaB
+Marta A 10 4 5
+Dorota O 10 6 7 PartiaA
+Joanna O 10 1 PartiaB
+Jacek E 10 3 5
+Piotr E 10 7 7 PartiaA
+Jacek S 10 6 3 PartiaA
+Jan G 10 7 6 PartiaA
+Michal E 10 7 5 PartiaB
+Malgorzata U 10 7 5 PartiaB
+Dorota O 10 2 PartiaB 58
+Filip U 10 6 5 PartiaB
+Konrad C 10 8 54 -62 80 0 33 -75 6 PartiaB
+Alina I 10 2 PartiaA 20
+Grzegorz S 10 8 -91 25 -97 -32 85 15 6 PartiaA
+Agnieszka S 10 3 7
+Dorota R 10 1 PartiaB
+Marta M 10 7 5 PartiaB
+Justyna L 10 1 PartiaA
+Grzegorz P 10 4 5
+Jan U 10 4 2
+Janusz P 10 1 PartiaB
+Jan S 10 7 7 PartiaA
+Justyna T 10 7 6 PartiaB
+Jacek T 10 2 PartiaB 58
+Konrad E 10 2 PartiaA 2
+Grzegorz C 10 2 PartiaB 59
+Anna M 10 5 16 26 57 -23 -77 -47 -32
+Zofia P 10 4 5
+Grzegorz R 10 7 7 PartiaA
+Zofia W 10 8 -7 98 -64 -21 9 -70 5 PartiaB
+Janusz M 10 4 5
+Anna E 10 3 3
+Elzbieta M 10 2 PartiaB 5
+Malgorzata K 10 5 -76 -50 -90 86 38 -3 -64
+Krzysztof P 10 5 -15 -74 40 -71 -2 -91 -23
+Piotr Z 10 8 38 67 -60 -36 -21 59 -36 PartiaA
+Krzysztof F 10 2 PartiaB 48
+Elzbieta U 10 4 6
+Piotr K 10 8 17 31 -35 100 52 71 -56 PartiaA
+Pawel F 10 3 4
+Kazimierz Z 10 3 6
+Jacek O 10 7 6 PartiaB
+Michal M 10 3 1
+Anna T 10 7 3 PartiaA
+Zofia N 10 8 84 -64 46 -69 44 -74 -26 PartiaA
+Alina T 10 4 7
+Filip G 10 3 5
+Justyna J 10 4 5
+Janusz K 10 2 PartiaB 8
+Anna H 10 8 23 -83 86 -100 34 -87 13 PartiaA
+Anna R 10 5 -60 13 -47 26 37 2 -24
+Alina T 10 7 5 PartiaB
+Jan Z 10 3 7
+Agnieszka A 10 3 3
+Filip O 10 1 PartiaA
+Zofia B 10 8 -71 69 -26 89 63 100 28 PartiaB
+Justyna L 10 1 PartiaA
+Agnieszka K 10 8 -86 -98 67 93 92 61 -56 PartiaA
+Dawid O 10 2 PartiaB 29
+Michal J 10 8 53 94 44 83 32 35 -55 PartiaA
+Ewa J 10 1 PartiaA
+Zofia M 10 8 -49 17 -34 100 16 88 -72 PartiaB
+Jacek A 10 5 7 17 -10 44 -93 -18 -20
+Jan L 10 2 PartiaA 9
+Maria D 10 1 PartiaB
+Janusz R 10 6 3 PartiaB
+Justyna K 10 4 1
+Dorota S 10 6 5 PartiaA
+Anna H 10 6 4 PartiaB
+Krzysztof J 10 3 3
+Alina S 10 4 6
+Joanna O 10 4 1
+Jacek O 10 4 1
+Grzegorz R 10 8 29 -11 38 -12 -43 33 -97 PartiaA
+Krzysztof S 10 4 6
+Zofia P 10 6 7 PartiaB
+Pawel J 10 2 PartiaA 57
+Justyna S 10 7 7 PartiaB
+Joanna A 10 1 PartiaB
+Jacek L 10 4 2
+Zofia C 10 4 2
+Filip W 10 3 5
+Ewa H 10 3 4
+Anna O 10 7 3 PartiaA
+Jacek F 10 3 4
+Kazimierz P 10 8 27 93 25 -42 14 -50 -4 PartiaA
+Jan T 10 6 6 PartiaB
+Dawid I 10 3 1
+Dawid I 10 1 PartiaB
+Krzysztof I 10 1 PartiaA
+Joanna L 10 3 1
+Krzysztof B 10 1 PartiaA
+Maria T 10 3 4
+Justyna K 10 6 1 PartiaA
+Anna B 10 1 PartiaA
+Anna Z 10 5 -15 48 61 80 -24 16 50
+Malgorzata R 10 8 -63 -97 -35 -36 34 24 -90 PartiaB
+Michal J 10 6 7 PartiaB
+Alina F 10 4 2
+Joanna K 10 6 2 PartiaA
+Justyna M 10 4 5
+Malgorzata R 10 4 2
+Ewa U 10 7 1 PartiaA
+Krzysztof F 10 4 6
+Elzbieta P 10 1 PartiaB
+Dorota D 10 3 6
+Justyna W 10 3 2
+Dorota F 10 3 1
+Jacek T 10 4 4
+Alina N 10 8 -58 84 -45 27 -31 61 1 PartiaA
+Michal Z 10 6 5 PartiaA
+Justyna C 10 1 PartiaB
+Marta O 10 8 45 -95 -70 -15 -74 -89 80 PartiaA
+Maria E 10 6 4 PartiaB
+Janusz O 10 2 PartiaA 44
+Joanna U 10 7 7 PartiaB
+Kazimierz D 10 1 PartiaA
+Alina F 10 8 -51 4 -36 -98 -98 -21 -2 PartiaB
+Krzysztof A 10 4 4
+Konrad K 10 8 -6 -14 30 15 29 -41 -65 PartiaB
+Agnieszka J 10 4 5
+Grzegorz Z 10 7 5 PartiaA
+Jacek S 10 8 89 72 5 -19 59 16 61 PartiaA
+Justyna J 10 6 2 PartiaA
+Grzegorz G 10 6 5 PartiaA
+Dorota J 10 5 -81 29 63 69 0 -9 -88
+Joanna B 10 4 1
+Piotr P 10 7 7 PartiaA
+Filip M 10 8 66 33 66 28 90 69 -29 PartiaA
+Joanna O 10 3 6
+Michal K 10 3 6
+Anna Z 10 1 PartiaB
+Grzegorz B 10 8 -67 92 -63 2 5 -14 70 PartiaA
+Jan F 10 4 3
+Grzegorz O 10 3 4
+Piotr U 10 1 PartiaA
+Ewa U 10 7 5 PartiaB
+Joanna N 10 7 2 PartiaB
+Alina B 10 3 6
+Malgorzata Z 10 7 4 PartiaA
+Maria M 10 6 6 PartiaA
+Janusz R 10 8 82 -95 -78 94 37 -33 89 PartiaB
+Zofia S 10 7 7 PartiaA
+Kazimierz W 10 4 5
+Maria I 10 3 7
+Janusz D 10 4 4
+Justyna L 10 7 6 PartiaA
+Alina K 10 6 1 PartiaB
+Dawid N 10 5 -55 53 -26 -86 3 -50 -36
+Piotr A 10 5 -94 20 -99 100 93 -40 -5
+Krzysztof B 10 3 4
+Piotr J 10 1 PartiaA
+Agnieszka L 10 2 PartiaA 40
+Justyna B 10 6 1 PartiaB
+Krzysztof U 10 4 2
+Agnieszka E 10 6 5 PartiaB
+Kazimierz U 10 8 -98 -81 -34 -34 55 -98 18 PartiaB
+Agnieszka F 10 2 PartiaA 54
+Jacek S 10 6 2 PartiaA
+Justyna A 10 6 3 PartiaB
+Dawid H 10 7 7 PartiaB
+Filip L 10 2 PartiaA 11
+Dawid E 10 8 40 -7 -84 -27 -21 -72 51 PartiaA
+Janusz U 10 1 PartiaA
+Filip O 10 6 5 PartiaB
+Piotr P 10 7 3 PartiaB
+Grzegorz K 10 7 6 PartiaA
+Elzbieta A 10 2 PartiaA 18
+Janusz K 10 8 93 70 54 -42 -62 16 3 PartiaB
+Ewa L 10 1 PartiaB
+Marta E 10 7 4 PartiaA
+Joanna U 10 4 5
+Pawel P 10 3 5
+Pawel D 10 1 PartiaB
+Joanna O 10 4 3
+Pawel N 10 7 2 PartiaA
+Kazimierz L 10 2 PartiaB 21
+Malgorzata T 10 1 PartiaA
+Michal O 10 6 4 PartiaB
+Konrad W 10 7 3 PartiaB
+Justyna O 10 8 -82 85 26 -20 16 -32 -61 PartiaB
+Dawid C 10 4 2
+Elzbieta L 10 3 2
+Dorota M 10 8 42 -20 92 30 -46 62 64 PartiaB
+Kazimierz H 10 2 PartiaB 11
+Krzysztof Z 10 2 PartiaA 14
+Konrad W 10 7 2 PartiaB
+Dawid O 10 2 PartiaB 41
+Jacek I 10 5 72 37 29 36 55 82 -85
+Filip B 10 1 PartiaB
+Michal C 10 4 3
+Anna J 10 8 -91 -22 -90 21 -43 -37 42 PartiaB
+Jan H 10 4 4
+Malgorzata N 10 7 6 PartiaB
+Joanna P 10 1 PartiaB
+Alina A 10 3 6
+Joanna L 10 5 99 36 81 91 -27 -48 90
+Jan N 10 6 4 PartiaB
+Kazimierz G 10 3 3
+Janusz U 10 3 5
+Elzbieta B 10 7 2 PartiaA
+Maria F 10 6 5 PartiaA
+Konrad U 10 3 5
+Konrad K 10 5 -33 -56 36 34 1 -26 -82
+Justyna G 10 7 3 PartiaB
+Anna E 10 3 7
+Elzbieta I 10 6 2 PartiaB
+Malgorzata P 10 6 7 PartiaA
+Kazimierz E 10 1 PartiaA
+Elzbieta F 10 1 PartiaA
+Michal H 10 2 PartiaB 10
+Kazimierz E 10 7 2 PartiaB
+Grzegorz F 10 8 33 -32 94 -59 68 100 -13 PartiaB
+Kazimierz D 10 6 5 PartiaA
+Janusz E 10 1 PartiaB
+Pawel P 10 3 3
+Joanna J 10 6 7 PartiaB
+Ewa B 10 3 7
+Michal F 10 6 2 PartiaA
+Janusz I 10 5 -50 26 39 44 -71 28 -83
+Piotr C 10 8 -36 46 -80 53 -51 -98 -60 PartiaA
+Joanna L 10 7 7 PartiaA
+Jacek C 10 5 10 98 53 42 -67 -30 -77
+Malgorzata J 10 2 PartiaB 46
+Krzysztof K 10 4 5
+Justyna U 10 4 5
+Dawid C 10 4 6
+Pawel G 10 7 3 PartiaB
+Dorota B 10 1 PartiaA
+Joanna W 10 4 1
+Grzegorz C 10 8 -18 -61 -99 66 82 11 9 PartiaA
+Ewa F 10 6 4 PartiaA
+Michal I 10 6 5 PartiaB
+Filip D 10 3 6
+Grzegorz I 10 7 2 PartiaA
+Janusz G 10 2 PartiaB 47
+Dorota L 10 4 5
+Joanna W 10 2 PartiaB 45
+Alina D 10 3 4
+Dorota U 10 1 PartiaB
+Marta F 10 6 1 PartiaA
+Janusz B 10 3 3
+Kazimierz U 10 6 3 PartiaB
+Malgorzata U 10 7 2 PartiaB
+Joanna A 10 6 1 PartiaA
+Piotr L 10 7 2 PartiaA
+Ewa A 10 8 -73 9 -25 -1 65 58 -23 PartiaB
+Agnieszka E 10 2 PartiaB 46
+Dorota S 10 8 -64 -30 16 0 22 -8 46 PartiaB
+Marta E 10 2 PartiaB 61
+Joanna P 10 2 PartiaB 51
+Dorota R 10 4 7
+Agnieszka U 10 5 -20 -9 10 96 -8 -89 94
+Anna L 10 1 PartiaA
+Anna O 10 6 5 PartiaA
+Piotr I 10 8 -19 92 -18 -27 24 -7 72 PartiaB
+Pawel I 10 3 1
+Piotr R 10 4 5
+Zofia Z 10 6 6 PartiaA
+Dorota H 10 6 6 PartiaA
+Alina O 10 7 1 PartiaB
+Jan H 10 2 PartiaB 16
+Zofia N 10 1 PartiaA
+Janusz B 10 3 7
+Zofia B 10 5 1 49 -37 70 -13 -65 -68
+Justyna Z 10 2 PartiaB 51
+Piotr W 10 8 -84 47 67 -59 45 -32 52 PartiaB
+Anna P 10 7 4 PartiaB
+Alina M 10 1 PartiaB
+Zofia G 10 1 PartiaB
+Agnieszka D 10 3 7
+Zofia L 10 5 42 -12 -49 92 -51 9 -49
+Joanna N 10 8 8 6 -96 71 -65 -14 -12 PartiaB
+ 8 6 3 6 8 -8 2
+ 9 3 -6 5 2 -7 2
+ 7 -6 -4 10 7 -9 -2
+ -8 -8 5 4 -3 3 -4
+ 6 -3 10 -6 -6 -9 9
