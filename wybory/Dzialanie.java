@@ -1,15 +1,18 @@
 package wybory;
 
-import java.util.ArrayList;
-
 public class Dzialanie {
-    private ArrayList<Integer> zmianaCech;
-    public Dzialanie(ArrayList<Integer> zmianaCech) {
+    private final int[] zmianaCech;
+    public final int kosztPerCapita;
+
+    public Dzialanie(int[] zmianaCech) {
         this.zmianaCech = zmianaCech;
+        int wynik = 0;
+        for (int i : zmianaCech) wynik += Math.abs(i);
+        this.kosztPerCapita = wynik;
     }
-    public void modyfikujWagiWyborcy(ArrayList<Integer> wagiWyborcy) {
-        for (int w : wagiWyborcy) {
-            //w += zmianaCech 
-        }
+
+    public int getZmiana(int indexCechy) {
+        return zmianaCech[indexCechy];
     }
+
 }

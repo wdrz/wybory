@@ -2,7 +2,7 @@ package wybory;
 
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Iterator;
+import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Set;
 
@@ -20,19 +20,69 @@ public class OkragWyborczy {
 
     private int wyborcy_index = 0;
 
+    private Integer liczbaWyborcowWszechstronnych = null;
+
     public OkragWyborczy(int numerOkregu, int liczbaPartii, int liczbaWyborcow) throws IncorrectInputException {
         if (liczbaWyborcow % 10 != 0)
             throw new IncorrectInputException("Liczba wyborcow w podstawowym okregu ma byc postaci 10k");
         
         this.numerOkregu = numerOkregu;
         this.liczbaWyborcow = liczbaWyborcow;
-        this.kandydaci = new HashMap<String, ArrayList<Kandydat>>(liczbaPartii);
+        this.kandydaci = new LinkedHashMap<String, ArrayList<Kandydat>>(liczbaPartii);
         this.wyborcy = new Wyborca[liczbaWyborcow];
+    }
+
+    public int wyborcyWScalonym() {
+        if (okragScalony == null) return liczbaWyborcow;
+        else return liczbaWyborcow + okragScalony.liczbaWyborcow; 
     }
 
     public void addWyborca(Wyborca wyb) {
         wyborcy[wyborcy_index] = wyb;
         wyborcy_index++;
+    }
+
+    public int kosztDzialania(Dzialanie dzialanie) {
+        return dzialanie.kosztPerCapita * wyborcyWScalonym();
+    }
+
+    public int oIleZwiekszySumeKombinacjiCechKandydatowPartii(Dzialanie dzial, 
+        String nazwaPartii, boolean czyPropagowac) {
+            int wynik = 0;
+            if (okragScalony != null && czyPropagowac) {
+                wynik += okragScalony.oIleZwiekszySumeKombinacjiCechKandydatowPartii(
+                    dzial, nazwaPartii, false);
+            }
+            for (int i = 0; i < liczbaWyborcow; i++) {
+                wynik += wyborcy[i].oIleZwiekszySumeKombinacjiCechKandydatowPartii(dzial, 
+                    iteratorKandydatowPartii(nazwaPartii));
+            }
+            return wynik;
+    }
+
+    public void wykonajDzialanie(Dzialanie dzial, boolean czyPropagowac) {
+        if (okragScalony != null && czyPropagowac) {
+            okragScalony.wykonajDzialanie(dzial, false);
+        }
+        for (int i = 0; i < liczbaWyborcow; i++) {
+            wyborcy[i].modyfikujWagi(dzial);
+        }
+    }
+
+    public int ileWyborcowWszechstronnych(boolean czyPropagowac) {
+        if (liczbaWyborcowWszechstronnych == null) {
+            int wynik = 0;
+            if (okragScalony != null && czyPropagowac) {
+                wynik += okragScalony.ileWyborcowWszechstronnych(false);
+            }
+            for (int i = 0; i < liczbaWyborcow; i++) {
+                if (wyborcy[i] instanceof Wszechstronny) {
+                    wynik++;
+                }
+            }
+            liczbaWyborcowWszechstronnych = wynik;
+        } 
+        return liczbaWyborcowWszechstronnych;
     }
 
     public void scal(OkragWyborczy okrag) throws IncorrectInputException {
@@ -66,31 +116,23 @@ public class OkragWyborczy {
         }
     }
 
-    public Iterator<ArrayList<Kandydat>> getIteratorListPartyjnych() {
-        return kandydaci.values().iterator();
-    }
-
-    public Iterator<Kandydat> getIteratorKandydatowPartii(String nazwaPartii) {
-        return kandydaci.get(nazwaPartii).iterator();
-    }
 
     public IteratorKandydatow itaratorWszystkichKandydatow() {
         if (okragScalony == null) {
-            return new IterKandydatowWszyskich(this.getIteratorListPartyjnych(), 
-                (new ArrayList<ArrayList<Kandydat>>()).iterator());
+            return new IterKandydatowWszyskichPodstawowegoOkregu(this.kandydaci.values());
         } else {
-            return new IterKandydatowWszyskich(this.getIteratorListPartyjnych(), 
-                okragScalony.getIteratorListPartyjnych());
+            return new IterKandydatowWszyskich(this.kandydaci.values(), 
+                okragScalony.kandydaci.values());
         }
     }
 
     public IteratorKandydatow iteratorKandydatowPartii(String nazwaPartii) {
         if (okragScalony == null) {
-            return new IterKandydatowPartii(this.getIteratorKandydatowPartii(nazwaPartii), 
+            return new IterKandydatowPartii(this.kandydaci.get(nazwaPartii).iterator(), 
                 (new ArrayList<Kandydat>()).iterator());
         } else {
-            return new IterKandydatowPartii(this.getIteratorKandydatowPartii(nazwaPartii), 
-                okragScalony.getIteratorKandydatowPartii(nazwaPartii));
+            return new IterKandydatowPartii(this.kandydaci.get(nazwaPartii).iterator(), 
+                okragScalony.kandydaci.get(nazwaPartii).iterator());
         }
 
     }

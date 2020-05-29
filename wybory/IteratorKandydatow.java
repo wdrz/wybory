@@ -9,47 +9,53 @@ abstract class IteratorKandydatow {
     abstract boolean hasNext();
 }
 
-class IterKandydatowWszyskich extends IteratorKandydatow {
-    private final Iterator<ArrayList<Kandydat>> itList1;
-    private Iterator<Kandydat> itKand1;
 
-    private final Iterator<ArrayList<Kandydat>> itList2;
-    private Iterator<Kandydat> itKand2;
+class IterKandydatowWszyskichPodstawowegoOkregu extends IteratorKandydatow {
+    private final Iterator<ArrayList<Kandydat>> itList;
+    private Iterator<Kandydat> itKand;
 
-    private boolean pierwszaLista = true;
-
-    public IterKandydatowWszyskich(Iterator<ArrayList<Kandydat>> itList1, Iterator<ArrayList<Kandydat>> itList2) {
-        this.itList1 = itList1;
-        this.itKand1 = itList1.next().iterator();
-        this.itList2 = itList2;
-        this.itKand2 = itList2.next().iterator();  
+    public IterKandydatowWszyskichPodstawowegoOkregu(Iterable<ArrayList<Kandydat>> itList) {
+        this.itList = itList.iterator();
+        this.itKand = this.itList.next().iterator();
     }
 
     public Kandydat next() {
-        if (pierwszaLista) {
-            if (itKand1.hasNext()) {
-                return itKand1.next();
-            }
-            if (itList1.hasNext()) {
-                this.itKand1 = itList1.next().iterator();
-                return itKand1.next();
-            }
-            pierwszaLista = false;
+        if (itKand.hasNext()) {
+            return itKand.next();
         }
-
-        if (itKand2.hasNext()) {
-            return itKand2.next();
-        }
-        if (itList2.hasNext()) {
-            this.itKand2 = itList2.next().iterator();
-            return itKand2.next();
+        if (itList.hasNext()) {
+            this.itKand = itList.next().iterator();
+            return itKand.next();
         }
 
         throw new NoSuchElementException();
     }
 
     public boolean hasNext() {
-        return itKand1.hasNext() || itList1.hasNext() || itKand2.hasNext() || itList2.hasNext();
+        return itKand.hasNext() || itList.hasNext();
+    }
+}
+
+
+class IterKandydatowWszyskich extends IteratorKandydatow {
+
+    private final IterKandydatowWszyskichPodstawowegoOkregu okrag1;
+    private final IterKandydatowWszyskichPodstawowegoOkregu okrag2;
+
+    public IterKandydatowWszyskich(Iterable<ArrayList<Kandydat>> itList1, Iterable<ArrayList<Kandydat>> itList2) {
+        this.okrag1 = new IterKandydatowWszyskichPodstawowegoOkregu(itList1);
+        this.okrag2 = new IterKandydatowWszyskichPodstawowegoOkregu(itList2);
+    }
+
+    public Kandydat next() {
+        if (okrag1.hasNext()) return okrag1.next();
+        if (okrag2.hasNext()) return okrag2.next();
+
+        throw new NoSuchElementException();
+    }
+
+    public boolean hasNext() {
+        return okrag1.hasNext() || okrag2.hasNext();
     }
 
 }

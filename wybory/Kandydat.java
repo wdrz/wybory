@@ -18,9 +18,8 @@ public class Kandydat {
             this.cechy = cechy;
         }
 
-    public Kandydat otrzymajGlos() {
+    public void otrzymajGlos() {
         liczbaGlosow++;
-        return this;
     }
 
     public int getLiczbaGlosow() {

@@ -19,11 +19,11 @@ public class Bajtocja {
         Random rand = new Random();
         switch (rand.nextInt(3)) {
             case 0:
-                return new MetodaDHondta(liczbaPartii); 
+                return new MetodaDHondta(listaPartii.keySet()); 
             case 1:
-                return new MetodaSainteLague(liczbaPartii);
+                return new MetodaSainteLague(listaPartii.keySet());
             default:
-                return new MetodaHareaNiemeyera(liczbaPartii);
+                return new MetodaHareaNiemeyera(listaPartii.keySet());
         }
     }
 
@@ -34,12 +34,12 @@ public class Bajtocja {
             this.liczbaDzialan = liczbaDzialan;
             this.liczbaCech = liczbaCech;
             this.ileScalonych = ileScalonych;
-            this.metodaZamiany = this.losujMetodeZamianyGlosow();
 
             this.listaOkregow = listaOkregow;
             this.listaPartii = listaPartii;
 
             this.listaDzialan = new ArrayList<Dzialanie>();
+            this.metodaZamiany = this.losujMetodeZamianyGlosow();
     }
 
     public Iterator<Partia> getPartiaIterator() {
@@ -65,7 +65,17 @@ public class Bajtocja {
     }
 
     public void przeprowadzKampanie() {
-        /// Brakuje
+        boolean wszystkieSkonczyly = false;
+        Iterator<Partia> it;
+        while (!wszystkieSkonczyly) {
+            it = listaPartii.values().iterator();
+            wszystkieSkonczyly = true;
+            while (it.hasNext()) {
+                if (it.next().wykonajDzialanie(this)) {
+                    wszystkieSkonczyly = false;
+                }
+            }
+        }
     }
 
     public void przeprowadzGlosowanieIWypisz() {

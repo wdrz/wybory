@@ -1,16 +1,21 @@
 package wybory;
 
 import java.util.Arrays;
-import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.Map;
+import java.util.Set;
+import java.util.function.Function;
 
 public abstract class Metoda {
     protected Map<String, Integer> liczbaMandatow;
     protected final int liczbaPartii;
 
-    protected Metoda(int liczbaPartii) {
-        liczbaMandatow = new HashMap<String, Integer>(liczbaPartii);
-        this.liczbaPartii = liczbaPartii;
+    protected Metoda(Set<String> listaNazwPartii) {
+        liczbaMandatow = new LinkedHashMap<String, Integer>(listaNazwPartii.size());
+        this.liczbaPartii = listaNazwPartii.size();
+        for (String s : listaNazwPartii) {
+            liczbaMandatow.put(s, 0);
+        }
     }
 
     abstract public void zamienNaMandaty(OkragWyborczy okrag, Map<String, Integer> wyniki);
@@ -35,34 +40,54 @@ class IlorazWyborczy implements Comparable<IlorazWyborczy> {
         this.nazwaPartii = nazwaPartii;
     }
 
+    @Override
     public int compareTo(IlorazWyborczy il) { 
-        return licznik * il.mianownik - il.licznik * mianownik; 
+        return il.licznik * mianownik - licznik * il.mianownik ; 
     } 
 
 }
 
-class MetodaDHondta extends Metoda {
-    public MetodaDHondta(int liczbaPartii) {
-        super(liczbaPartii);
+abstract class MetodaZIlorazem extends Metoda {
+    protected MetodaZIlorazem(Set<String> listaNazwPartii) {
+        super(listaNazwPartii);
     }
 
-    public void zamienNaMandaty(OkragWyborczy okrag, Map<String, Integer> wyniki) {
-        IlorazWyborczy[] ilorazy = new IlorazWyborczy[(okrag.liczbaWyborcow / 10) * liczbaPartii];
+    protected void zamienNaMandaty(OkragWyborczy okrag, Map<String, Integer> wyniki, Function<Integer, Integer> ntymianownikIlorazu) {
+        IlorazWyborczy[] ilorazy = new IlorazWyborczy[(okrag.wyborcyWScalonym() / 10) * liczbaPartii];
         int index = 0;
         // Utworzenie tablicy ilorazow wyborczych
         for (String partia : wyniki.keySet()) {
-            for (int n = 1; n <= okrag.liczbaWyborcow / 10; n++) {
-                ilorazy[index] = new IlorazWyborczy(wyniki.get(partia), n, partia);
+            for (int n = 1; n <= okrag.wyborcyWScalonym() / 10; n++) {
+                ilorazy[index] = new IlorazWyborczy(wyniki.get(partia), ntymianownikIlorazu.apply(n), partia);
                 index++;
             }
         }
         // odczytanie najwiekszych ilorazow
         Arrays.sort(ilorazy);
-        for (int i = 0; i < okrag.liczbaWyborcow / 10; i++) {
-            liczbaMandatow.replace(ilorazy[index].nazwaPartii, 
-                liczbaMandatow.get(ilorazy[index].nazwaPartii) + 1);
-        }
+        
+        /*System.out.println("DEBUG");
+        for (int i = 0; i < (okrag.wyborcyWScalonym() / 10) * liczbaPartii ; i++) {
+            System.out.println((float) ilorazy[i].licznik / (float) ilorazy[i].mianownik);
 
+        } */
+
+        for (int i = 0; i < okrag.wyborcyWScalonym() / 10; i++) {
+            liczbaMandatow.replace(ilorazy[i].nazwaPartii, 
+                liczbaMandatow.get(
+                    ilorazy[i].nazwaPartii) + 1);
+        }
+        /*super.wypiszWyniki();*/
+    }
+}
+
+class MetodaDHondta extends MetodaZIlorazem {
+    public MetodaDHondta(Set<String> listaNazwPartii) {
+        super(listaNazwPartii);
+    }
+
+    public void zamienNaMandaty(OkragWyborczy okrag, Map<String, Integer> wyniki) {
+        Function<Integer, Integer> ntyMianownikIlorazu = e -> e;
+        super.zamienNaMandaty(okrag, wyniki, ntyMianownikIlorazu);
     }
     @Override 
     public String toString() {
@@ -71,13 +96,14 @@ class MetodaDHondta extends Metoda {
 }
 
 
-class MetodaSainteLague extends Metoda {
-    public MetodaSainteLague(int liczbaPartii) {
-        super(liczbaPartii);
+class MetodaSainteLague extends MetodaZIlorazem {
+    public MetodaSainteLague(Set<String> listaNazwPartii) {
+        super(listaNazwPartii);
     }
 
     public void zamienNaMandaty(OkragWyborczy okrag, Map<String, Integer> wyniki) {
-        
+        Function<Integer, Integer> ntyMianownikIlorazu = e -> 2 * e - 1;
+        super.zamienNaMandaty(okrag, wyniki, ntyMianownikIlorazu);
     }
     @Override 
     public String toString() {
@@ -86,12 +112,37 @@ class MetodaSainteLague extends Metoda {
 }
 
 class MetodaHareaNiemeyera extends Metoda {
-    public MetodaHareaNiemeyera(int liczbaPartii) {
-        super(liczbaPartii);
+    public MetodaHareaNiemeyera(Set<String> listaNazwPartii) {
+        super(listaNazwPartii);
     }
 
     public void zamienNaMandaty(OkragWyborczy okrag, Map<String, Integer> wyniki) {
-        
+        IlorazWyborczy[] ilorazy = new IlorazWyborczy[liczbaPartii];
+        int index = 0, reszta, iloraz, dzielna, liczbaRozdzielonych = 0;
+        for (Map.Entry<String, Integer> wynik : wyniki.entrySet()) {
+            dzielna = wynik.getValue() * okrag.wyborcyWScalonym() / 10;
+            iloraz = dzielna / okrag.wyborcyWScalonym();
+            reszta = dzielna % okrag.wyborcyWScalonym();
+            liczbaMandatow.replace(wynik.getKey(), 
+                liczbaMandatow.get(wynik.getKey()) + iloraz);
+            liczbaRozdzielonych += iloraz;
+            ilorazy[index] = new IlorazWyborczy(reszta, 1, wynik.getKey());
+            index++;
+        }
+        Arrays.sort(ilorazy);
+
+        /*
+        System.out.println("DEBUG");
+        for (int i = 0; i < (okrag.wyborcyWScalonym() / 10) * liczbaPartii ; i++) {
+            System.out.println((float) ilorazy[i].licznik / (float) ilorazy[i].mianownik);
+
+        } */
+
+        for (int i = 0; i < okrag.wyborcyWScalonym() / 10 - liczbaRozdzielonych; i++) {
+            liczbaMandatow.replace(ilorazy[i].nazwaPartii, 
+                liczbaMandatow.get(ilorazy[i].nazwaPartii) + 1);
+        }
+        /*super.wypiszWyniki();*/
     }
     @Override 
     public String toString() {

@@ -4,9 +4,11 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.Iterator;
+import java.util.LinkedHashMap;
 import java.util.Map;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public class Input {
 
@@ -22,9 +24,15 @@ public class Input {
         int[] scaleniaLewe = new int[liczbaScalonych];
         int[] scaleniaPrawe = new int[liczbaScalonych];
 
+        Pattern p;
+        Matcher m;
         for (int i = 0; i < liczbaScalonych; i++) {
-            scaleniaLewe[i] = in.nextInt() - 1;
-            scaleniaPrawe[i] = in.nextInt() - 1;
+            p = Pattern.compile("\\d+");
+            m = p.matcher(in.next());
+            m.find();
+            scaleniaLewe[i] = Integer.parseInt(m.group()) - 1;
+            m.find();
+            scaleniaPrawe[i] = Integer.parseInt(m.group()) - 1;
         }
 
         Map<String, Partia> listaPartii = wczytajPartie(liczbaPartii);
@@ -38,7 +46,7 @@ public class Input {
     }
 
     private Map<String, Partia> wczytajPartie(int liczbaPartii) throws IncorrectInputException {
-        Map<String, Partia> listaPartii = new HashMap<String, Partia>();
+        Map<String, Partia> listaPartii = new LinkedHashMap<String, Partia>();
         String[] nazwy = new String[liczbaPartii];
         int[] budzety = new int[liczbaPartii];
         for (int i = 0; i < liczbaPartii; i++)
@@ -89,9 +97,12 @@ public class Input {
             String nazwaPartii = in.next();
             int pozycjaNaLiscie = in.nextInt();
 
-            if (!nazwaPartii.equals(partia.toString()) || numerOkregu != okrag.numerOkregu
+            if (!nazwaPartii.equals(partia.nazwaPartii) || numerOkregu != okrag.numerOkregu
                 || pozycjaNaLiscie != j + 1) {
-                    throw new IncorrectInputException("Kandydaci w nieprawidlowej kolejnosci");
+                    throw new IncorrectInputException("Kandydaci w nieprawidlowej kolejnosci " + 
+                    nazwaPartii + " " + partia.nazwaPartii + " " + Integer.toString(numerOkregu) + " " 
+                    + Integer.toString(okrag.numerOkregu) + " " + Integer.toString(pozycjaNaLiscie) +
+                    " " + Integer.toString(j + 1) + " " + imie + " " + nazwisko);
             }
 
             int cechy[] = new int[baj.liczbaCech];
@@ -116,10 +127,11 @@ public class Input {
         }
     }
 
-    private ArrayList<Integer> wczytajLiczby(int ile) {
-        ArrayList<Integer> liczby = new ArrayList<Integer>(ile);
+    private int[] wczytajLiczby(int ile) {
+
+        int[] liczby = new int[ile];
         for (int j = 0; j < ile; j++) {
-            liczby.add(in.nextInt());
+            liczby[j] = in.nextInt();
         }
         return liczby;
     }

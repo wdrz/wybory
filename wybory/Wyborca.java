@@ -1,6 +1,5 @@
 package wybory;
 
-import java.util.ArrayList;
 import java.util.Random;
 
 abstract class Wyborca {
@@ -11,12 +10,18 @@ abstract class Wyborca {
         this.nazwisko = nazwisko;
         this.okrag = okrag;
     }
+
     public void modyfikujWagi(Dzialanie dzial) {}
+
+    public int oIleZwiekszySumeKombinacjiCechKandydatowPartii(Dzialanie dzial, IteratorKandydatow it) {
+        return 0;
+    }
 
     abstract public Kandydat glosuj();
 
     public Kandydat oddajGlosIwypisz() {
         Kandydat kand = glosuj();
+        kand.otrzymajGlos();
         System.out.println(this.imie + " " + this.nazwisko + ": " + kand.imie + " " + kand.nazwisko);
         return kand;
     }
@@ -43,49 +48,67 @@ abstract class Jednocechowy extends Wyborca {
                 wynik = kand;
             }
         }
-        return wynik.otrzymajGlos();
+        return wynik;
     }
 
 }
 
 abstract class WyborcaZWagami extends Wyborca {
-    private ArrayList<Integer> wagi;
-    protected WyborcaZWagami(String imie, String nazwisko, OkragWyborczy okrag, ArrayList<Integer> wagi) {
+    private int[] wagi;
+    protected WyborcaZWagami(String imie, String nazwisko, OkragWyborczy okrag, int[] wagi) {
         super(imie, nazwisko, okrag);
         this.wagi = wagi;
     }
 
     public int getWaga(int numerWagi) {
-        return wagi.get(numerWagi);
+        return wagi[numerWagi];
     }
 
-    private int policzKombinacjeLiniowa(Kandydat k) {
+    private int policzKombinacjeLiniowa(Kandydat k, int[] tablica) {
         int wynik = 0;
-        for (int i = 0; i < wagi.size(); i++) {
-            wynik += wagi.get(i) * k.getCecha(i + 1);
+        for (int i = 0; i < tablica.length; i++) {
+            wynik += tablica[i] * k.getCecha(i + 1);
         }
         return wynik;
     }
 
     protected Kandydat glosuj(IteratorKandydatow it) {
         Kandydat kand, wynik = it.next();
-        int maks = policzKombinacjeLiniowa(wynik);
+        int maks = policzKombinacjeLiniowa(wynik, wagi);
         int policzona_komb;
 
         while (it.hasNext()) {
             kand = it.next();
-            policzona_komb = policzKombinacjeLiniowa(kand);
+            policzona_komb = policzKombinacjeLiniowa(kand, wagi);
             if (policzona_komb > maks) {
                 wynik = kand;
                 maks = policzona_komb;
             }
         }
-        return wynik.otrzymajGlos();
+        return wynik;
+    }
+
+    private void modyfikujTablice(Dzialanie dzial, int[] tablica) {
+        for (int i = 0; i < tablica.length; i++) {
+            tablica[i] = Math.min(Math.max(tablica[i] + dzial.getZmiana(i), -100), 100);
+        }
     }
 
     @Override
     public void modyfikujWagi(Dzialanie dzial) {
-        // tu faktycznie jakas tresc
+        modyfikujTablice(dzial, wagi);
+        /*System.out.println("Modyfikuje wagi!"); */
+    }
+
+    @Override
+    public int oIleZwiekszySumeKombinacjiCechKandydatowPartii(Dzialanie dzial, IteratorKandydatow it) {
+        int wynik = 0;
+        int[] symmulowaneWagi = wagi.clone();
+        modyfikujTablice(dzial, symmulowaneWagi);
+        while (it.hasNext()) {
+            wynik += policzKombinacjeLiniowa(it.next(), symmulowaneWagi);
+        }
+        return wynik;
     }
 }
 
@@ -100,8 +123,8 @@ class ZelaznyPartyjny extends Wyborca {
         this.nazwaPartii = nazwaPartii;
     }
     public Kandydat glosuj() {
-        int losowyNr = (new Random()).nextInt(okrag.liczbaWyborcow / 10);
-        return okrag.getKandydat(nazwaPartii, losowyNr).otrzymajGlos();
+        int losowyNr = (new Random(this.hashCode())).nextInt(okrag.wyborcyWScalonym() / 10) + 1;
+        return okrag.getKandydat(nazwaPartii, losowyNr);
     }
 }
 
@@ -114,7 +137,7 @@ class ZelaznyKandydata extends Wyborca {
         this.pozycjaNaLiscie = pozycjaNaLiscie;
     }
     public Kandydat glosuj() {
-        return okrag.getKandydat(nazwaPartii, pozycjaNaLiscie).otrzymajGlos();
+        return okrag.getKandydat(nazwaPartii, pozycjaNaLiscie);
     }
 }
 
@@ -125,7 +148,7 @@ class MinimalizujacyJednocechowy extends Jednocechowy {
         super(imie, nazwisko, okrag, cecha);
     }
     public Kandydat glosuj() {
-        return super.glosuj(okrag.itaratorWszystkichKandydatow(), false).otrzymajGlos();
+        return super.glosuj(okrag.itaratorWszystkichKandydatow(), false);
     }
 }
 
@@ -136,19 +159,19 @@ class MaksymalizujacyJednocechowy extends Jednocechowy {
         super(imie, nazwisko, okrag, cecha);
     }
     public Kandydat glosuj() {
-        return super.glosuj(okrag.itaratorWszystkichKandydatow(), true).otrzymajGlos();
+        return super.glosuj(okrag.itaratorWszystkichKandydatow(), true);
     }
 }
 
 
 
 class Wszechstronny extends WyborcaZWagami {
-    public Wszechstronny(String imie, String nazwisko, OkragWyborczy okrag, ArrayList<Integer> wagi) {
+    public Wszechstronny(String imie, String nazwisko, OkragWyborczy okrag, int[] wagi) {
         super(imie, nazwisko, okrag, wagi);
     }
 
     public Kandydat glosuj() {
-        return super.glosuj(okrag.itaratorWszystkichKandydatow()).otrzymajGlos();
+        return super.glosuj(okrag.itaratorWszystkichKandydatow());
     }
 }
 
@@ -164,7 +187,7 @@ class MinimalizujacyJednocechowyPartia extends Jednocechowy implements WyborcaPa
         return nazwaPartii;
     }
     public Kandydat glosuj() {
-        return super.glosuj(okrag.iteratorKandydatowPartii(nazwaPartii), false).otrzymajGlos();
+        return super.glosuj(okrag.iteratorKandydatowPartii(nazwaPartii), false);
     }
 }
 
@@ -180,7 +203,7 @@ class MaksymalizujacyJednocechowyPartia extends Jednocechowy implements WyborcaP
         return nazwaPartii;
     }
     public Kandydat glosuj() {
-        return super.glosuj(okrag.iteratorKandydatowPartii(nazwaPartii), true).otrzymajGlos();
+        return super.glosuj(okrag.iteratorKandydatowPartii(nazwaPartii), true);
     }
 }
 
@@ -188,7 +211,7 @@ class MaksymalizujacyJednocechowyPartia extends Jednocechowy implements WyborcaP
 
 class WszechstronnyPartia extends WyborcaZWagami implements WyborcaPartii {
     private final String nazwaPartii;
-    public WszechstronnyPartia(String imie, String nazwisko, OkragWyborczy okrag, ArrayList<Integer> wagi, String nazwaPartii) {
+    public WszechstronnyPartia(String imie, String nazwisko, OkragWyborczy okrag, int[] wagi, String nazwaPartii) {
         super(imie, nazwisko, okrag, wagi);
         this.nazwaPartii = nazwaPartii;
     }
@@ -196,7 +219,7 @@ class WszechstronnyPartia extends WyborcaZWagami implements WyborcaPartii {
         return nazwaPartii;
     }
     public Kandydat glosuj() {
-        return super.glosuj(okrag.iteratorKandydatowPartii(nazwaPartii)).otrzymajGlos();
+        return super.glosuj(okrag.iteratorKandydatowPartii(nazwaPartii));
     }
     
 }

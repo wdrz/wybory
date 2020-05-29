@@ -4,7 +4,7 @@ import java.io.FileNotFoundException;
 
 public class Main {
     public static void main(String args[]) throws FileNotFoundException, IncorrectInputException {
-        Input in = new Input("wybory/" + "test1.in");
+        Input in = new Input("test2.txt");
         Bajtocja baj = in.wczytaj();
         baj.przeprowadzKampanie();
         baj.przeprowadzGlosowanieIWypisz();
