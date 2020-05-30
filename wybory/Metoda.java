@@ -4,9 +4,8 @@ import java.util.Arrays;
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Set;
-import java.util.function.Function;
 
-public abstract class Metoda {
+abstract class Metoda {
     protected Map<String, Integer> liczbaMandatow;
     protected final int liczbaPartii;
 
@@ -52,31 +51,25 @@ abstract class MetodaZIlorazem extends Metoda {
         super(listaNazwPartii);
     }
 
-    protected void zamienNaMandaty(OkragWyborczy okrag, Map<String, Integer> wyniki, Function<Integer, Integer> ntymianownikIlorazu) {
+    abstract protected int ntymianownikIlorazu(int n);
+
+    public void zamienNaMandaty(OkragWyborczy okrag, Map<String, Integer> wyniki) {
         IlorazWyborczy[] ilorazy = new IlorazWyborczy[(okrag.wyborcyWScalonym() / 10) * liczbaPartii];
         int index = 0;
-        // Utworzenie tablicy ilorazow wyborczych
         for (String partia : wyniki.keySet()) {
             for (int n = 1; n <= okrag.wyborcyWScalonym() / 10; n++) {
-                ilorazy[index] = new IlorazWyborczy(wyniki.get(partia), ntymianownikIlorazu.apply(n), partia);
+                ilorazy[index] = new IlorazWyborczy(wyniki.get(partia), ntymianownikIlorazu(n), partia);
                 index++;
             }
         }
-        // odczytanie najwiekszych ilorazow
-        Arrays.sort(ilorazy);
-        
-        /*System.out.println("DEBUG");
-        for (int i = 0; i < (okrag.wyborcyWScalonym() / 10) * liczbaPartii ; i++) {
-            System.out.println((float) ilorazy[i].licznik / (float) ilorazy[i].mianownik);
 
-        } */
+        Arrays.sort(ilorazy);
 
         for (int i = 0; i < okrag.wyborcyWScalonym() / 10; i++) {
             liczbaMandatow.replace(ilorazy[i].nazwaPartii, 
                 liczbaMandatow.get(
                     ilorazy[i].nazwaPartii) + 1);
         }
-        /*super.wypiszWyniki();*/
     }
 }
 
@@ -85,10 +78,10 @@ class MetodaDHondta extends MetodaZIlorazem {
         super(listaNazwPartii);
     }
 
-    public void zamienNaMandaty(OkragWyborczy okrag, Map<String, Integer> wyniki) {
-        Function<Integer, Integer> ntyMianownikIlorazu = e -> e;
-        super.zamienNaMandaty(okrag, wyniki, ntyMianownikIlorazu);
+    protected int ntymianownikIlorazu(int n) {
+        return n;
     }
+
     @Override 
     public String toString() {
         return "Metoda D'Hondta";
@@ -101,10 +94,10 @@ class MetodaSainteLague extends MetodaZIlorazem {
         super(listaNazwPartii);
     }
 
-    public void zamienNaMandaty(OkragWyborczy okrag, Map<String, Integer> wyniki) {
-        Function<Integer, Integer> ntyMianownikIlorazu = e -> 2 * e - 1;
-        super.zamienNaMandaty(okrag, wyniki, ntyMianownikIlorazu);
+    protected int ntymianownikIlorazu(int n) {
+        return 2 * n - 1;
     }
+
     @Override 
     public String toString() {
         return "Metoda Sainte-Lague";
@@ -131,18 +124,11 @@ class MetodaHareaNiemeyera extends Metoda {
         }
         Arrays.sort(ilorazy);
 
-        /*
-        System.out.println("DEBUG");
-        for (int i = 0; i < (okrag.wyborcyWScalonym() / 10) * liczbaPartii ; i++) {
-            System.out.println((float) ilorazy[i].licznik / (float) ilorazy[i].mianownik);
-
-        } */
-
         for (int i = 0; i < okrag.wyborcyWScalonym() / 10 - liczbaRozdzielonych; i++) {
             liczbaMandatow.replace(ilorazy[i].nazwaPartii, 
                 liczbaMandatow.get(ilorazy[i].nazwaPartii) + 1);
         }
-        /*super.wypiszWyniki();*/
+
     }
     @Override 
     public String toString() {

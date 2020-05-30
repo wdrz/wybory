@@ -2,24 +2,6 @@ package wybory;
 
 import java.util.Iterator;
 
-class DzialanieNaOkregu {
-    public final Dzialanie dzial;
-    public final OkragWyborczy okreg;
-    public final int koszt;
-    private double wartosc;
-    public DzialanieNaOkregu(Dzialanie dzial, OkragWyborczy okreg) {
-        this.dzial = dzial;
-        this.okreg = okreg;
-        this.koszt = okreg.kosztDzialania(dzial);
-    }
-    public void setWartosc(double wartosc) {
-        this.wartosc = wartosc;
-    }
-    public double getWartosc() {
-        return this.wartosc;
-    }
-}
-
 abstract class Partia {
     public final String nazwaPartii;
     public final int budzet;
@@ -93,7 +75,6 @@ class PartiaWlasna extends Partia {
 
     protected boolean porownaj(DzialanieNaOkregu maks, DzialanieNaOkregu curr) {
         curr.setWartosc((double)curr.okreg.ileWyborcowWszechstronnych(true) / (double)curr.koszt);
-
         return curr.getWartosc() > maks.getWartosc();
     }
 }

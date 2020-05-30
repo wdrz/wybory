@@ -5,7 +5,7 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.Random;
 
-public class Bajtocja {
+class Bajtocja {
     public final int liczbaOkregow, liczbaPartii, liczbaDzialan, liczbaCech, ileScalonych;
     private Map<String, Partia> listaPartii;
 

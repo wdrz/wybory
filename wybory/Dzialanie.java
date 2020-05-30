@@ -1,6 +1,6 @@
 package wybory;
 
-public class Dzialanie {
+class Dzialanie {
     private final int[] zmianaCech;
     public final int kosztPerCapita;
 

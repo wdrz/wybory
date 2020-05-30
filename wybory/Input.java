@@ -10,7 +10,7 @@ import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class Input {
+class Input {
 
     private final Scanner in;
 
@@ -47,8 +47,10 @@ public class Input {
 
     private Map<String, Partia> wczytajPartie(int liczbaPartii) throws IncorrectInputException {
         Map<String, Partia> listaPartii = new LinkedHashMap<String, Partia>();
+        
         String[] nazwy = new String[liczbaPartii];
         int[] budzety = new int[liczbaPartii];
+
         for (int i = 0; i < liczbaPartii; i++)
             nazwy[i] = in.next();
 
@@ -58,8 +60,10 @@ public class Input {
         String symbol;
         for (int i = 0; i < liczbaPartii; i++) {
             symbol = in.next();
+
             if (symbol.length() != 1) 
                 throw new IncorrectInputException("Strategia powinna być pojedynczym znakiem");
+
             switch (symbol.charAt(0)) {
                 case 'R':
                     listaPartii.put(nazwy[i], new PartiaZRozmachem(nazwy[i], budzety[i]));
@@ -82,6 +86,7 @@ public class Input {
 
     private OkragWyborczy[] wczytajOkregiWyborcze(int liczbaOkregow, int liczbaPartii) throws IncorrectInputException {
         OkragWyborczy[] okregi = new OkragWyborczy[liczbaOkregow];
+
         for (int i = 0; i < liczbaOkregow; i++) {
             okregi[i] = new OkragWyborczy(i + 1, liczbaPartii, in.nextInt());
         }
@@ -91,6 +96,7 @@ public class Input {
     private void wczytajListePartyjna(Bajtocja baj, Partia partia, OkragWyborczy okrag) throws IncorrectInputException {
         ArrayList<Kandydat> lista = new ArrayList<Kandydat>(okrag.liczbaWyborcow / 10);
         for (int j = 0; j < okrag.liczbaWyborcow / 10; j++) {
+
             String imie = in.next();
             String nazwisko = in.next();
             int numerOkregu = in.nextInt();
@@ -120,7 +126,9 @@ public class Input {
 
     private void wczytajKandydatow(Bajtocja baj) throws IncorrectInputException {
         for (int i = 1; i <= baj.liczbaOkregow; i++) {
+
             Iterator<Partia> it = baj.getPartiaIterator();
+
             while (it.hasNext()) {
                 wczytajListePartyjna(baj, it.next(), baj.getOkragByNumer(i));
             }
@@ -128,11 +136,12 @@ public class Input {
     }
 
     private int[] wczytajLiczby(int ile) {
-
         int[] liczby = new int[ile];
+
         for (int j = 0; j < ile; j++) {
             liczby[j] = in.nextInt();
         }
+
         return liczby;
     }
 
@@ -186,11 +195,9 @@ public class Input {
 
     public Bajtocja wczytaj() throws IncorrectInputException {
         Bajtocja baj = wczytajBajtocje(); // 1 - 6 wiersz
-
         wczytajKandydatow(baj); // nastepne duzo linii
-        wczytajWyborcow(baj); // nastepne duzo linii // to nie koniec
+        wczytajWyborcow(baj); // nastepne duzo linii
         wczytajDzialania(baj); // kolejne d linii
-
 
         return baj;
     }

@@ -6,7 +6,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Set;
 
-public class OkragWyborczy {
+class OkragWyborczy {
     public final int liczbaWyborcow;
 
     private boolean scalonyZPoprzednim = false;
@@ -145,8 +145,7 @@ public class OkragWyborczy {
         }
     }
 
-    // zwraca mape z wynikami ze scalonego okregu, modyfikuje Metode
-    // oraz pisze na standardowe wyjscie wyniki z tego scalonego okregu
+    // Dopisuje do met wyniki z okregu oraz pisze na standardowe wyjscie wyniki z tego scalonego okregu
     public void glosowanieWScalonymOkregu(Metoda met, Set<String> nazwyPartii) {
         if (scalonyZPoprzednim) return;
 

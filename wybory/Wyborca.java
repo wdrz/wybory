@@ -17,7 +17,7 @@ abstract class Wyborca {
         return 0;
     }
 
-    abstract public Kandydat glosuj();
+    abstract protected Kandydat glosuj();
 
     public Kandydat oddajGlosIwypisz() {
         Kandydat kand = glosuj();
@@ -122,7 +122,7 @@ class ZelaznyPartyjny extends Wyborca {
         super(imie, nazwisko, okrag);
         this.nazwaPartii = nazwaPartii;
     }
-    public Kandydat glosuj() {
+    protected Kandydat glosuj() {
         int losowyNr = (new Random(this.hashCode())).nextInt(okrag.wyborcyWScalonym() / 10) + 1;
         return okrag.getKandydat(nazwaPartii, losowyNr);
     }
@@ -136,7 +136,7 @@ class ZelaznyKandydata extends Wyborca {
         this.nazwaPartii = nazwaPartii;
         this.pozycjaNaLiscie = pozycjaNaLiscie;
     }
-    public Kandydat glosuj() {
+    protected Kandydat glosuj() {
         return okrag.getKandydat(nazwaPartii, pozycjaNaLiscie);
     }
 }
@@ -147,7 +147,7 @@ class MinimalizujacyJednocechowy extends Jednocechowy {
     public MinimalizujacyJednocechowy(String imie, String nazwisko, OkragWyborczy okrag, int cecha) {
         super(imie, nazwisko, okrag, cecha);
     }
-    public Kandydat glosuj() {
+    protected Kandydat glosuj() {
         return super.glosuj(okrag.itaratorWszystkichKandydatow(), false);
     }
 }
@@ -158,7 +158,7 @@ class MaksymalizujacyJednocechowy extends Jednocechowy {
     public MaksymalizujacyJednocechowy(String imie, String nazwisko, OkragWyborczy okrag, int cecha) {
         super(imie, nazwisko, okrag, cecha);
     }
-    public Kandydat glosuj() {
+    protected Kandydat glosuj() {
         return super.glosuj(okrag.itaratorWszystkichKandydatow(), true);
     }
 }
@@ -170,7 +170,7 @@ class Wszechstronny extends WyborcaZWagami {
         super(imie, nazwisko, okrag, wagi);
     }
 
-    public Kandydat glosuj() {
+    protected Kandydat glosuj() {
         return super.glosuj(okrag.itaratorWszystkichKandydatow());
     }
 }
@@ -186,7 +186,7 @@ class MinimalizujacyJednocechowyPartia extends Jednocechowy implements WyborcaPa
     public String getNazwaPartii() {
         return nazwaPartii;
     }
-    public Kandydat glosuj() {
+    protected Kandydat glosuj() {
         return super.glosuj(okrag.iteratorKandydatowPartii(nazwaPartii), false);
     }
 }
@@ -202,7 +202,7 @@ class MaksymalizujacyJednocechowyPartia extends Jednocechowy implements WyborcaP
     public String getNazwaPartii() {
         return nazwaPartii;
     }
-    public Kandydat glosuj() {
+    protected Kandydat glosuj() {
         return super.glosuj(okrag.iteratorKandydatowPartii(nazwaPartii), true);
     }
 }
@@ -218,7 +218,7 @@ class WszechstronnyPartia extends WyborcaZWagami implements WyborcaPartii {
     public String getNazwaPartii() {
         return nazwaPartii;
     }
-    public Kandydat glosuj() {
+    protected Kandydat glosuj() {
         return super.glosuj(okrag.iteratorKandydatowPartii(nazwaPartii));
     }
     

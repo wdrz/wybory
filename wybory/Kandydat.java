@@ -1,6 +1,6 @@
 package wybory;
 
-public class Kandydat {
+class Kandydat {
     public final String imie, nazwisko, nazwaPartii;
     public final int numerOkregu, pozycjaNaLiscie;
     private int[] cechy;
